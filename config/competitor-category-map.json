@@ -1,0 +1,31 @@
+{
+  "use_case_map": {
+    "Core": "Agents & Automation",
+    "Context & Search": "Research & Search",
+    "Input & Editing": "Documents & Office",
+    "UI & Experience": "Developer Experience",
+    "IDE & Clients": "Developer Experience",
+    "Browser & Remote": "Browser & Web",
+    "Models & Inference": "Image & Design",
+    "Git & Engineering": "Coding & Development",
+    "Output & Deliverables": "Writing & Content",
+    "Notifications & Channels": "Communication",
+    "Fun & Lifestyle": "Video & Audio",
+    "Infrastructure & Development": "Coding & Development",
+    "Science & Research": "Research & Search"
+  },
+  "minimum_display": 5,
+  "target_display": 10,
+  "maximum_display": 20,
+  "popular_weights": {
+    "stars": 0.7,
+    "star_gain_3d": 0.2,
+    "growth_rate_3d": 0.1
+  },
+  "conflict_resolution": "description_topics_then_keywords",
+  "source_priority": [
+    "0xsline",
+    "awesome-dsh-plugin",
+    "libukai"
+  ]
+}

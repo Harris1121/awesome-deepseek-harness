@@ -1,0 +1,51 @@
+name: Seed & Classify DSH Projects V2.3.1
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Update DSH Rankings"]
+    types: [completed]
+
+concurrency:
+  group: classify-dsh-v231
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  classify:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: Checkout latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Read competitor categories
+        run: python3 -u scripts/seed_competitor_categories.py
+
+      - name: Classify with competitor-first logic
+        run: python3 -u scripts/classify_v231.py
+
+      - name: Render 3-day star-first rankings
+        run: python3 -u scripts/render_v231.py
+
+      - name: Commit generated classification
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md data/competitor-categories.json data/categories.json
+
+          if git diff --cached --quiet; then
+            echo "No classification changes."
+          else
+            git commit -m "feat: switch rankings from 7d to 3d growth"
+            git pull --rebase origin main
+            git push origin main
+          fi
