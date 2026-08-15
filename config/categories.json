@@ -1,0 +1,352 @@
+{
+  "min_projects_per_category": 5,
+  "target_projects_per_category": 10,
+  "max_projects_per_category": 20,
+  "categories": [
+    {
+      "id": "coding-development",
+      "name": "Coding & Development",
+      "emoji": "💻",
+      "keywords": [
+        "code",
+        "coding",
+        "developer",
+        "development",
+        "git",
+        "github",
+        "review",
+        "test",
+        "testing",
+        "debug",
+        "debugging",
+        "programming",
+        "compiler",
+        "terminal",
+        "shell",
+        "devops",
+        "deploy"
+      ]
+    },
+    {
+      "id": "research-search",
+      "name": "Research & Search",
+      "emoji": "🔎",
+      "keywords": [
+        "research",
+        "search",
+        "web search",
+        "deep research",
+        "rag",
+        "retrieval",
+        "knowledge",
+        "papers",
+        "academic",
+        "arxiv",
+        "news"
+      ]
+    },
+    {
+      "id": "writing-content",
+      "name": "Writing & Content",
+      "emoji": "✍️",
+      "keywords": [
+        "write",
+        "writing",
+        "writer",
+        "article",
+        "blog",
+        "content",
+        "copywriting",
+        "report",
+        "markdown",
+        "summarize",
+        "summary",
+        "translation",
+        "translate"
+      ]
+    },
+    {
+      "id": "image-design",
+      "name": "Image & Design",
+      "emoji": "🎨",
+      "keywords": [
+        "image",
+        "vision",
+        "ocr",
+        "design",
+        "figma",
+        "canvas",
+        "drawing",
+        "diagram",
+        "ui design",
+        "graphic",
+        "screenshot"
+      ]
+    },
+    {
+      "id": "video-audio",
+      "name": "Video & Audio",
+      "emoji": "🎬",
+      "keywords": [
+        "video",
+        "audio",
+        "ffmpeg",
+        "subtitle",
+        "caption",
+        "speech",
+        "tts",
+        "voice",
+        "music",
+        "youtube",
+        "podcast",
+        "media",
+        "transcription"
+      ]
+    },
+    {
+      "id": "browser-web",
+      "name": "Browser & Web",
+      "emoji": "🌐",
+      "keywords": [
+        "browser",
+        "chrome",
+        "web",
+        "website",
+        "playwright",
+        "puppeteer",
+        "selenium",
+        "scrape",
+        "crawler",
+        "remote browser"
+      ]
+    },
+    {
+      "id": "memory-context",
+      "name": "Memory & Context",
+      "emoji": "🧠",
+      "keywords": [
+        "memory",
+        "context",
+        "session",
+        "history",
+        "knowledge base",
+        "conversation",
+        "cache",
+        "checkpoint"
+      ]
+    },
+    {
+      "id": "agents-automation",
+      "name": "Agents & Automation",
+      "emoji": "🤖",
+      "keywords": [
+        "agent",
+        "agents",
+        "workflow",
+        "automation",
+        "subagent",
+        "multi-agent",
+        "orchestration",
+        "scheduler",
+        "cron",
+        "task"
+      ]
+    },
+    {
+      "id": "data-analytics",
+      "name": "Data & Analytics",
+      "emoji": "📊",
+      "keywords": [
+        "data",
+        "analytics",
+        "database",
+        "sql",
+        "postgres",
+        "mysql",
+        "sqlite",
+        "csv",
+        "excel",
+        "chart",
+        "visualization",
+        "analysis"
+      ]
+    },
+    {
+      "id": "documents-office",
+      "name": "Documents & Office",
+      "emoji": "📄",
+      "keywords": [
+        "pdf",
+        "docx",
+        "document",
+        "office",
+        "word",
+        "excel",
+        "powerpoint",
+        "pptx",
+        "spreadsheet",
+        "file",
+        "files"
+      ]
+    },
+    {
+      "id": "communication",
+      "name": "Communication",
+      "emoji": "💬",
+      "keywords": [
+        "slack",
+        "telegram",
+        "discord",
+        "wechat",
+        "feishu",
+        "lark",
+        "email",
+        "gmail",
+        "notification",
+        "message",
+        "messaging",
+        "channel"
+      ]
+    },
+    {
+      "id": "developer-experience",
+      "name": "Developer Experience",
+      "emoji": "🛠",
+      "keywords": [
+        "desktop",
+        "tui",
+        "cli",
+        "ide",
+        "vscode",
+        "client",
+        "frontend",
+        "theme",
+        "ui",
+        "interface",
+        "plugin manager",
+        "marketplace"
+      ]
+    }
+  ],
+  "types": [
+    {
+      "id": "plugin",
+      "keywords": [
+        "plugin",
+        "dsh-plugin",
+        "extension"
+      ]
+    },
+    {
+      "id": "skill",
+      "keywords": [
+        "skill",
+        "skills"
+      ]
+    },
+    {
+      "id": "desktop",
+      "keywords": [
+        "desktop",
+        "electron",
+        "macos",
+        "windows"
+      ]
+    },
+    {
+      "id": "tui",
+      "keywords": [
+        "tui",
+        "terminal ui"
+      ]
+    },
+    {
+      "id": "web",
+      "keywords": [
+        "web ui",
+        "webui",
+        "website",
+        "frontend"
+      ]
+    },
+    {
+      "id": "integration",
+      "keywords": [
+        "integration",
+        "connector",
+        "mcp"
+      ]
+    },
+    {
+      "id": "guide",
+      "keywords": [
+        "guide",
+        "tutorial",
+        "handbook",
+        "awesome",
+        "cookbook",
+        "book"
+      ]
+    },
+    {
+      "id": "tool",
+      "keywords": [
+        "tool",
+        "tools",
+        "utility"
+      ]
+    }
+  ],
+  "competitor_category_hints": {
+    "Core": {
+      "agents-automation": 3,
+      "developer-experience": 2
+    },
+    "Context & Search": {
+      "research-search": 4,
+      "memory-context": 4
+    },
+    "Input & Editing": {
+      "documents-office": 3,
+      "writing-content": 2
+    },
+    "UI & Experience": {
+      "developer-experience": 4,
+      "image-design": 2
+    },
+    "IDE & Clients": {
+      "developer-experience": 5,
+      "coding-development": 2
+    },
+    "Browser & Remote": {
+      "browser-web": 5
+    },
+    "Models & Inference": {
+      "image-design": 2,
+      "agents-automation": 1
+    },
+    "Git & Engineering": {
+      "coding-development": 5
+    },
+    "Output & Deliverables": {
+      "writing-content": 3,
+      "documents-office": 3,
+      "video-audio": 1
+    },
+    "Notifications & Channels": {
+      "communication": 5
+    },
+    "Fun & Lifestyle": {
+      "video-audio": 1,
+      "image-design": 1
+    },
+    "Infrastructure & Development": {
+      "coding-development": 3,
+      "developer-experience": 3
+    },
+    "Science & Research": {
+      "research-search": 5,
+      "data-analytics": 2
+    }
+  }
+}
