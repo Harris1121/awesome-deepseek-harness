@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T05:19:27.548463+00:00",
+  "generated_at": "2026-08-15T06:49:24.590175+00:00",
   "projects": {
     "01Virex/dsh-status-rotator": {
       "stars": 8,
@@ -27,15 +27,15 @@
       "forks": 0
     },
     "0xsline/awesome-deepseek-harness": {
-      "stars": 419,
-      "forks": 139
+      "stars": 430,
+      "forks": 144
     },
     "0xsline/dsh-spotlight": {
       "stars": 5,
       "forks": 0
     },
     "121103qwq/dsh-vision-sidecar": {
-      "stars": 4,
+      "stars": 5,
       "forks": 0
     },
     "131CDA1/dsh-scrape-webpage": {
@@ -48,7 +48,7 @@
     },
     "147228/dsh-xiaoyao-skins": {
       "stars": 19,
-      "forks": 1
+      "forks": 2
     },
     "1475505/dsh-plugin-miliastra-toolbox": {
       "stars": 2,
@@ -75,7 +75,7 @@
       "forks": 0
     },
     "1841220388zzzcccxxx-star/dsh-git-graph": {
-      "stars": 6,
+      "stars": 7,
       "forks": 0
     },
     "1HelloMan1/dsh-stats-dashboard": {
@@ -138,20 +138,24 @@
       "stars": 23,
       "forks": 1
     },
-    "AHGGG/dsh-side-chat": {
-      "stars": 6,
+    "a903067276-rgb/dsh-file-mentions": {
+      "stars": 1,
       "forks": 1
     },
-    "AKIRACOD/dsh-drag-and-drop": {
-      "stars": 1,
+    "a903067276-rgb/dsh-hud": {
+      "stars": 2,
       "forks": 0
     },
-    "AMAP-ML/LongHorizon-Harness": {
-      "stars": 718,
-      "forks": 85
+    "aaravarr/dsh-subagent-max": {
+      "stars": 4,
+      "forks": 0
     },
     "Abyss-Seeker/dsh-plugin-working-status": {
-      "stars": 4,
+      "stars": 6,
+      "forks": 0
+    },
+    "acefun29/dsh-file-mount": {
+      "stars": 3,
       "forks": 0
     },
     "AcidGr/dsh-web-lan-access": {
@@ -166,1916 +170,16 @@
       "stars": 3,
       "forks": 0
     },
+    "acnlabs/dsh-plugin-acn": {
+      "stars": 2,
+      "forks": 0
+    },
     "AdamPlatin123/awesome-dsh-plugins": {
-      "stars": 877,
-      "forks": 71
+      "stars": 887,
+      "forks": 73
     },
     "Adkid-Zephyr/Liltloom": {
       "stars": 3,
-      "forks": 0
-    },
-    "Aik358/dsh-auto-memory": {
-      "stars": 4,
-      "forks": 0
-    },
-    "Alex-Yanggg/awesome-DSH-plugin": {
-      "stars": 56,
-      "forks": 43
-    },
-    "AlliotTech/deepseek-harness-docker": {
-      "stars": 5,
-      "forks": 0
-    },
-    "AnacondaKC/dsh-douyin": {
-      "stars": 2,
-      "forks": 0
-    },
-    "AnacondaKC/dsh-stock-market": {
-      "stars": 11,
-      "forks": 3
-    },
-    "Andy8647/dsh-auto-approval": {
-      "stars": 2,
-      "forks": 0
-    },
-    "AngelosZou/graphlint": {
-      "stars": 4,
-      "forks": 1
-    },
-    "Anionex/agent-vision-toolkit": {
-      "stars": 851,
-      "forks": 30
-    },
-    "Anionex/dsh-computer-use": {
-      "stars": 18,
-      "forks": 3
-    },
-    "Anionex/dsh-suggested-replies": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Anionex/dsh-turn-rewind": {
-      "stars": 44,
-      "forks": 1
-    },
-    "Anionex/dsh-vision-toolkit": {
-      "stars": 362,
-      "forks": 18
-    },
-    "AnothetLoice/dsh-hotplug-engine": {
-      "stars": 2,
-      "forks": 0
-    },
-    "ArcanePivot/dsh-api-balance": {
-      "stars": 5,
-      "forks": 0
-    },
-    "Areium/dsh-fail-logger": {
-      "stars": 7,
-      "forks": 1
-    },
-    "Argonaut790/dsh-deepseek-vision": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Ariestar/sivtr": {
-      "stars": 131,
-      "forks": 18
-    },
-    "Asaiuta/dsh-session-hub": {
-      "stars": 3,
-      "forks": 1
-    },
-    "AtlasCloudAI/atlas-cloud-skills": {
-      "stars": 21,
-      "forks": 3
-    },
-    "AtlasCloudAI/mcp-server": {
-      "stars": 5,
-      "forks": 1
-    },
-    "Auran-Lu/dsh-client-ui-monitor": {
-      "stars": 3,
-      "forks": 0
-    },
-    "AwesomeHou/dsh-plugin-marketplace": {
-      "stars": 5,
-      "forks": 1
-    },
-    "Awu12277/dsh-stock-watch": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Axiaohungry/dsh-llm-codebuddy": {
-      "stars": 7,
-      "forks": 0
-    },
-    "Ayase34/gal-view": {
-      "stars": 24,
-      "forks": 0
-    },
-    "BeiZi6/dsh-opencodego-usage": {
-      "stars": 2,
-      "forks": 0
-    },
-    "BeiZi6/dsh-theme-plugin": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Bernardxu123/dsh-mobile-gate": {
-      "stars": 1,
-      "forks": 0
-    },
-    "BiBoyang/dsh-eval-harness": {
-      "stars": 4,
-      "forks": 1
-    },
-    "BiBoyang/dsh-im-bridge": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Bin-hy/dsh": {
-      "stars": 10,
-      "forks": 0
-    },
-    "BingChanCN/fabric": {
-      "stars": 2,
-      "forks": 1
-    },
-    "Blaczz/dsh-deck-builder": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Blaczz/dsh-sci": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Blaczz/dsh-soundscape": {
-      "stars": 2,
-      "forks": 0
-    },
-    "BlockRunAI/dsh-clawrouter": {
-      "stars": 9,
-      "forks": 1
-    },
-    "BrambleXu/dsh-annotate": {
-      "stars": 5,
-      "forks": 0
-    },
-    "BrambleXu/dsh-prompt-profile": {
-      "stars": 1,
-      "forks": 0
-    },
-    "BrambleXu/dsh-revdiff": {
-      "stars": 2,
-      "forks": 0
-    },
-    "BruceWu1126/dsh-web-background": {
-      "stars": 2,
-      "forks": 0
-    },
-    "BruzWJ/Liang-Saint-Slider": {
-      "stars": 34,
-      "forks": 1
-    },
-    "Buyi-wsgzg/dsh-sidechain": {
-      "stars": 6,
-      "forks": 0
-    },
-    "CAOGGL/dsh-ding": {
-      "stars": 1,
-      "forks": 0
-    },
-    "CAPTAIN1275/dsh-ui-web": {
-      "stars": 3,
-      "forks": 1
-    },
-    "CCMu04/DSHDesktop": {
-      "stars": 21,
-      "forks": 1
-    },
-    "CH4ACKO3/dsh-harmony": {
-      "stars": 4,
-      "forks": 0
-    },
-    "CH4ACKO3/dsh-ui-workspace": {
-      "stars": 2,
-      "forks": 0
-    },
-    "CZX2244/dsh-bilibili": {
-      "stars": 3,
-      "forks": 0
-    },
-    "CanglongCl/dsh-web-review": {
-      "stars": 14,
-      "forks": 0
-    },
-    "CaoNing3212/dsh-plugin-deepseek-balance": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Cassius0924/dsh-usage-dashboard": {
-      "stars": 4,
-      "forks": 1
-    },
-    "Cavan-Ou/dsh-observation-journal": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Cavan-Ou/hermes-dsh-collab": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Ceelog/dsh-plugins": {
-      "stars": 4,
-      "forks": 1
-    },
-    "Ch0uHuaZ1/DeepSeek-Harness-Desktop": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Chang-Tong/dsh-import-agents": {
-      "stars": 6,
-      "forks": 0
-    },
-    "ChenChen913/dsh-session-cleaner-cli": {
-      "stars": 0,
-      "forks": 0
-    },
-    "ChenLaoshiYF/dsh-mcpguard": {
-      "stars": 1,
-      "forks": 0
-    },
-    "ChenRuoT/dsh-sidebar-qa": {
-      "stars": 6,
-      "forks": 0
-    },
-    "ChengChe106/dsh-session-cost": {
-      "stars": 3,
-      "forks": 0
-    },
-    "ChenyuHeee/dsh-browser-playwright": {
-      "stars": 3,
-      "forks": 0
-    },
-    "CherryHQ/cherry-studio": {
-      "stars": 50488,
-      "forks": 4781
-    },
-    "CheshireJCat/blender": {
-      "stars": 6,
-      "forks": 0
-    },
-    "Chhlafiu4312/citeguard": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Chhlafiu4312/promptwall": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Chinesezjc/dsh-interconnect": {
-      "stars": 26,
-      "forks": 2
-    },
-    "ChisaAlter/Deepseek-Harness-Desktop": {
-      "stars": 70,
-      "forks": 7
-    },
-    "ChuanTianML/dsh-island": {
-      "stars": 0,
-      "forks": 0
-    },
-    "Civitasv/dsh-plugin-colorscheme": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Civitasv/dsh-plugin-diff-review": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Civitasv/dsh-plugin-open-editor": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Clizo1209/dsh-playwright-browser": {
-      "stars": 7,
-      "forks": 0
-    },
-    "ConsoleSun/Gemini-Eyes": {
-      "stars": 1,
-      "forks": 0
-    },
-    "DDDFXYqiming/Agent_Extensions": {
-      "stars": 5,
-      "forks": 1
-    },
-    "DDDMUC/dsh-free-search": {
-      "stars": 2,
-      "forks": 0
-    },
-    "DEEP-IOS/dsh-humanizer": {
-      "stars": 4,
-      "forks": 0
-    },
-    "DGPisces/dsh-openai-oauth": {
-      "stars": 5,
-      "forks": 0
-    },
-    "DViridescent/dafy-whale-theme": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Da-Mie/dsh-beacons": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Dasooul03/dsh-plugin-deepseek-pricing": {
-      "stars": 4,
-      "forks": 0
-    },
-    "Dbi-Eshuh/dsh-thinking-status-customizer": {
-      "stars": 4,
-      "forks": 1
-    },
-    "DeKrych/Dshell-plugins": {
-      "stars": 27,
-      "forks": 8
-    },
-    "DeepTrial/dsh-bash-rtk": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Degurechaff57/dsh-openapi": {
-      "stars": 4,
-      "forks": 0
-    },
-    "Devin-AXIS/iPolloWork": {
-      "stars": 4042,
-      "forks": 812
-    },
-    "DfsyJian/dsh-snapshot": {
-      "stars": 3,
-      "forks": 0
-    },
-    "DietCokewithSugar/dsh-user-experience": {
-      "stars": 18,
-      "forks": 0
-    },
-    "DoggyHU/dsh4vscode": {
-      "stars": 3,
-      "forks": 1
-    },
-    "Dominic789654/awesome-deepseek-harness": {
-      "stars": 35,
-      "forks": 17
-    },
-    "Dpf555/dsh-workbench": {
-      "stars": 6,
-      "forks": 1
-    },
-    "Easyhoov/deepseek-harness-desktop": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Edge-Echo/dsh-mcp-bridge": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Einskyle/dsh-llm-vision-bridge": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Electricitysheep/dsh-handbook": {
-      "stars": 234,
-      "forks": 5
-    },
-    "Electricitysheep/dsh-tool-turbo": {
-      "stars": 4,
-      "forks": 0
-    },
-    "Ericwong5021/deepseek-plugin-store": {
-      "stars": 12,
-      "forks": 1
-    },
-    "Estellalee/dsh-outdoor-theme": {
-      "stars": 3,
-      "forks": 0
-    },
-    "EvilIrving/dsh-context-proxy": {
-      "stars": 0,
-      "forks": 0
-    },
-    "EvilIrving/dsh-proof": {
-      "stars": 1,
-      "forks": 0
-    },
-    "EvilIrving/dsh-repro": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Favio8/dsh-plugin-deepeye": {
-      "stars": 4,
-      "forks": 0
-    },
-    "FengHuoLinShan/dsh-plugin-llm-balance": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Fisfzy/ego-browser": {
-      "stars": 13,
-      "forks": 2
-    },
-    "Fisfzy/zotero-harvest": {
-      "stars": 5,
-      "forks": 0
-    },
-    "Fishquito7/dsh-skill-viewer": {
-      "stars": 30,
-      "forks": 4
-    },
-    "Fishsb/dsh-prompt-enhancer": {
-      "stars": 3,
-      "forks": 0
-    },
-    "FlashingChen/dsh-worktree": {
-      "stars": 4,
-      "forks": 0
-    },
-    "FleetingEcho/dsh-handoff": {
-      "stars": 0,
-      "forks": 0
-    },
-    "FlytoMAYDAY80/dsh-pet": {
-      "stars": 9,
-      "forks": 0
-    },
-    "Flyvhidbwo/dsh-vision-proxy": {
-      "stars": 7,
-      "forks": 1
-    },
-    "Francis-Xavier-code/dsh-balance-plugin": {
-      "stars": 5,
-      "forks": 1
-    },
-    "Fro2en12/dsh-download-progress": {
-      "stars": 1,
-      "forks": 0
-    },
-    "FuRongJun-1999/dsh-memory": {
-      "stars": 1,
-      "forks": 0
-    },
-    "GIT121995/dsh-memory-gate": {
-      "stars": 2,
-      "forks": 0
-    },
-    "GLFzr/dsh-drop-file-to-path": {
-      "stars": 3,
-      "forks": 0
-    },
-    "GLFzr/dsh-hermes-memory-bridge": {
-      "stars": 2,
-      "forks": 0
-    },
-    "GLFzr/dsh-opencode-go-quota": {
-      "stars": 4,
-      "forks": 0
-    },
-    "GanyuanRan/Aegis": {
-      "stars": 1006,
-      "forks": 46
-    },
-    "GengDaPeng/dsh-agent-message": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Ghost011118/dsh-balance-meter": {
-      "stars": 13,
-      "forks": 1
-    },
-    "GiantGKL/dsh-cost": {
-      "stars": 3,
-      "forks": 0
-    },
-    "GoalfyAI/goalfydata": {
-      "stars": 9,
-      "forks": 0
-    },
-    "GongYuanCaiJi/dsh-simplify": {
-      "stars": 3,
-      "forks": 0
-    },
-    "GooodWei/arcana": {
-      "stars": 2,
-      "forks": 0
-    },
-    "GooodWei/context-vista": {
-      "stars": 4,
-      "forks": 1
-    },
-    "GuoMonth/dsh-multi-tenant": {
-      "stars": 3,
-      "forks": 0
-    },
-    "H1a3x/dsh-token-stats": {
-      "stars": 5,
-      "forks": 0
-    },
-    "HOFO-GYG/dsh-quote-reply": {
-      "stars": 3,
-      "forks": 0
-    },
-    "HackSing/dsh-plugins": {
-      "stars": 4,
-      "forks": 3
-    },
-    "Hakunm/dsh-workspace": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Han-1413141/dsh-cost-meter": {
-      "stars": 12,
-      "forks": 0
-    },
-    "Han-1413141/dsh-sticky-disclosure": {
-      "stars": 2,
-      "forks": 0
-    },
-    "HanaAyane/dsh-reasoning-effort": {
-      "stars": 6,
-      "forks": 0
-    },
-    "HaoyueQin/deepseek-harness-desktop": {
-      "stars": 2,
-      "forks": 0
-    },
-    "HarcoChen/dsh-vsc-integration": {
-      "stars": 4,
-      "forks": 1
-    },
-    "HeiGeAi/deepseek-harness-skin": {
-      "stars": 27,
-      "forks": 2
-    },
-    "HenryZ838978/deepseek-harness": {
-      "stars": 38,
-      "forks": 6
-    },
-    "Heyflyingpig/long-draft-input": {
-      "stars": 3,
-      "forks": 0
-    },
-    "HiWhaleW/dsh-toolbox": {
-      "stars": 26,
-      "forks": 0
-    },
-    "Highjobop/dsh-gadgets": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Hilbert-beinghappy/seektty": {
-      "stars": 4,
-      "forks": 1
-    },
-    "Hoshino-Yumetsuki/dsh-onebot": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Hotsteel2901/dsh-client-ui-mobile-adapt": {
-      "stars": 7,
-      "forks": 0
-    },
-    "HsiangNianian/dsh-auto-continue": {
-      "stars": 12,
-      "forks": 1
-    },
-    "Hu9956/dsh-codex-provider": {
-      "stars": 5,
-      "forks": 0
-    },
-    "HuanLinOTO/dsh-plugin-aigc-canvas": {
-      "stars": 5,
-      "forks": 0
-    },
-    "HuanLinOTO/dsh-plugin-anti-ads": {
-      "stars": 5,
-      "forks": 0
-    },
-    "HuanLinOTO/dsh-plugin-auto-blame": {
-      "stars": 4,
-      "forks": 0
-    },
-    "HuanLinOTO/dsh-plugin-better-sidebar-plugin-office": {
-      "stars": 8,
-      "forks": 0
-    },
-    "HuanLinOTO/dsh-plugin-d399": {
-      "stars": 5,
-      "forks": 0
-    },
-    "HuanLinOTO/dsh-plugin-interpreters": {
-      "stars": 5,
-      "forks": 0
-    },
-    "HuanLinOTO/dsh-plugin-mineru": {
-      "stars": 13,
-      "forks": 1
-    },
-    "HuanLinOTO/dsh-plugin-pet-rs": {
-      "stars": 11,
-      "forks": 1
-    },
-    "HuanLinOTO/dsh-plugin-sleep": {
-      "stars": 5,
-      "forks": 0
-    },
-    "HuanLinOTO/dsh-plugin-spur": {
-      "stars": 3,
-      "forks": 0
-    },
-    "HuanLinOTO/dsh-plugin-ya-workspace-sidebar": {
-      "stars": 6,
-      "forks": 0
-    },
-    "HuanLinOTO/dsh-plugin-yet-another-subagent": {
-      "stars": 6,
-      "forks": 0
-    },
-    "Huang-zhishi/dsh-plugin-call-trace": {
-      "stars": 0,
-      "forks": 0
-    },
-    "Huasfan/dsh-tool-git": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Hyna-hla/harness-remote": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Hyperionjust/dsh-tool-underseal": {
-      "stars": 3,
-      "forks": 0
-    },
-    "IAMLieutenant/dsh-tool-user-memory": {
-      "stars": 3,
-      "forks": 0
-    },
-    "ICCuse/dsh-file-memory": {
-      "stars": 0,
-      "forks": 0
-    },
-    "ICCuse/dsh-knowledge": {
-      "stars": 0,
-      "forks": 0
-    },
-    "ICCuse/dsh-pain-point-check": {
-      "stars": 1,
-      "forks": 0
-    },
-    "ICCuse/dsh-premise-guard": {
-      "stars": 0,
-      "forks": 0
-    },
-    "Inference1/clarify-intent-and-establish-shared-understanding": {
-      "stars": 21,
-      "forks": 0
-    },
-    "InkWord01/DeepSeekHarness----Desktop": {
-      "stars": 3,
-      "forks": 0
-    },
-    "InklingYoshi584/dsh-tool-hashline": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Jayden-X-L/forkprobe": {
-      "stars": 65,
-      "forks": 3
-    },
-    "Jelee0145/dsh-mem": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Jesse-njx/dsh-chatnode-wechat": {
-      "stars": 1,
-      "forks": 2
-    },
-    "Jesse-njx/dsh-cowork": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Jesse-njx/dsh-crosstalk": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Jesse-njx/dsh-docker": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Jesse-njx/dsh-memory": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Jesse-njx/dsh-plugin-manager": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Jesse-njx/dsh-plugin-manager-registry": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Jesse-njx/dsh-polyglot": {
-      "stars": 1,
-      "forks": 1
-    },
-    "Jesse-njx/dsh-routines": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Jesse-njx/dsh-skillport": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Jesse-njx/dsh-tmuxctl": {
-      "stars": 0,
-      "forks": 0
-    },
-    "Jesse-njx/dsh-voice": {
-      "stars": 0,
-      "forks": 0
-    },
-    "Jiao-XXX/dsh-auto-approve": {
-      "stars": 3,
-      "forks": 1
-    },
-    "JingbiaoMei/Tokdash": {
-      "stars": 54,
-      "forks": 10
-    },
-    "Jolly-J/dsh-deepseek-billing": {
-      "stars": 3,
-      "forks": 0
-    },
-    "JuneLearn/dsh-image2-draw": {
-      "stars": 4,
-      "forks": 1
-    },
-    "JuneLearn/dsh-reasoning-settings": {
-      "stars": 4,
-      "forks": 0
-    },
-    "JustGenius-s/DSH-Desktop": {
-      "stars": 20,
-      "forks": 2
-    },
-    "JustGenius-s/DSH-Plugs": {
-      "stars": 5,
-      "forks": 2
-    },
-    "KAIbsb/dsh-tray": {
-      "stars": 1,
-      "forks": 0
-    },
-    "KYZHXL/deepseek-harness-snowsalt": {
-      "stars": 18,
-      "forks": 0
-    },
-    "KanoNoUta/dsh-captain": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Karbo123/DSH-EvoResearch": {
-      "stars": 4,
-      "forks": 1
-    },
-    "KhalilYamber/dsh-envoy": {
-      "stars": 4,
-      "forks": 1
-    },
-    "KhanZou/Deepseek-Harness-as-Desktop": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Khellendros97/dsh-subscription-auth": {
-      "stars": 4,
-      "forks": 0
-    },
-    "KinGao294/dsh-skin": {
-      "stars": 11,
-      "forks": 2
-    },
-    "KirschBluteX/engineer-software": {
-      "stars": 6,
-      "forks": 1
-    },
-    "KitDoesIt/dsh-compaction-instant": {
-      "stars": 7,
-      "forks": 0
-    },
-    "Komeiji-Shiki/graycode-for-dsh": {
-      "stars": 5,
-      "forks": 1
-    },
-    "LAN-TINA-WS/dsh-gui-customization": {
-      "stars": 9,
-      "forks": 0
-    },
-    "LCYLYM/dsh-attachments": {
-      "stars": 3,
-      "forks": 0
-    },
-    "LJninse/dsh-open-in-ide": {
-      "stars": 4,
-      "forks": 0
-    },
-    "LQ-1123/paste-to-workspace": {
-      "stars": 3,
-      "forks": 0
-    },
-    "LX2000WASD/dsh-web-plugin-manager": {
-      "stars": 17,
-      "forks": 2
-    },
-    "Lanxing6480/dsh-galgame": {
-      "stars": 4,
-      "forks": 0
-    },
-    "Lanxing6480/dsh-skill-manager": {
-      "stars": 3,
-      "forks": 0
-    },
-    "LaoYueHanNi/dsh-token-usage": {
-      "stars": 5,
-      "forks": 1
-    },
-    "LaplaceYoung/dsh-qq2006": {
-      "stars": 9,
-      "forks": 0
-    },
-    "LaplaceYoung/oh-my-dsh": {
-      "stars": 44,
-      "forks": 1
-    },
-    "LayneChai/superpowers-dsh": {
-      "stars": 24,
-      "forks": 0
-    },
-    "Leeaoyin/dr-agent-skills": {
-      "stars": 3,
-      "forks": 0
-    },
-    "LeemanCheung/dsh-agent-preset-recommender": {
-      "stars": 1,
-      "forks": 0
-    },
-    "LeemanCheung/dsh-task-dag": {
-      "stars": 1,
-      "forks": 0
-    },
-    "LeemanCheung/dsh-token-usage": {
-      "stars": 5,
-      "forks": 1
-    },
-    "LeemanCheung/dsh-whale-animation": {
-      "stars": 1,
-      "forks": 0
-    },
-    "LemCAE/dsh-balance": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Leon0555/dsh-lan-access": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Leslie-SSS/seeWxapkg": {
-      "stars": 78,
-      "forks": 26
-    },
-    "LeslieWylie/dsh-fleet-audit": {
-      "stars": 1,
-      "forks": 0
-    },
-    "LeslieWylie/dsh-md-preview": {
-      "stars": 2,
-      "forks": 0
-    },
-    "LeslieWylie/dsh-ops-kit": {
-      "stars": 3,
-      "forks": 0
-    },
-    "LeslieWylie/dsh-session-search-pro": {
-      "stars": 1,
-      "forks": 0
-    },
-    "LeslieWylie/dsh-task-relay": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Letter2025/dsh-approval-llm": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Letter2025/dsh-model-failover": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Letter2025/dsh-tool-search": {
-      "stars": 3,
-      "forks": 0
-    },
-    "LiangYin233/dsh-provider-model-configurator": {
-      "stars": 11,
-      "forks": 0
-    },
-    "LightClear/dsh-token-pricing": {
-      "stars": 3,
-      "forks": 0
-    },
-    "LingLambda/dsh-logger-panel": {
-      "stars": 2,
-      "forks": 0
-    },
-    "LingLambda/dsh-undo": {
-      "stars": 3,
-      "forks": 1
-    },
-    "Lixiaoyiao/deepseek-harness-action": {
-      "stars": 7,
-      "forks": 1
-    },
-    "LoserFox/distill": {
-      "stars": 15,
-      "forks": 0
-    },
-    "LoserFox/dsh-git-identity": {
-      "stars": 7,
-      "forks": 0
-    },
-    "LoserFox/telegram": {
-      "stars": 6,
-      "forks": 1
-    },
-    "Luaphes/dsh-web-attention-badge": {
-      "stars": 4,
-      "forks": 0
-    },
-    "Luke-Yong/dsh-plugin-knowledge-graph": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Lum1104/dsh-browser": {
-      "stars": 102,
-      "forks": 5
-    },
-    "LvienOeria/dsh-launcher": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Lyn-77/ProMentor": {
-      "stars": 51,
-      "forks": 1
-    },
-    "MAXeaglet/dsh-bash-terminal": {
-      "stars": 1,
-      "forks": 2
-    },
-    "MAXeaglet/dsh-plugin-manager": {
-      "stars": 3,
-      "forks": 0
-    },
-    "MC5lan/dsh-multimodal": {
-      "stars": 3,
-      "forks": 0
-    },
-    "MJ-Chang/dsh-vscode": {
-      "stars": 3,
-      "forks": 0
-    },
-    "MaimoryLab/BootAgent": {
-      "stars": 87,
-      "forks": 5
-    },
-    "MaimoryLab/dib": {
-      "stars": 4,
-      "forks": 0
-    },
-    "Make0209/dsh-usage-stats": {
-      "stars": 8,
-      "forks": 0
-    },
-    "Mars-Sea/dsh-commandcode-provider": {
-      "stars": 5,
-      "forks": 1
-    },
-    "MarvekG/deepseek-harness-model-config": {
-      "stars": 9,
-      "forks": 0
-    },
-    "Max-Samson/dsh-usage-chart": {
-      "stars": 4,
-      "forks": 1
-    },
-    "Meredith2328/dsh-sidebar-mode": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Meredith2328/dsh-sticky-note": {
-      "stars": 6,
-      "forks": 0
-    },
-    "MicroHEROX/dsh-Kimi-WebBridge": {
-      "stars": 2,
-      "forks": 0
-    },
-    "MicroHEROX/dsh-exa-mcp": {
-      "stars": 2,
-      "forks": 0
-    },
-    "MicroHEROX/dsh-koboldcpp-hands": {
-      "stars": 1,
-      "forks": 0
-    },
-    "MicroHEROX/dsh-unsloth-hands": {
-      "stars": 0,
-      "forks": 0
-    },
-    "MicroMilo/upstream-radar": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Miku196/dsh-tokensave": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Mingxi2077/dsh-plugin-review": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Misaki14987/dsh-theme-taffy": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Miyazawai/dsh-client-pricing": {
-      "stars": 8,
-      "forks": 0
-    },
-    "MkaliezZ/dsh-agentfuse-plugin": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Moeblack/deepseek-manners": {
-      "stars": 10,
-      "forks": 0
-    },
-    "Moeblack/dsh-message-edit": {
-      "stars": 18,
-      "forks": 0
-    },
-    "Moeblack/dsh-payload-capture": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Moeblack/dsh-prompt-studio": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Momojie-S/dsh-workspace-env": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Mongfayi/dsh-recall": {
-      "stars": 3,
-      "forks": 0
-    },
-    "MoonGlassKitty/dsh-tailscale-sync": {
-      "stars": 3,
-      "forks": 0
-    },
-    "MorGogh/widget-dock": {
-      "stars": 4,
-      "forks": 1
-    },
-    "MuWinds/dsh-archived-sessions": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Muelsysel/DeepSeek-Harness-Desktop": {
-      "stars": 3,
-      "forks": 0
-    },
-    "MuziIsabel/dsh-win-notify": {
-      "stars": 4,
-      "forks": 0
-    },
-    "MysaDC/dsh-plugin-description": {
-      "stars": 2,
-      "forks": 0
-    },
-    "N0zoM1z0/th08": {
-      "stars": 8,
-      "forks": 1
-    },
-    "N0zoM1z0/vocaloid-mcp": {
-      "stars": 9,
-      "forks": 0
-    },
-    "NEXTINDIE/DeepSeek-Harness-for-VS-Code": {
-      "stars": 3,
-      "forks": 2
-    },
-    "Nagi-ovo/dsh-ads": {
-      "stars": 358,
-      "forks": 2
-    },
-    "Nagi-ovo/dsh-find-plugins": {
-      "stars": 75,
-      "forks": 1
-    },
-    "Nagi-ovo/dsh-visualize": {
-      "stars": 86,
-      "forks": 3
-    },
-    "Nanki-nn/dsh-answer-pet": {
-      "stars": 5,
-      "forks": 0
-    },
-    "NanmiCoder/dsh-agent-teams": {
-      "stars": 266,
-      "forks": 24
-    },
-    "NanmiCoder/dsh-auto-mode": {
-      "stars": 21,
-      "forks": 0
-    },
-    "Nexus-Aethra/DSH-plugin-switch": {
-      "stars": 2,
-      "forks": 0
-    },
-    "NigelYao/dsh-view-modes": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Niuniu-Sir/dsh-data-ledger": {
-      "stars": 2,
-      "forks": 0
-    },
-    "NoNameLeGo/dsh-catppuccin": {
-      "stars": 3,
-      "forks": 0
-    },
-    "NoWint/Oh-My-DSH": {
-      "stars": 6,
-      "forks": 1
-    },
-    "Noelune/dsh-agent-relay": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Noelune/unified-agent-memory": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Noob-stupid/dsh-github-login": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Noob-stupid/dsh-plugin-hub": {
-      "stars": 18,
-      "forks": 1
-    },
-    "Nwflower/dsh-chat-import": {
-      "stars": 30,
-      "forks": 4
-    },
-    "Nwflower/dsh-file-claim": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Nyasers/dsh-hanako": {
-      "stars": 4,
-      "forks": 0
-    },
-    "OBdangshang07/DSH_Creative_Workshop": {
-      "stars": 53,
-      "forks": 0
-    },
-    "Octo-o-o-o/deepseek-harness-applicants": {
-      "stars": 52,
-      "forks": 2
-    },
-    "OneZero-Y/dsh-plugin-kit": {
-      "stars": 2,
-      "forks": 0
-    },
-    "OoWJZZoO/dsh-read-image": {
-      "stars": 3,
-      "forks": 0
-    },
-    "PAKIKNOWLEDGE/dsh-client-ui-skin-claude": {
-      "stars": 3,
-      "forks": 0
-    },
-    "PC2005-cloud/dsh-pet": {
-      "stars": 22,
-      "forks": 1
-    },
-    "PM-Shawn/Abu-Cowork": {
-      "stars": 326,
-      "forks": 77
-    },
-    "PandaColour/dsh-cmd-starter": {
-      "stars": 3,
-      "forks": 0
-    },
-    "PerryLink/dsh-background-agents": {
-      "stars": 3,
-      "forks": 0
-    },
-    "PerryLink/dsh-checkpoint-rewind": {
-      "stars": 3,
-      "forks": 0
-    },
-    "PerryLink/dsh-composer-history": {
-      "stars": 3,
-      "forks": 0
-    },
-    "PerryLink/dsh-doublecheck": {
-      "stars": 2,
-      "forks": 0
-    },
-    "PerryLink/dsh-github": {
-      "stars": 3,
-      "forks": 1
-    },
-    "PerryLink/dsh-mcp-panel": {
-      "stars": 4,
-      "forks": 1
-    },
-    "PerryLink/dsh-memento": {
-      "stars": 3,
-      "forks": 0
-    },
-    "PerryLink/dsh-output-styles": {
-      "stars": 3,
-      "forks": 0
-    },
-    "PerryLink/dsh-permission-rules": {
-      "stars": 3,
-      "forks": 0
-    },
-    "PerryLink/dsh-session-pin": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Phant0Meow/dsh-memory-meow": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Pheobe-Southwood/dsh-acp-paseo": {
-      "stars": 4,
-      "forks": 0
-    },
-    "PicGo/PicGo-Core": {
-      "stars": 970,
-      "forks": 99
-    },
-    "PicGo/dsh-plugin": {
-      "stars": 4,
-      "forks": 0
-    },
-    "Piccolo123/url-manager": {
-      "stars": 2,
-      "forks": 1
-    },
-    "Piccolo123/url-manager-mcp": {
-      "stars": 0,
-      "forks": 0
-    },
-    "PivotStackIntelligence/dsh-github": {
-      "stars": 10,
-      "forks": 1
-    },
-    "Player-MINEPIG/dsh-llm-codex-oauth": {
-      "stars": 6,
-      "forks": 0
-    },
-    "Player-MINEPIG/dsh-tavern": {
-      "stars": 3,
-      "forks": 0
-    },
-    "PlutoKeating/dsh-lark-bot": {
-      "stars": 12,
-      "forks": 1
-    },
-    "PwnKY/dsh-session-link": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Q1hangL/dsh-ask-guard": {
-      "stars": 1,
-      "forks": 0
-    },
-    "QT-Chen/dsh-mic-input": {
-      "stars": 1,
-      "forks": 2
-    },
-    "Qinling-Melon-Farmers/dsh-memoir": {
-      "stars": 4,
-      "forks": 0
-    },
-    "Qintsg/dsh-safe-delete": {
-      "stars": 3,
-      "forks": 0
-    },
-    "R3alloc/dsh-session-deeplink": {
-      "stars": 6,
-      "forks": 0
-    },
-    "RAFOLIE/dsh-desktop-windowos": {
-      "stars": 2,
-      "forks": 0
-    },
-    "RYun601/dsh-launcher": {
-      "stars": 3,
-      "forks": 0
-    },
-    "RangeKing/vibemeter": {
-      "stars": 3,
-      "forks": 1
-    },
-    "RayYeung1989/dsh-plugin-development": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Realyujie/dsh-us-stocks": {
-      "stars": 5,
-      "forks": 0
-    },
-    "Relistencode/dsh-extension-hub": {
-      "stars": 3,
-      "forks": 0
-    },
-    "RongleCat/deepseek-app": {
-      "stars": 18,
-      "forks": 0
-    },
-    "Ruler4396/dsh-launcher": {
-      "stars": 81,
-      "forks": 3
-    },
-    "Rxiain/dsh-openviking": {
-      "stars": 2,
-      "forks": 0
-    },
-    "SPYQWER1/dsh-codex-tools": {
-      "stars": 3,
-      "forks": 0
-    },
-    "STARDUSTLC666/dsh-calendar": {
-      "stars": 3,
-      "forks": 0
-    },
-    "STARDUSTLC666/dsh-dingtalk": {
-      "stars": 3,
-      "forks": 0
-    },
-    "STARDUSTLC666/dsh-email": {
-      "stars": 4,
-      "forks": 1
-    },
-    "STARDUSTLC666/dsh-hyperframes": {
-      "stars": 2,
-      "forks": 0
-    },
-    "STARDUSTLC666/dsh-rss": {
-      "stars": 3,
-      "forks": 0
-    },
-    "STARDUSTLC666/dsh-slack": {
-      "stars": 4,
-      "forks": 1
-    },
-    "SZMY-haruhi/dsh-desktop-shell": {
-      "stars": 2,
-      "forks": 0
-    },
-    "SZMY-haruhi/dsh-web-search-Tavily": {
-      "stars": 3,
-      "forks": 0
-    },
-    "SaiSenBox/dsh-boot-guard": {
-      "stars": 4,
-      "forks": 0
-    },
-    "Saktawdi/ha-orchestrator": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Sal7one/DSH-Design-Studio": {
-      "stars": 0,
-      "forks": 0
-    },
-    "SamXiaBing/dsh-adb": {
-      "stars": 2,
-      "forks": 0
-    },
-    "SamizuHM/dsh-client-ui-theme-xp": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Sanqi-normal/dsh-webui-market-plugin": {
-      "stars": 28,
-      "forks": 1
-    },
-    "Scorp1o117/dsh-tdai-memory": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Semidia/dsh-sampling-sliders": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Semidia/dsh-service-control": {
-      "stars": 0,
-      "forks": 0
-    },
-    "Semidia/dsh-session-manager": {
-      "stars": 1,
-      "forks": 0
-    },
-    "SenmuuuuW/dsh-group-photo": {
-      "stars": 15,
-      "forks": 1
-    },
-    "SenmuuuuW/dsh-whale-report": {
-      "stars": 9,
-      "forks": 1
-    },
-    "SepineTam/mcp-for-stata": {
-      "stars": 243,
-      "forks": 33
-    },
-    "Seryta/dsh-node-nav": {
-      "stars": 4,
-      "forks": 1
-    },
-    "Sev7een/ds-api-usage": {
-      "stars": 6,
-      "forks": 0
-    },
-    "Sev7een/dsh-plugin-automations": {
-      "stars": 1,
-      "forks": 0
-    },
-    "SeverusZh/dsh-notify-windows": {
-      "stars": 3,
-      "forks": 0
-    },
-    "SeverusZh/dsh-plugin-subagent-director": {
-      "stars": 3,
-      "forks": 0
-    },
-    "SeverusZh/dsh-yolo-mode": {
-      "stars": 3,
-      "forks": 0
-    },
-    "ShiXiangYu2/dsh-translate-pro": {
-      "stars": 0,
-      "forks": 0
-    },
-    "Sikao-Engine/KimiX": {
-      "stars": 104,
-      "forks": 12
-    },
-    "Simon314620/dsh-turn-index": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Small-tailqwq/dsh-deep-whale": {
-      "stars": 663,
-      "forks": 22
-    },
-    "Small-tailqwq/dsh-deepcel": {
-      "stars": 7,
-      "forks": 0
-    },
-    "Small-tailqwq/dsh-tps": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Smalldy/godot-bridge": {
-      "stars": 4,
-      "forks": 1
-    },
-    "SnowCrescenter-tech/dsh-desktop": {
-      "stars": 3,
-      "forks": 0
-    },
-    "SnowCrescenter-tech/dsh-milestone": {
-      "stars": 12,
-      "forks": 0
-    },
-    "Socialist-Sister/dsh-collaboration": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Sparrived/DSH-Deeptop": {
-      "stars": 4,
-      "forks": 1
-    },
-    "Spirtxiaoqi7/mindspace-dsh-local-rag": {
-      "stars": 3,
-      "forks": 0
-    },
-    "SpookySandwich/dsh-smooth-stream": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Sqhao-O/dsh-docs": {
-      "stars": 4,
-      "forks": 1
-    },
-    "StarChen-Cycler/octie-dsh-plugin": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Starfie1d1272/dsh-builtin-toggles": {
-      "stars": 6,
-      "forks": 1
-    },
-    "Sttrevens/dsh-cost-meter": {
-      "stars": 0,
-      "forks": 1
-    },
-    "Sunrisepeak/dsh-index": {
-      "stars": 2,
-      "forks": 3
-    },
-    "TGYD-helige/dsh-pi": {
-      "stars": 3,
-      "forks": 0
-    },
-    "THEWOLFWALKER/dsh-notifier": {
-      "stars": 0,
-      "forks": 0
-    },
-    "THU-MAIC/dsh-openmaic": {
-      "stars": 6,
-      "forks": 2
-    },
-    "TQSY114514/dsh-ui-appearance": {
-      "stars": 3,
-      "forks": 0
-    },
-    "TYEclipse/dsh-webfetch": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Tabbit-Browser/dsh-plugin": {
-      "stars": 14,
-      "forks": 2
-    },
-    "TecFancy/dsh-deeptutor": {
-      "stars": 2,
-      "forks": 0
-    },
-    "TencentCloud/tencentmeeting-cli": {
-      "stars": 217,
-      "forks": 10
-    },
-    "Terry12138qy/dsh-vision": {
-      "stars": 3,
-      "forks": 0
-    },
-    "TheTianzz/dsh-billing": {
-      "stars": 6,
-      "forks": 1
-    },
-    "TheYoungChen/dsh-plugin-market": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Thhoho/reSanity": {
-      "stars": 4,
-      "forks": 0
-    },
-    "ThreeBody6666/dsh-im-hub": {
-      "stars": 1,
-      "forks": 0
-    },
-    "Tianyu209/dsh-browser-companion": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Tkingxiao/dsh-any-background": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Tom6814/dsh-web": {
-      "stars": 3,
-      "forks": 1
-    },
-    "Tommy00748/dsh-theme-cyberpunk2077": {
-      "stars": 2,
-      "forks": 0
-    },
-    "TonyDua/dsh-web-search-exa": {
-      "stars": 2,
-      "forks": 1
-    },
-    "Totoro-qaq/Cobsidian": {
-      "stars": 9,
-      "forks": 2
-    },
-    "Toukaiteio/dsh-effort-tweak": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Toukaiteio/dsh-plugin-installer": {
-      "stars": 6,
-      "forks": 0
-    },
-    "Treasure-hub-agent/dsh-story": {
-      "stars": 2,
-      "forks": 0
-    },
-    "TtTRz/dsh-wecom": {
-      "stars": 3,
-      "forks": 0
-    },
-    "TwotwoPiggy/dsh-balance": {
-      "stars": 5,
-      "forks": 1
-    },
-    "Tyan66666/billion-context-dsh": {
-      "stars": 10,
-      "forks": 0
-    },
-    "UNLINEARITY/dsh-code": {
-      "stars": 8,
-      "forks": 1
-    },
-    "Uddoo/dsh-dashboard": {
-      "stars": 3,
-      "forks": 0
-    },
-    "UynajGI/dsh-ssh": {
-      "stars": 4,
-      "forks": 0
-    },
-    "V-dev-388/dsh-usage-meter": {
-      "stars": 0,
-      "forks": 0
-    },
-    "V1ki/dsh-plugin-subscriptions": {
-      "stars": 3,
-      "forks": 0
-    },
-    "VanillaCreamer/dsh-plugin-visual-composer": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Vim0x3c/dsh-session-manager": {
-      "stars": 4,
-      "forks": 1
-    },
-    "Vim0x3c/dsh-skin-appearance": {
-      "stars": 4,
-      "forks": 0
-    },
-    "Visol-456/dsh-llm-fallback": {
-      "stars": 5,
-      "forks": 0
-    },
-    "Void0312Aurora/dsh-desktop-electron": {
-      "stars": 4,
-      "forks": 1
-    },
-    "Vulcan626/dsh-pet": {
-      "stars": 3,
-      "forks": 0
-    },
-    "WEP-56/DSH-Launcher": {
-      "stars": 6,
-      "forks": 2
-    },
-    "WYH66666666/DSH-Transparent-UI-Plugin": {
-      "stars": 13,
-      "forks": 1
-    },
-    "WardLu/shadow-vision": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Wechsels/dsh-zotero-wiki": {
-      "stars": 3,
-      "forks": 0
-    },
-    "WeirdSky924/agent-handoff-skill": {
-      "stars": 25,
-      "forks": 3
-    },
-    "WhitePlusMS/dsh-input-plus": {
-      "stars": 4,
-      "forks": 0
-    },
-    "WilliamLIiii/DeepSeek-Harness-billing-plugin": {
-      "stars": 9,
-      "forks": 0
-    },
-    "WindLX/paper_plane_x": {
-      "stars": 3,
-      "forks": 1
-    },
-    "Wine-Red/dsh-prompt-stash": {
-      "stars": 3,
-      "forks": 0
-    },
-    "XCNXNXNX/dsh-portable-tavern": {
-      "stars": 5,
-      "forks": 0
-    },
-    "XMoon/dsh-pi-tui": {
-      "stars": 5,
-      "forks": 0
-    },
-    "XavierMarquis93/dsh-plugin-conversation-outline": {
-      "stars": 5,
-      "forks": 0
-    },
-    "Xenia0922/dsh-opencode-go-usage": {
-      "stars": 5,
-      "forks": 1
-    },
-    "XiLuovo/dsh-session-timeline": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Xilin3/dsh-prompt-persona": {
-      "stars": 4,
-      "forks": 0
-    },
-    "Xplore-LAB/dsh-plugin-asmemory": {
-      "stars": 0,
-      "forks": 0
-    },
-    "YELEBAI/dsh-plugin-marketplace": {
-      "stars": 12,
-      "forks": 1
-    },
-    "YKennen/dsh-zh-output": {
-      "stars": 3,
-      "forks": 0
-    },
-    "YLifeOnlyOnce/dsh-dynamic-island": {
-      "stars": 3,
-      "forks": 0
-    },
-    "YLifeOnlyOnce/dsh-smarthome": {
-      "stars": 3,
-      "forks": 0
-    },
-    "YOGEMOW/DeepSeek_Prism": {
-      "stars": 3,
-      "forks": 0
-    },
-    "YTxue/dsh-skill-manager-ytxue": {
-      "stars": 4,
-      "forks": 0
-    },
-    "YYTbit/awesome-dsh-bridges": {
-      "stars": 5,
-      "forks": 1
-    },
-    "YYTbit/dsh-plugin-claude-bridge": {
-      "stars": 5,
-      "forks": 0
-    },
-    "YYTbit/dsh-plugin-codex-bridge": {
-      "stars": 2,
-      "forks": 0
-    },
-    "YYTbit/dsh-plugin-cost-tracker": {
-      "stars": 3,
-      "forks": 0
-    },
-    "YYTbit/dsh-plugin-opencode-bridge": {
-      "stars": 3,
-      "forks": 0
-    },
-    "YYTbit/dsh-plugin-pi-bridge": {
-      "stars": 2,
-      "forks": 0
-    },
-    "Yan-Zero/dsh-codex": {
-      "stars": 9,
-      "forks": 2
-    },
-    "Ychris12138/dsh-usage-stats": {
-      "stars": 20,
-      "forks": 2
-    },
-    "Yi-111-a/dsh-jingling": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Yihong89/dsh-teacher": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Yihong89/dsh-usage-plugin": {
-      "stars": 3,
-      "forks": 0
-    },
-    "YunTaiHua/illusion-agent": {
-      "stars": 17,
-      "forks": 6
-    },
-    "Yuuz12/dsh-webui-auth": {
-      "stars": 5,
-      "forks": 0
-    },
-    "ZASENJC/dsh-plugins-store": {
-      "stars": 23,
-      "forks": 3
-    },
-    "ZK-Andy/dsh-continual-evolve": {
-      "stars": 5,
-      "forks": 0
-    },
-    "ZRui-C/dsh-computer-use": {
-      "stars": 3,
-      "forks": 0
-    },
-    "ZSeven-W/dsh-noema": {
-      "stars": 4,
-      "forks": 0
-    },
-    "ZSeven-W/dsh-openpencil": {
-      "stars": 67,
-      "forks": 2
-    },
-    "Zachary7456/dsh-voice-mic": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Zalpha263/dsh-file-explorer": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Zephyr-vibe/dsh-archived-sessions": {
-      "stars": 7,
-      "forks": 0
-    },
-    "Zephyr-vibe/dsh-personalize": {
-      "stars": 4,
-      "forks": 0
-    },
-    "ZeroHackz/OpenFlowFrames": {
-      "stars": 3,
-      "forks": 0
-    },
-    "ZgblKylin/dsh-terminal": {
-      "stars": 3,
-      "forks": 1
-    },
-    "ZhengQingJing/dsh-session-tree": {
-      "stars": 3,
-      "forks": 0
-    },
-    "Zhenyu98/dsh-context-doctor": {
-      "stars": 7,
-      "forks": 2
-    },
-    "Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins": {
-      "stars": 54,
-      "forks": 6
-    },
-    "ZichengGurrr/dsh-window": {
-      "stars": 1,
-      "forks": 0
-    },
-    "a903067276-rgb/dsh-file-mentions": {
-      "stars": 1,
-      "forks": 1
-    },
-    "a903067276-rgb/dsh-hud": {
-      "stars": 2,
-      "forks": 0
-    },
-    "aaravarr/dsh-subagent-max": {
-      "stars": 3,
-      "forks": 0
-    },
-    "acefun29/dsh-file-mount": {
-      "stars": 3,
-      "forks": 0
-    },
-    "acnlabs/dsh-plugin-acn": {
-      "stars": 2,
       "forks": 0
     },
     "adongwanai/learn-workbuddy": {
@@ -2091,11 +195,19 @@
       "forks": 0
     },
     "agents-universe/agents-universe": {
-      "stars": 91,
+      "stars": 94,
+      "forks": 1
+    },
+    "AHGGG/dsh-side-chat": {
+      "stars": 7,
       "forks": 1
     },
     "ai7603/dsh-cyberpunk-theme": {
       "stars": 3,
+      "forks": 0
+    },
+    "Aik358/dsh-auto-memory": {
+      "stars": 4,
       "forks": 0
     },
     "aimierbear/TinyWhale": {
@@ -2114,13 +226,21 @@
       "stars": 3,
       "forks": 0
     },
+    "AKIRACOD/dsh-drag-and-drop": {
+      "stars": 1,
+      "forks": 0
+    },
     "alaliqing/claude-paper": {
       "stars": 294,
       "forks": 24
     },
     "alchaincyf/deepseek-harness-orange-book": {
-      "stars": 634,
-      "forks": 58
+      "stars": 644,
+      "forks": 59
+    },
+    "Alex-Yanggg/awesome-DSH-plugin": {
+      "stars": 57,
+      "forks": 45
     },
     "ali-meoo/meoo-cli": {
       "stars": 21,
@@ -2134,20 +254,68 @@
       "stars": 31,
       "forks": 2
     },
+    "AlliotTech/deepseek-harness-docker": {
+      "stars": 5,
+      "forks": 0
+    },
     "alooshxl/dsh-session-pins": {
       "stars": 3,
       "forks": 0
+    },
+    "AMAP-ML/LongHorizon-Harness": {
+      "stars": 720,
+      "forks": 85
     },
     "amlyczz/dsh-lark-link": {
       "stars": 5,
       "forks": 2
     },
+    "AnacondaKC/dsh-douyin": {
+      "stars": 2,
+      "forks": 0
+    },
+    "AnacondaKC/dsh-stock-market": {
+      "stars": 11,
+      "forks": 3
+    },
+    "Andy8647/dsh-auto-approval": {
+      "stars": 2,
+      "forks": 0
+    },
     "ang-XWBWZ/dsh-approval-ai": {
       "stars": 3,
       "forks": 0
     },
+    "AngelosZou/graphlint": {
+      "stars": 4,
+      "forks": 1
+    },
+    "Anionex/agent-vision-toolkit": {
+      "stars": 857,
+      "forks": 30
+    },
+    "Anionex/dsh-computer-use": {
+      "stars": 18,
+      "forks": 3
+    },
+    "Anionex/dsh-suggested-replies": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Anionex/dsh-turn-rewind": {
+      "stars": 47,
+      "forks": 1
+    },
+    "Anionex/dsh-vision-toolkit": {
+      "stars": 371,
+      "forks": 18
+    },
     "anneheartrecord/dsh-desk-pet": {
       "stars": 3,
+      "forks": 0
+    },
+    "AnothetLoice/dsh-hotplug-engine": {
+      "stars": 2,
       "forks": 0
     },
     "anweat/dsh-assistant-message-forge": {
@@ -2167,24 +335,44 @@
       "forks": 0
     },
     "anweat/dsh-web-search-pro": {
-      "stars": 4,
+      "stars": 5,
       "forks": 0
     },
     "anysearch-team/anysearch-dsh": {
-      "stars": 19,
-      "forks": 3
+      "stars": 21,
+      "forks": 4
     },
     "anywhere-labs/deepseek-harness-desktop": {
-      "stars": 2815,
-      "forks": 134
+      "stars": 3103,
+      "forks": 146
+    },
+    "ArcanePivot/dsh-api-balance": {
+      "stars": 5,
+      "forks": 0
     },
     "arcmosin/dsh-wordbox": {
       "stars": 4,
       "forks": 0
     },
+    "Areium/dsh-fail-logger": {
+      "stars": 8,
+      "forks": 1
+    },
+    "Argonaut790/dsh-deepseek-vision": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Ariestar/sivtr": {
+      "stars": 131,
+      "forks": 18
+    },
     "arrow949/dsh-turn-approval": {
       "stars": 2,
       "forks": 0
+    },
+    "Asaiuta/dsh-session-hub": {
+      "stars": 3,
+      "forks": 1
     },
     "asdf17128/dsh-doctor": {
       "stars": 1,
@@ -2202,13 +390,41 @@
       "stars": 2,
       "forks": 0
     },
+    "AtlasCloudAI/atlas-cloud-skills": {
+      "stars": 21,
+      "forks": 3
+    },
+    "AtlasCloudAI/mcp-server": {
+      "stars": 5,
+      "forks": 1
+    },
+    "Auran-Lu/dsh-client-ui-monitor": {
+      "stars": 3,
+      "forks": 0
+    },
     "awesome-dsh-plugin/awesome-dsh-plugin": {
-      "stars": 1538,
-      "forks": 309
+      "stars": 1710,
+      "forks": 340
     },
     "awesome-dsh-plugin/dsh-find-plugin": {
       "stars": 19,
       "forks": 1
+    },
+    "AwesomeHou/dsh-plugin-marketplace": {
+      "stars": 5,
+      "forks": 1
+    },
+    "Awu12277/dsh-stock-watch": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Axiaohungry/dsh-llm-codebuddy": {
+      "stars": 8,
+      "forks": 0
+    },
+    "Ayase34/gal-view": {
+      "stars": 28,
+      "forks": 0
     },
     "ayuanwong/deepseek-harness-ux": {
       "stars": 9,
@@ -2223,11 +439,11 @@
       "forks": 0
     },
     "beancookie/awesome-dsh-plugin": {
-      "stars": 14,
-      "forks": 6
+      "stars": 15,
+      "forks": 7
     },
     "beancookie/dsh-plugin-anydoc": {
-      "stars": 4,
+      "stars": 5,
       "forks": 0
     },
     "becomeless/dsh-desktop-launcher": {
@@ -2246,8 +462,28 @@
       "stars": 3,
       "forks": 0
     },
+    "BeiZi6/dsh-opencodego-usage": {
+      "stars": 2,
+      "forks": 0
+    },
+    "BeiZi6/dsh-theme-plugin": {
+      "stars": 2,
+      "forks": 0
+    },
     "bernardleex526/oh_my_deepseek_harness": {
       "stars": 3,
+      "forks": 0
+    },
+    "Bernardxu123/dsh-mobile-gate": {
+      "stars": 1,
+      "forks": 0
+    },
+    "BiBoyang/dsh-eval-harness": {
+      "stars": 4,
+      "forks": 1
+    },
+    "BiBoyang/dsh-im-bridge": {
+      "stars": 2,
       "forks": 0
     },
     "biedongbin/dsh-claude-compat": {
@@ -2286,6 +522,14 @@
       "stars": 6,
       "forks": 3
     },
+    "Bin-hy/dsh": {
+      "stars": 10,
+      "forks": 0
+    },
+    "BingChanCN/fabric": {
+      "stars": 2,
+      "forks": 1
+    },
     "biociao/dsh-science": {
       "stars": 10,
       "forks": 0
@@ -2298,9 +542,21 @@
       "stars": 3,
       "forks": 1
     },
-    "boNeXY226/dsh-cost-chip": {
-      "stars": 4,
+    "Blaczz/dsh-deck-builder": {
+      "stars": 2,
       "forks": 0
+    },
+    "Blaczz/dsh-sci": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Blaczz/dsh-soundscape": {
+      "stars": 2,
+      "forks": 0
+    },
+    "BlockRunAI/dsh-clawrouter": {
+      "stars": 9,
+      "forks": 1
     },
     "bobcat848/dsh-calculator": {
       "stars": 4,
@@ -2314,8 +570,12 @@
       "stars": 9,
       "forks": 0
     },
+    "boNeXY226/dsh-cost-chip": {
+      "stars": 4,
+      "forks": 0
+    },
     "bowenliang123/dsh-context": {
-      "stars": 32,
+      "stars": 35,
       "forks": 1
     },
     "boxeryao/deepseek-harness-tui": {
@@ -2327,20 +587,40 @@
       "forks": 0
     },
     "bradeGithub/DSH-Plugins-Marketplace": {
-      "stars": 38,
+      "stars": 41,
       "forks": 5
+    },
+    "BrambleXu/dsh-annotate": {
+      "stars": 5,
+      "forks": 0
+    },
+    "BrambleXu/dsh-prompt-profile": {
+      "stars": 1,
+      "forks": 0
+    },
+    "BrambleXu/dsh-revdiff": {
+      "stars": 2,
+      "forks": 0
     },
     "brittanistrehlowll-oss/dsh-quota-panel": {
       "stars": 4,
       "forks": 0
     },
     "bruc3van/awesome-dsh-plugin": {
-      "stars": 111,
+      "stars": 114,
       "forks": 28
     },
     "bruc3van/dsh-desktop": {
       "stars": 21,
       "forks": 3
+    },
+    "BruceWu1126/dsh-web-background": {
+      "stars": 2,
+      "forks": 0
+    },
+    "BruzWJ/Liang-Saint-Slider": {
+      "stars": 42,
+      "forks": 1
     },
     "btspoony/dsh-advisor": {
       "stars": 8,
@@ -2370,6 +650,10 @@
       "stars": 4,
       "forks": 0
     },
+    "Buyi-wsgzg/dsh-sidechain": {
+      "stars": 6,
+      "forks": 0
+    },
     "bwndlct/dsh-session-audit": {
       "stars": 3,
       "forks": 0
@@ -2383,7 +667,7 @@
       "forks": 0
     },
     "c3ll256/dsh-toy": {
-      "stars": 33,
+      "stars": 34,
       "forks": 6
     },
     "cakeni/harness-pet": {
@@ -2402,28 +686,80 @@
       "stars": 1,
       "forks": 0
     },
+    "CanglongCl/dsh-web-review": {
+      "stars": 14,
+      "forks": 0
+    },
+    "CAOGGL/dsh-ding": {
+      "stars": 1,
+      "forks": 0
+    },
+    "CaoNing3212/dsh-plugin-deepseek-balance": {
+      "stars": 2,
+      "forks": 0
+    },
+    "CAPTAIN1275/dsh-ui-web": {
+      "stars": 4,
+      "forks": 1
+    },
+    "Cassius0924/dsh-usage-dashboard": {
+      "stars": 4,
+      "forks": 1
+    },
     "causebefore/dsh-pomodoro": {
       "stars": 2,
       "forks": 0
     },
+    "Cavan-Ou/dsh-observation-journal": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Cavan-Ou/hermes-dsh-collab": {
+      "stars": 3,
+      "forks": 0
+    },
     "cc1252/deepseek-harness-desktop": {
-      "stars": 17,
+      "stars": 16,
       "forks": 0
     },
     "ccch1mneyyy/dsh-TUI": {
-      "stars": 966,
+      "stars": 990,
       "forks": 40
     },
     "cclank/dsh-plugin-hub": {
       "stars": 13,
       "forks": 2
     },
+    "CCMu04/DSHDesktop": {
+      "stars": 21,
+      "forks": 1
+    },
     "ccq1/dsh-side-panel": {
       "stars": 17,
       "forks": 2
     },
+    "Ceelog/dsh-plugins": {
+      "stars": 4,
+      "forks": 1
+    },
     "cendaifeng/dsh-learn-everything": {
       "stars": 3,
+      "forks": 0
+    },
+    "Ch0uHuaZ1/DeepSeek-Harness-Desktop": {
+      "stars": 3,
+      "forks": 0
+    },
+    "CH4ACKO3/dsh-harmony": {
+      "stars": 4,
+      "forks": 0
+    },
+    "CH4ACKO3/dsh-ui-workspace": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Chang-Tong/dsh-import-agents": {
+      "stars": 6,
       "forks": 0
     },
     "chaos-03x/dsh-agy": {
@@ -2438,6 +774,22 @@
       "stars": 9,
       "forks": 1
     },
+    "ChenChen913/dsh-session-cleaner-cli": {
+      "stars": 0,
+      "forks": 0
+    },
+    "ChengChe106/dsh-session-cost": {
+      "stars": 3,
+      "forks": 0
+    },
+    "ChenLaoshiYF/dsh-mcpguard": {
+      "stars": 1,
+      "forks": 0
+    },
+    "ChenRuoT/dsh-sidebar-qa": {
+      "stars": 6,
+      "forks": 0
+    },
     "chenw2759-wq/dsh-IDE": {
       "stars": 6,
       "forks": 1
@@ -2450,7 +802,27 @@
       "stars": 4,
       "forks": 0
     },
+    "ChenyuHeee/dsh-browser-playwright": {
+      "stars": 3,
+      "forks": 0
+    },
+    "CherryHQ/cherry-studio": {
+      "stars": 50492,
+      "forks": 4782
+    },
     "cheshireez/dsh-skill-hub": {
+      "stars": 3,
+      "forks": 0
+    },
+    "CheshireJCat/blender": {
+      "stars": 7,
+      "forks": 0
+    },
+    "Chhlafiu4312/citeguard": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Chhlafiu4312/promptwall": {
       "stars": 3,
       "forks": 0
     },
@@ -2458,12 +830,24 @@
       "stars": 2,
       "forks": 0
     },
+    "Chinesezjc/dsh-interconnect": {
+      "stars": 26,
+      "forks": 2
+    },
+    "ChisaAlter/Deepseek-Harness-Desktop": {
+      "stars": 72,
+      "forks": 7
+    },
     "chnjames/dsh-plugin-market": {
       "stars": 3,
       "forks": 0
     },
     "chu557/douyin-plugin-dsh-plugin": {
       "stars": 3,
+      "forks": 0
+    },
+    "ChuanTianML/dsh-island": {
+      "stars": 0,
       "forks": 0
     },
     "chushixixin/dsh-harness-mcp-server": {
@@ -2482,8 +866,24 @@
       "stars": 4,
       "forks": 1
     },
+    "Civitasv/dsh-plugin-colorscheme": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Civitasv/dsh-plugin-diff-review": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Civitasv/dsh-plugin-open-editor": {
+      "stars": 2,
+      "forks": 0
+    },
     "clearkurt/dsh-win-terminal-inspector": {
       "stars": 3,
+      "forks": 0
+    },
+    "Clizo1209/dsh-playwright-browser": {
+      "stars": 7,
       "forks": 0
     },
     "codeAnqiang-ma/dsh-superpowers": {
@@ -2491,7 +891,7 @@
       "forks": 0
     },
     "cofy-x/axern": {
-      "stars": 160,
+      "stars": 161,
       "forks": 5
     },
     "cokiscarazo-rgb/dsh-session-management": {
@@ -2506,33 +906,33 @@
       "stars": 5,
       "forks": 0
     },
+    "ConsoleSun/Gemini-Eyes": {
+      "stars": 1,
+      "forks": 0
+    },
     "coppynight/dsh-doctor": {
       "stars": 3,
       "forks": 0
     },
     "cordiverse/cordis": {
-      "stars": 3513,
-      "forks": 163
+      "stars": 3554,
+      "forks": 168
     },
     "cordiverse/paper": {
-      "stars": 1383,
+      "stars": 1408,
       "forks": 50
     },
     "cosyncing/cosyncing": {
-      "stars": 8,
+      "stars": 10,
       "forks": 4
     },
     "cpj-dev/dsh-plugin-cc": {
       "stars": 10,
       "forks": 2
     },
-    "crTnT/dsh-plugin-suite": {
-      "stars": 3,
-      "forks": 0
-    },
     "crafter-station/petdex": {
-      "stars": 3802,
-      "forks": 180
+      "stars": 3804,
+      "forks": 181
     },
     "crayonlu/dsh-web-search-firecrawl": {
       "stars": 2,
@@ -2550,8 +950,12 @@
       "stars": 7,
       "forks": 0
     },
+    "crTnT/dsh-plugin-suite": {
+      "stars": 3,
+      "forks": 0
+    },
     "csyangwen/dsh-memory-evolve": {
-      "stars": 62,
+      "stars": 64,
       "forks": 5
     },
     "culture-flask/dsh-aemeath-pet": {
@@ -2570,19 +974,47 @@
       "stars": 5,
       "forks": 0
     },
+    "CZX2244/dsh-bilibili": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Da-Mie/dsh-beacons": {
+      "stars": 3,
+      "forks": 0
+    },
     "dancingmemory/dskin": {
-      "stars": 17,
+      "stars": 19,
+      "forks": 0
+    },
+    "Dasooul03/dsh-plugin-deepseek-pricing": {
+      "stars": 4,
       "forks": 0
     },
     "dataelement/dsh-desktop": {
-      "stars": 195,
-      "forks": 18
+      "stars": 202,
+      "forks": 20
     },
     "dawsondx/dsh-web-open": {
       "stars": 3,
       "forks": 0
     },
+    "Dbi-Eshuh/dsh-thinking-status-customizer": {
+      "stars": 4,
+      "forks": 1
+    },
     "dclichang2022/dsh-green-meter": {
+      "stars": 4,
+      "forks": 0
+    },
+    "DDDFXYqiming/Agent_Extensions": {
+      "stars": 5,
+      "forks": 1
+    },
+    "DDDMUC/dsh-free-search": {
+      "stars": 2,
+      "forks": 0
+    },
+    "DEEP-IOS/dsh-humanizer": {
       "stars": 4,
       "forks": 0
     },
@@ -2591,27 +1023,55 @@
       "forks": 0
     },
     "deepseek-ai/deepseek-harness": {
-      "stars": 100522,
-      "forks": 9488
+      "stars": 102146,
+      "forks": 9674
+    },
+    "DeepTrial/dsh-bash-rtk": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Degurechaff57/dsh-openapi": {
+      "stars": 4,
+      "forks": 0
+    },
+    "DeKrych/Dshell-plugins": {
+      "stars": 27,
+      "forks": 8
     },
     "detpecca/dsh-llm-wiki": {
       "stars": 4,
       "forks": 1
     },
+    "Devin-AXIS/iPolloWork": {
+      "stars": 4048,
+      "forks": 814
+    },
     "devmom/dsh-trajectory-debug": {
       "stars": 0,
+      "forks": 0
+    },
+    "DfsyJian/dsh-snapshot": {
+      "stars": 3,
       "forks": 0
     },
     "dfycaly98931680/dsh-trajectory-governance": {
       "stars": 3,
       "forks": 0
     },
+    "DGPisces/dsh-openai-oauth": {
+      "stars": 5,
+      "forks": 0
+    },
     "dhicoc/dsh-reverse-skill": {
       "stars": 8,
-      "forks": 3
+      "forks": 4
     },
     "dhicoc/dsh-wuyun-liuqi": {
       "stars": 1,
+      "forks": 0
+    },
+    "DietCokewithSugar/dsh-user-experience": {
+      "stars": 18,
       "forks": 0
     },
     "dingkaihu63/dsh-robotic-harness": {
@@ -2629,6 +1089,14 @@
     "disyli/dsh-tool-call-stats": {
       "stars": 0,
       "forks": 0
+    },
+    "DoggyHU/dsh4vscode": {
+      "stars": 3,
+      "forks": 1
+    },
+    "Dominic789654/awesome-deepseek-harness": {
+      "stars": 38,
+      "forks": 21
     },
     "doncelee229-cmyk/dsh-plugin-approval-alert": {
       "stars": 1,
@@ -2694,17 +1162,21 @@
       "stars": 5,
       "forks": 1
     },
+    "Dpf555/dsh-workbench": {
+      "stars": 6,
+      "forks": 1
+    },
     "dpskh/dsh-a2a": {
+      "stars": 4,
+      "forks": 0
+    },
+    "dqsjqian/agent-guild": {
       "stars": 4,
       "forks": 0
     },
     "dqsjqian/Aria": {
       "stars": 14,
       "forks": 5
-    },
-    "dqsjqian/agent-guild": {
-      "stars": 4,
-      "forks": 0
     },
     "dream12347/dsh-delete-session": {
       "stars": 3,
@@ -2718,14 +1190,6 @@
       "stars": 4,
       "forks": 0
     },
-    "dsh-external/DSH-better-sidebar": {
-      "stars": 842,
-      "forks": 46
-    },
-    "dsh-external/Qwen-MM-Plugins": {
-      "stars": 4,
-      "forks": 0
-    },
     "dsh-external/deepseek-harness-desktop": {
       "stars": 8,
       "forks": 1
@@ -2735,7 +1199,7 @@
       "forks": 0
     },
     "dsh-external/distill": {
-      "stars": 15,
+      "stars": 16,
       "forks": 0
     },
     "dsh-external/dsh-101": {
@@ -2747,7 +1211,7 @@
       "forks": 0
     },
     "dsh-external/dsh-ads": {
-      "stars": 358,
+      "stars": 364,
       "forks": 2
     },
     "dsh-external/dsh-advisor": {
@@ -2759,11 +1223,11 @@
       "forks": 0
     },
     "dsh-external/dsh-aigc-canvas": {
-      "stars": 5,
+      "stars": 6,
       "forks": 0
     },
     "dsh-external/dsh-annotation": {
-      "stars": 43,
+      "stars": 44,
       "forks": 2
     },
     "dsh-external/dsh-anti-ads": {
@@ -2779,20 +1243,24 @@
       "forks": 0
     },
     "dsh-external/dsh-auto-blame": {
-      "stars": 4,
+      "stars": 5,
       "forks": 0
     },
     "dsh-external/dsh-auto-chess": {
       "stars": 3,
       "forks": 0
     },
+    "dsh-external/DSH-better-sidebar": {
+      "stars": 865,
+      "forks": 47
+    },
     "dsh-external/dsh-better-sidebar-plugin-office": {
       "stars": 8,
       "forks": 0
     },
     "dsh-external/dsh-browser": {
-      "stars": 102,
-      "forks": 5
+      "stars": 107,
+      "forks": 6
     },
     "dsh-external/dsh-browser-bridge": {
       "stars": 1,
@@ -2807,7 +1275,7 @@
       "forks": 0
     },
     "dsh-external/dsh-code": {
-      "stars": 139,
+      "stars": 140,
       "forks": 5
     },
     "dsh-external/dsh-companion": {
@@ -2823,11 +1291,11 @@
       "forks": 0
     },
     "dsh-external/dsh-data-agent": {
-      "stars": 21,
+      "stars": 22,
       "forks": 1
     },
     "dsh-external/dsh-deep-research": {
-      "stars": 10,
+      "stars": 11,
       "forks": 0
     },
     "dsh-external/dsh-deepresearch": {
@@ -2868,7 +1336,7 @@
     },
     "dsh-external/dsh-gomoku": {
       "stars": 13,
-      "forks": 0
+      "forks": 1
     },
     "dsh-external/dsh-harness-ops": {
       "stars": 9,
@@ -2883,7 +1351,7 @@
       "forks": 0
     },
     "dsh-external/dsh-interpreters": {
-      "stars": 5,
+      "stars": 6,
       "forks": 0
     },
     "dsh-external/dsh-involute": {
@@ -2903,7 +1371,7 @@
       "forks": 0
     },
     "dsh-external/dsh-memory-evolve": {
-      "stars": 62,
+      "stars": 64,
       "forks": 5
     },
     "dsh-external/dsh-message-edit": {
@@ -2915,7 +1383,7 @@
       "forks": 1
     },
     "dsh-external/dsh-mnemon": {
-      "stars": 18,
+      "stars": 21,
       "forks": 2
     },
     "dsh-external/dsh-mobile": {
@@ -2943,7 +1411,7 @@
       "forks": 0
     },
     "dsh-external/dsh-openpencil": {
-      "stars": 67,
+      "stars": 68,
       "forks": 2
     },
     "dsh-external/dsh-paseo": {
@@ -2951,7 +1419,7 @@
       "forks": 0
     },
     "dsh-external/dsh-pet-rs": {
-      "stars": 11,
+      "stars": 12,
       "forks": 1
     },
     "dsh-external/dsh-plugin-check": {
@@ -2987,8 +1455,8 @@
       "forks": 0
     },
     "dsh-external/dsh-share": {
-      "stars": 17,
-      "forks": 1
+      "stars": 18,
+      "forks": 2
     },
     "dsh-external/dsh-side-panel": {
       "stars": 17,
@@ -2999,7 +1467,7 @@
       "forks": 0
     },
     "dsh-external/dsh-sleep": {
-      "stars": 5,
+      "stars": 6,
       "forks": 0
     },
     "dsh-external/dsh-slice-agent-loop": {
@@ -3103,8 +1571,8 @@
       "forks": 0
     },
     "dsh-external/dsh-web-ui": {
-      "stars": 2099,
-      "forks": 100
+      "stars": 2160,
+      "forks": 108
     },
     "dsh-external/dsh-web-ui-notify": {
       "stars": 12,
@@ -3115,7 +1583,7 @@
       "forks": 0
     },
     "dsh-external/dsh_workflow": {
-      "stars": 54,
+      "stars": 55,
       "forks": 0
     },
     "dsh-external/ego-browser": {
@@ -3144,6 +1612,10 @@
     },
     "dsh-external/plugin-template": {
       "stars": 5,
+      "forks": 0
+    },
+    "dsh-external/Qwen-MM-Plugins": {
+      "stars": 4,
       "forks": 0
     },
     "dsh-external/sandbox-micro": {
@@ -3179,15 +1651,15 @@
       "forks": 0
     },
     "dsh-external/whale-girl": {
-      "stars": 141,
+      "stars": 145,
       "forks": 6
     },
     "dsh-external/ya-workspace-sidebar": {
-      "stars": 6,
+      "stars": 7,
       "forks": 0
     },
     "dsh-external/yet-another-subagent": {
-      "stars": 6,
+      "stars": 7,
       "forks": 0
     },
     "dsh-external/zotero-harvest": {
@@ -3199,8 +1671,8 @@
       "forks": 0
     },
     "dsh-market/dsh-market": {
-      "stars": 107,
-      "forks": 10
+      "stars": 127,
+      "forks": 12
     },
     "dsh-tui/dsh-tui": {
       "stars": 14,
@@ -3210,6 +1682,10 @@
       "stars": 4,
       "forks": 1
     },
+    "DViridescent/dafy-whale-theme": {
+      "stars": 3,
+      "forks": 0
+    },
     "dylan121322/llm-adaptive": {
       "stars": 2,
       "forks": 0
@@ -3218,8 +1694,28 @@
       "stars": 2,
       "forks": 0
     },
+    "Easyhoov/deepseek-harness-desktop": {
+      "stars": 1,
+      "forks": 0
+    },
     "echo-xianyu/dsh-go-rotator": {
       "stars": 3,
+      "forks": 0
+    },
+    "Edge-Echo/dsh-mcp-bridge": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Einskyle/dsh-llm-vision-bridge": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Electricitysheep/dsh-handbook": {
+      "stars": 239,
+      "forks": 5
+    },
+    "Electricitysheep/dsh-tool-turbo": {
+      "stars": 4,
       "forks": 0
     },
     "elementor-i/dsh-agentmemory": {
@@ -3232,6 +1728,26 @@
     },
     "entireyu/dsh-whalito-desk": {
       "stars": 3,
+      "forks": 0
+    },
+    "Ericwong5021/deepseek-plugin-store": {
+      "stars": 12,
+      "forks": 1
+    },
+    "Estellalee/dsh-outdoor-theme": {
+      "stars": 3,
+      "forks": 0
+    },
+    "EvilIrving/dsh-context-proxy": {
+      "stars": 0,
+      "forks": 0
+    },
+    "EvilIrving/dsh-proof": {
+      "stars": 1,
+      "forks": 0
+    },
+    "EvilIrving/dsh-repro": {
+      "stars": 1,
       "forks": 0
     },
     "f0909172434/dsh-deepseek-girl-pet": {
@@ -3250,20 +1766,28 @@
       "stars": 3,
       "forks": 1
     },
+    "Favio8/dsh-plugin-deepeye": {
+      "stars": 4,
+      "forks": 0
+    },
     "february2015/dsh-taskswarm": {
       "stars": 0,
       "forks": 0
     },
     "feibi-mochi/deepseek-harness-wallet": {
-      "stars": 7,
+      "stars": 8,
       "forks": 1
     },
     "feiyang-dev/dsh-usage-plugin": {
-      "stars": 6,
+      "stars": 8,
       "forks": 1
     },
     "fendouai/deepseek-harness-desktop": {
       "stars": 1,
+      "forks": 0
+    },
+    "FengHuoLinShan/dsh-plugin-llm-balance": {
+      "stars": 2,
       "forks": 0
     },
     "ferstar/dsh-tool-ocr": {
@@ -3282,7 +1806,31 @@
       "stars": 157,
       "forks": 16
     },
+    "Fisfzy/ego-browser": {
+      "stars": 13,
+      "forks": 2
+    },
+    "Fisfzy/zotero-harvest": {
+      "stars": 5,
+      "forks": 0
+    },
+    "Fishquito7/dsh-skill-viewer": {
+      "stars": 31,
+      "forks": 4
+    },
+    "Fishsb/dsh-prompt-enhancer": {
+      "stars": 4,
+      "forks": 0
+    },
     "fishxcode/dsh-plugin-deepseek-balance": {
+      "stars": 0,
+      "forks": 0
+    },
+    "FlashingChen/dsh-worktree": {
+      "stars": 4,
+      "forks": 0
+    },
+    "FleetingEcho/dsh-handoff": {
       "stars": 0,
       "forks": 0
     },
@@ -3298,12 +1846,20 @@
       "stars": 10,
       "forks": 1
     },
+    "FlytoMAYDAY80/dsh-pet": {
+      "stars": 9,
+      "forks": 0
+    },
+    "Flyvhidbwo/dsh-vision-proxy": {
+      "stars": 7,
+      "forks": 1
+    },
     "foolgry/dsh-desktop": {
       "stars": 6,
       "forks": 1
     },
     "fornarwhal/deepseek-whale-girl-icon": {
-      "stars": 88,
+      "stars": 90,
       "forks": 2
     },
     "forrestahha/dsh-voice-input": {
@@ -3315,11 +1871,15 @@
       "forks": 0
     },
     "foryourhealth111-pixel/Vibe-Skills": {
-      "stars": 2779,
+      "stars": 2782,
       "forks": 223
     },
     "fountunt/dsh-session-cleaner": {
       "stars": 3,
+      "forks": 1
+    },
+    "Francis-Xavier-code/dsh-balance-plugin": {
+      "stars": 7,
       "forks": 1
     },
     "franksong2702/dsh-codex-connect": {
@@ -3327,16 +1887,24 @@
       "forks": 0
     },
     "fredalxin/dsh-solo-thinking": {
-      "stars": 3,
+      "stars": 4,
       "forks": 0
     },
     "freehul/sgme": {
       "stars": 1,
       "forks": 0
     },
+    "Fro2en12/dsh-download-progress": {
+      "stars": 1,
+      "forks": 0
+    },
     "fuhefei/dsh-sentinel": {
       "stars": 6,
       "forks": 1
+    },
+    "FuRongJun-1999/dsh-memory": {
+      "stars": 1,
+      "forks": 0
     },
     "fyy99/dsh-livis-connector": {
       "stars": 3,
@@ -3346,24 +1914,76 @@
       "stars": 8,
       "forks": 1
     },
+    "GanyuanRan/Aegis": {
+      "stars": 1007,
+      "forks": 46
+    },
+    "GengDaPeng/dsh-agent-message": {
+      "stars": 3,
+      "forks": 0
+    },
     "gezi-wen/sage-mem": {
       "stars": 3,
       "forks": 1
+    },
+    "Ghost011118/dsh-balance-meter": {
+      "stars": 13,
+      "forks": 1
+    },
+    "GiantGKL/dsh-cost": {
+      "stars": 3,
+      "forks": 0
     },
     "ginuim/multi-screen-wireframe": {
       "stars": 6,
       "forks": 2
     },
+    "GIT121995/dsh-memory-gate": {
+      "stars": 2,
+      "forks": 0
+    },
+    "GLFzr/dsh-drop-file-to-path": {
+      "stars": 3,
+      "forks": 0
+    },
+    "GLFzr/dsh-hermes-memory-bridge": {
+      "stars": 2,
+      "forks": 0
+    },
+    "GLFzr/dsh-opencode-go-quota": {
+      "stars": 4,
+      "forks": 0
+    },
     "gnulife/dsh-plugin-wechat": {
       "stars": 3,
       "forks": 1
+    },
+    "GoalfyAI/goalfydata": {
+      "stars": 9,
+      "forks": 0
     },
     "golitter/dsh-deepseek-billing": {
       "stars": 3,
       "forks": 0
     },
+    "GongYuanCaiJi/dsh-simplify": {
+      "stars": 3,
+      "forks": 0
+    },
+    "GooodWei/arcana": {
+      "stars": 2,
+      "forks": 0
+    },
+    "GooodWei/context-vista": {
+      "stars": 4,
+      "forks": 1
+    },
     "gtaifu/dsh-wechat-bridge": {
       "stars": 4,
+      "forks": 0
+    },
+    "GuoMonth/dsh-multi-tenant": {
+      "stars": 3,
       "forks": 0
     },
     "gusibi/molibot": {
@@ -3378,17 +1998,49 @@
       "stars": 6,
       "forks": 0
     },
+    "H1a3x/dsh-token-stats": {
+      "stars": 5,
+      "forks": 0
+    },
+    "HackSing/dsh-plugins": {
+      "stars": 4,
+      "forks": 3
+    },
     "hairyf/deepseek-harness-desktop": {
-      "stars": 122,
+      "stars": 123,
       "forks": 4
+    },
+    "Hakunm/dsh-workspace": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Han-1413141/dsh-cost-meter": {
+      "stars": 15,
+      "forks": 0
+    },
+    "Han-1413141/dsh-sticky-disclosure": {
+      "stars": 2,
+      "forks": 0
+    },
+    "HanaAyane/dsh-reasoning-effort": {
+      "stars": 12,
+      "forks": 0
     },
     "hanelalo/browser-bridge": {
       "stars": 36,
       "forks": 5
     },
+    "HaoyueQin/deepseek-harness-desktop": {
+      "stars": 2,
+      "forks": 0
+    },
     "happyren/dsh-agent-messaging": {
       "stars": 4,
       "forks": 0
+    },
+    "HarcoChen/dsh-vsc-integration": {
+      "stars": 5,
+      "forks": 1
     },
     "harryopo/dsh-remote-ide": {
       "stars": 3,
@@ -3426,13 +2078,17 @@
       "stars": 5,
       "forks": 0
     },
+    "HeiGeAi/deepseek-harness-skin": {
+      "stars": 27,
+      "forks": 2
+    },
     "hellodigua/dsh-emoji": {
       "stars": 17,
       "forks": 1
     },
     "hellodigua/dsh-share": {
-      "stars": 17,
-      "forks": 1
+      "stars": 18,
+      "forks": 2
     },
     "hellosky983/dsh-mc-launcher": {
       "stars": 4,
@@ -3454,17 +2110,41 @@
       "stars": 4,
       "forks": 1
     },
+    "HenryZ838978/deepseek-harness": {
+      "stars": 39,
+      "forks": 7
+    },
+    "Heyflyingpig/long-draft-input": {
+      "stars": 3,
+      "forks": 0
+    },
     "hi-wenw/dsh-telegram-channel": {
       "stars": 5,
       "forks": 2
     },
+    "Highjobop/dsh-gadgets": {
+      "stars": 3,
+      "forks": 0
+    },
     "hikariming/dshfind": {
-      "stars": 68,
+      "stars": 71,
       "forks": 2
+    },
+    "Hilbert-beinghappy/seektty": {
+      "stars": 4,
+      "forks": 1
+    },
+    "HiWhaleW/dsh-toolbox": {
+      "stars": 26,
+      "forks": 0
     },
     "hnmrxz/dsh-plugin-deepseek-balance": {
       "stars": 5,
       "forks": 1
+    },
+    "HOFO-GYG/dsh-quote-reply": {
+      "stars": 3,
+      "forks": 0
     },
     "hongfeiyucode/deepseek-harness-desktop": {
       "stars": 37,
@@ -3474,20 +2154,92 @@
       "stars": 3,
       "forks": 0
     },
+    "Hoshino-Yumetsuki/dsh-onebot": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Hotsteel2901/dsh-client-ui-mobile-adapt": {
+      "stars": 7,
+      "forks": 0
+    },
     "hrhgit/deepseek-harness-plugin-manager": {
       "stars": 3,
       "forks": 0
+    },
+    "HsiangNianian/dsh-auto-continue": {
+      "stars": 12,
+      "forks": 2
     },
     "ht426/deepseek-harness-tutorial": {
       "stars": 36,
       "forks": 2
     },
+    "Hu9956/dsh-codex-provider": {
+      "stars": 5,
+      "forks": 0
+    },
     "huahai0202/dsh-better-archive": {
+      "stars": 4,
+      "forks": 1
+    },
+    "Huang-zhishi/dsh-plugin-call-trace": {
+      "stars": 0,
+      "forks": 0
+    },
+    "HuanLinOTO/dsh-plugin-aigc-canvas": {
+      "stars": 6,
+      "forks": 0
+    },
+    "HuanLinOTO/dsh-plugin-anti-ads": {
+      "stars": 5,
+      "forks": 0
+    },
+    "HuanLinOTO/dsh-plugin-auto-blame": {
+      "stars": 5,
+      "forks": 0
+    },
+    "HuanLinOTO/dsh-plugin-better-sidebar-plugin-office": {
+      "stars": 8,
+      "forks": 0
+    },
+    "HuanLinOTO/dsh-plugin-d399": {
+      "stars": 5,
+      "forks": 0
+    },
+    "HuanLinOTO/dsh-plugin-interpreters": {
+      "stars": 6,
+      "forks": 0
+    },
+    "HuanLinOTO/dsh-plugin-mineru": {
+      "stars": 14,
+      "forks": 1
+    },
+    "HuanLinOTO/dsh-plugin-pet-rs": {
+      "stars": 12,
+      "forks": 1
+    },
+    "HuanLinOTO/dsh-plugin-sleep": {
+      "stars": 6,
+      "forks": 0
+    },
+    "HuanLinOTO/dsh-plugin-spur": {
       "stars": 3,
+      "forks": 0
+    },
+    "HuanLinOTO/dsh-plugin-ya-workspace-sidebar": {
+      "stars": 7,
+      "forks": 0
+    },
+    "HuanLinOTO/dsh-plugin-yet-another-subagent": {
+      "stars": 7,
       "forks": 0
     },
     "huanyuLv/dsh-balance-tide": {
       "stars": 3,
+      "forks": 0
+    },
+    "Huasfan/dsh-tool-git": {
+      "stars": 2,
       "forks": 0
     },
     "huashenglian/dsh-her-eyes": {
@@ -3514,17 +2266,17 @@
       "stars": 3,
       "forks": 0
     },
-    "huiliyi37/Tianshu-Tui": {
-      "stars": 224,
-      "forks": 21
-    },
     "huiliyi37/dsh-tianshu-build": {
       "stars": 21,
       "forks": 2
     },
     "huiliyi37/dsh-tianshu-tui": {
-      "stars": 139,
+      "stars": 140,
       "forks": 5
+    },
+    "huiliyi37/Tianshu-Tui": {
+      "stars": 224,
+      "forks": 21
     },
     "humblebanana/dsh-record-replay": {
       "stars": 6,
@@ -3547,10 +2299,18 @@
       "forks": 0
     },
     "hyhmrright/brooks-lint": {
-      "stars": 1325,
+      "stars": 1326,
       "forks": 62
     },
     "hyls9527/dsh-plugins": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Hyna-hla/harness-remote": {
+      "stars": 0,
+      "forks": 0
+    },
+    "Hyperionjust/dsh-tool-underseal": {
       "stars": 3,
       "forks": 0
     },
@@ -3558,8 +2318,28 @@
       "stars": 6,
       "forks": 1
     },
+    "IAMLieutenant/dsh-tool-user-memory": {
+      "stars": 3,
+      "forks": 0
+    },
     "iamzcr/dsh-obsidian-assistant": {
       "stars": 3,
+      "forks": 0
+    },
+    "ICCuse/dsh-file-memory": {
+      "stars": 0,
+      "forks": 0
+    },
+    "ICCuse/dsh-knowledge": {
+      "stars": 0,
+      "forks": 0
+    },
+    "ICCuse/dsh-pain-point-check": {
+      "stars": 1,
+      "forks": 0
+    },
+    "ICCuse/dsh-premise-guard": {
+      "stars": 0,
       "forks": 0
     },
     "icefall7/dsh-plugin-scout": {
@@ -3567,7 +2347,7 @@
       "forks": 0
     },
     "icetomoyo/dsh_workflow": {
-      "stars": 54,
+      "stars": 55,
       "forks": 0
     },
     "icodesign/orbis": {
@@ -3592,11 +2372,23 @@
     },
     "imsai-sh/awesome-deepseek-harness-plugins": {
       "stars": 6,
-      "forks": 2
+      "forks": 3
     },
     "imsai-sh/zhuzhiliao": {
-      "stars": 2784,
+      "stars": 2786,
       "forks": 342
+    },
+    "Inference1/clarify-intent-and-establish-shared-understanding": {
+      "stars": 21,
+      "forks": 0
+    },
+    "InklingYoshi584/dsh-tool-hashline": {
+      "stars": 2,
+      "forks": 0
+    },
+    "InkWord01/DeepSeekHarness----Desktop": {
+      "stars": 3,
+      "forks": 0
     },
     "inmny/dsh-git-bash": {
       "stars": 2,
@@ -3635,23 +2427,27 @@
       "forks": 0
     },
     "iuikj/dsh-desktop": {
-      "stars": 17,
+      "stars": 18,
       "forks": 4
     },
     "iyllyt/dsh-btw": {
       "stars": 4,
       "forks": 0
     },
-    "jLeon-account/dsh-client-usage": {
-      "stars": 3,
-      "forks": 0
-    },
     "jasonsun29/ds-balance-card": {
       "stars": 3,
       "forks": 0
     },
+    "Jayden-X-L/forkprobe": {
+      "stars": 65,
+      "forks": 3
+    },
     "jelech/dsh-im-gateway": {
       "stars": 2,
+      "forks": 0
+    },
+    "Jelee0145/dsh-mem": {
+      "stars": 3,
       "forks": 0
     },
     "jelly-000/dsh-balance-monitor": {
@@ -3662,9 +2458,61 @@
       "stars": 1,
       "forks": 0
     },
+    "Jesse-njx/dsh-chatnode-wechat": {
+      "stars": 1,
+      "forks": 2
+    },
+    "Jesse-njx/dsh-cowork": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Jesse-njx/dsh-crosstalk": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Jesse-njx/dsh-docker": {
+      "stars": 1,
+      "forks": 0
+    },
+    "Jesse-njx/dsh-memory": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Jesse-njx/dsh-plugin-manager": {
+      "stars": 1,
+      "forks": 0
+    },
+    "Jesse-njx/dsh-plugin-manager-registry": {
+      "stars": 1,
+      "forks": 0
+    },
+    "Jesse-njx/dsh-polyglot": {
+      "stars": 1,
+      "forks": 1
+    },
+    "Jesse-njx/dsh-routines": {
+      "stars": 1,
+      "forks": 0
+    },
+    "Jesse-njx/dsh-skillport": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Jesse-njx/dsh-tmuxctl": {
+      "stars": 0,
+      "forks": 0
+    },
+    "Jesse-njx/dsh-voice": {
+      "stars": 0,
+      "forks": 0
+    },
     "jiangnanquan/dsh-ux": {
       "stars": 3,
       "forks": 0
+    },
+    "Jiao-XXX/dsh-auto-approve": {
+      "stars": 3,
+      "forks": 1
     },
     "jiayan-xu/dsh-codebase-memory": {
       "stars": 0,
@@ -3706,6 +2554,10 @@
       "stars": 1,
       "forks": 0
     },
+    "JingbiaoMei/Tokdash": {
+      "stars": 54,
+      "forks": 10
+    },
     "jinguanghai/deepseek-harness-forge-plugins": {
       "stars": 2,
       "forks": 0
@@ -3730,17 +2582,45 @@
       "stars": 4,
       "forks": 0
     },
+    "jLeon-account/dsh-client-usage": {
+      "stars": 3,
+      "forks": 0
+    },
     "joejojoking-cloud/dsh-file-explorer": {
-      "stars": 12,
+      "stars": 14,
       "forks": 1
+    },
+    "Jolly-J/dsh-deepseek-billing": {
+      "stars": 3,
+      "forks": 0
     },
     "juhe291/dsh-token-panel": {
       "stars": 6,
       "forks": 1
     },
+    "JuneLearn/dsh-image2-draw": {
+      "stars": 4,
+      "forks": 1
+    },
+    "JuneLearn/dsh-reasoning-settings": {
+      "stars": 5,
+      "forks": 0
+    },
+    "JustGenius-s/DSH-Desktop": {
+      "stars": 21,
+      "forks": 2
+    },
+    "JustGenius-s/DSH-Plugs": {
+      "stars": 5,
+      "forks": 2
+    },
     "jyh20030112/dsh-visual-plugin": {
       "stars": 6,
       "forks": 3
+    },
+    "KAIbsb/dsh-tray": {
+      "stars": 1,
+      "forks": 0
     },
     "kairoz9/dsh-mcp-admin": {
       "stars": 4,
@@ -3753,6 +2633,14 @@
     "kam74515-boop/dsh-everything-oauth": {
       "stars": 1,
       "forks": 0
+    },
+    "KanoNoUta/dsh-captain": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Karbo123/DSH-EvoResearch": {
+      "stars": 4,
+      "forks": 1
     },
     "kaziii/dsh-github-connector": {
       "stars": 4,
@@ -3771,7 +2659,7 @@
       "forks": 5
     },
     "kelai141/dsh-mobile-apk": {
-      "stars": 10,
+      "stars": 12,
       "forks": 3
     },
     "keleus/deepseek-pet": {
@@ -3786,12 +2674,36 @@
       "stars": 3,
       "forks": 1
     },
+    "KhalilYamber/dsh-envoy": {
+      "stars": 4,
+      "forks": 1
+    },
+    "KhanZou/Deepseek-Harness-as-Desktop": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Khellendros97/dsh-subscription-auth": {
+      "stars": 4,
+      "forks": 0
+    },
     "khiqwq/dsh-system-proxy": {
       "stars": 3,
       "forks": 0
     },
+    "KinGao294/dsh-skin": {
+      "stars": 11,
+      "forks": 3
+    },
     "kinyokun/dsh-session-import": {
       "stars": 3,
+      "forks": 0
+    },
+    "KirschBluteX/engineer-software": {
+      "stars": 6,
+      "forks": 1
+    },
+    "KitDoesIt/dsh-compaction-instant": {
+      "stars": 7,
       "forks": 0
     },
     "knlght/DSH-update-check": {
@@ -3800,6 +2712,10 @@
     },
     "knqiufan/powercontext-dsh": {
       "stars": 8,
+      "forks": 1
+    },
+    "Komeiji-Shiki/graycode-for-dsh": {
+      "stars": 5,
       "forks": 1
     },
     "kuangre123/codex-switch": {
@@ -3822,6 +2738,10 @@
       "stars": 3,
       "forks": 0
     },
+    "KYZHXL/deepseek-harness-snowsalt": {
+      "stars": 19,
+      "forks": 0
+    },
     "l541402398/dsh-file-uploads": {
       "stars": 0,
       "forks": 0
@@ -3834,15 +2754,47 @@
       "stars": 70,
       "forks": 19
     },
+    "LAN-TINA-WS/dsh-gui-customization": {
+      "stars": 10,
+      "forks": 1
+    },
     "lanlandeli/dsh-usage-stats": {
       "stars": 5,
       "forks": 3
+    },
+    "Lanxing6480/dsh-galgame": {
+      "stars": 5,
+      "forks": 0
+    },
+    "Lanxing6480/dsh-skill-manager": {
+      "stars": 3,
+      "forks": 0
+    },
+    "LaoYueHanNi/dsh-token-usage": {
+      "stars": 5,
+      "forks": 1
+    },
+    "LaplaceYoung/dsh-qq2006": {
+      "stars": 9,
+      "forks": 0
+    },
+    "LaplaceYoung/oh-my-dsh": {
+      "stars": 44,
+      "forks": 1
+    },
+    "LayneChai/superpowers-dsh": {
+      "stars": 26,
+      "forks": 0
     },
     "lbwnb666-ai/DeepSeekHarnessRemoteGateway": {
       "stars": 3,
       "forks": 0
     },
     "lco117/dsh-think-any-lang": {
+      "stars": 3,
+      "forks": 0
+    },
+    "LCYLYM/dsh-attachments": {
       "stars": 3,
       "forks": 0
     },
@@ -3866,9 +2818,29 @@
       "stars": 3,
       "forks": 0
     },
+    "Leeaoyin/dr-agent-skills": {
+      "stars": 3,
+      "forks": 0
+    },
     "leechen298/Code2Skill": {
       "stars": 2,
       "forks": 1
+    },
+    "LeemanCheung/dsh-agent-preset-recommender": {
+      "stars": 1,
+      "forks": 0
+    },
+    "LeemanCheung/dsh-task-dag": {
+      "stars": 1,
+      "forks": 0
+    },
+    "LeemanCheung/dsh-token-usage": {
+      "stars": 6,
+      "forks": 1
+    },
+    "LeemanCheung/dsh-whale-animation": {
+      "stars": 1,
+      "forks": 0
     },
     "left0ver/dsh-file-review": {
       "stars": 9,
@@ -3883,6 +2855,50 @@
       "forks": 3
     },
     "lehhair/dsh-split-panes": {
+      "stars": 3,
+      "forks": 0
+    },
+    "LemCAE/dsh-balance": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Leon0555/dsh-lan-access": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Leslie-SSS/seeWxapkg": {
+      "stars": 78,
+      "forks": 26
+    },
+    "LeslieWylie/dsh-fleet-audit": {
+      "stars": 1,
+      "forks": 0
+    },
+    "LeslieWylie/dsh-md-preview": {
+      "stars": 2,
+      "forks": 0
+    },
+    "LeslieWylie/dsh-ops-kit": {
+      "stars": 3,
+      "forks": 0
+    },
+    "LeslieWylie/dsh-session-search-pro": {
+      "stars": 1,
+      "forks": 0
+    },
+    "LeslieWylie/dsh-task-relay": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Letter2025/dsh-approval-llm": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Letter2025/dsh-model-failover": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Letter2025/dsh-tool-search": {
       "stars": 3,
       "forks": 0
     },
@@ -3919,7 +2935,11 @@
       "forks": 0
     },
     "lhmd/dsh-promotion-toolkit": {
-      "stars": 7,
+      "stars": 8,
+      "forks": 0
+    },
+    "LiangYin233/dsh-provider-model-configurator": {
+      "stars": 11,
       "forks": 0
     },
     "libinyam/dsh-vision-provider": {
@@ -3927,14 +2947,18 @@
       "forks": 0
     },
     "libukai/awesome-deepseek-harness": {
-      "stars": 43,
+      "stars": 47,
       "forks": 10
     },
     "liceses/dsh-gitbash-preset": {
-      "stars": 22,
+      "stars": 33,
       "forks": 0
     },
     "lifensame/dsh-plugin": {
+      "stars": 3,
+      "forks": 0
+    },
+    "LightClear/dsh-token-pricing": {
       "stars": 3,
       "forks": 0
     },
@@ -3962,6 +2986,14 @@
       "stars": 10,
       "forks": 0
     },
+    "LingLambda/dsh-logger-panel": {
+      "stars": 2,
+      "forks": 0
+    },
+    "LingLambda/dsh-undo": {
+      "stars": 3,
+      "forks": 1
+    },
     "linhay/harmony-next.skills": {
       "stars": 321,
       "forks": 23
@@ -3983,7 +3015,7 @@
       "forks": 0
     },
     "lire1131/dsh-undo-plugin": {
-      "stars": 7,
+      "stars": 6,
       "forks": 0
     },
     "litestartup-com/litestartup-skills": {
@@ -3995,11 +3027,11 @@
       "forks": 4
     },
     "liustack/modlens": {
-      "stars": 1414,
-      "forks": 40
+      "stars": 1449,
+      "forks": 41
     },
     "liustack/modsearch": {
-      "stars": 97,
+      "stars": 98,
       "forks": 5
     },
     "liustack/pptfast": {
@@ -4010,16 +3042,24 @@
       "stars": 4,
       "forks": 0
     },
+    "Lixiaoyiao/deepseek-harness-action": {
+      "stars": 7,
+      "forks": 1
+    },
     "liyupi/ai-guide": {
-      "stars": 18399,
-      "forks": 2094
+      "stars": 18410,
+      "forks": 2095
     },
     "liyupi/dsh-kun-like-pet": {
-      "stars": 18,
+      "stars": 20,
       "forks": 0
     },
     "lj970926/dsh-plugin-mermaid": {
       "stars": 2,
+      "forks": 0
+    },
+    "LJninse/dsh-open-in-ide": {
+      "stars": 4,
       "forks": 0
     },
     "loguhan/dsh-workshop": {
@@ -4050,16 +3090,32 @@
       "stars": 2,
       "forks": 0
     },
-    "loudMore/dsh-drop-to-path": {
-      "stars": 8,
+    "LoserFox/distill": {
+      "stars": 16,
+      "forks": 0
+    },
+    "LoserFox/dsh-git-identity": {
+      "stars": 7,
+      "forks": 0
+    },
+    "LoserFox/telegram": {
+      "stars": 6,
       "forks": 1
+    },
+    "loudMore/dsh-drop-to-path": {
+      "stars": 7,
+      "forks": 1
+    },
+    "LQ-1123/paste-to-workspace": {
+      "stars": 3,
+      "forks": 0
     },
     "lqhl/dsh-pi-tui": {
       "stars": 1,
       "forks": 0
     },
     "lssyd20070106/dsh-ui-preset-enhance": {
-      "stars": 2,
+      "stars": 4,
       "forks": 0
     },
     "lsz-asd/dsh-chameleon": {
@@ -4071,12 +3127,24 @@
       "forks": 0
     },
     "lsz-asd/dsh-plugin-session-delete": {
-      "stars": 10,
+      "stars": 11,
       "forks": 0
     },
     "ltao0829/dsh-task-notify": {
       "stars": 4,
       "forks": 0
+    },
+    "Luaphes/dsh-web-attention-badge": {
+      "stars": 4,
+      "forks": 0
+    },
+    "Luke-Yong/dsh-plugin-knowledge-graph": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Lum1104/dsh-browser": {
+      "stars": 107,
+      "forks": 6
     },
     "lunw/shopline-ai-toolkit-dsh": {
       "stars": 2,
@@ -4094,6 +3162,10 @@
       "stars": 0,
       "forks": 0
     },
+    "LvienOeria/dsh-launcher": {
+      "stars": 3,
+      "forks": 0
+    },
     "lvyuchuiyi/dsh-funpack": {
       "stars": 5,
       "forks": 0
@@ -4102,8 +3174,16 @@
       "stars": 3,
       "forks": 0
     },
+    "LX2000WASD/dsh-web-plugin-manager": {
+      "stars": 22,
+      "forks": 2
+    },
     "lxj808624/dsh-tool-git": {
       "stars": 3,
+      "forks": 1
+    },
+    "Lyn-77/ProMentor": {
+      "stars": 52,
       "forks": 1
     },
     "lynx-gt/dsh-subagent-cwd": {
@@ -4130,7 +3210,39 @@
       "stars": 0,
       "forks": 0
     },
+    "MaimoryLab/BootAgent": {
+      "stars": 87,
+      "forks": 5
+    },
+    "MaimoryLab/dib": {
+      "stars": 4,
+      "forks": 0
+    },
+    "Make0209/dsh-usage-stats": {
+      "stars": 8,
+      "forks": 0
+    },
     "makuralymi/dsh-webUI-Glass-Theme": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Mars-Sea/dsh-commandcode-provider": {
+      "stars": 6,
+      "forks": 1
+    },
+    "MarvekG/deepseek-harness-model-config": {
+      "stars": 11,
+      "forks": 0
+    },
+    "Max-Samson/dsh-usage-chart": {
+      "stars": 5,
+      "forks": 2
+    },
+    "MAXeaglet/dsh-bash-terminal": {
+      "stars": 1,
+      "forks": 2
+    },
+    "MAXeaglet/dsh-plugin-manager": {
       "stars": 3,
       "forks": 0
     },
@@ -4142,6 +3254,18 @@
       "stars": 1,
       "forks": 0
     },
+    "MC5lan/dsh-multimodal": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Meredith2328/dsh-sidebar-mode": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Meredith2328/dsh-sticky-note": {
+      "stars": 6,
+      "forks": 0
+    },
     "mervyn-teo/dsh-plugin-qr-connect": {
       "stars": 3,
       "forks": 0
@@ -4151,27 +3275,71 @@
       "forks": 0
     },
     "mexiaosqwq/dsh-web-mobile": {
-      "stars": 5,
+      "stars": 7,
+      "forks": 0
+    },
+    "MicroHEROX/dsh-exa-mcp": {
+      "stars": 2,
+      "forks": 0
+    },
+    "MicroHEROX/dsh-Kimi-WebBridge": {
+      "stars": 2,
+      "forks": 0
+    },
+    "MicroHEROX/dsh-koboldcpp-hands": {
+      "stars": 2,
+      "forks": 0
+    },
+    "MicroHEROX/dsh-unsloth-hands": {
+      "stars": 0,
+      "forks": 0
+    },
+    "MicroMilo/upstream-radar": {
+      "stars": 3,
       "forks": 0
     },
     "mikeyoubeach/dsh-minimal-v3": {
       "stars": 4,
       "forks": 0
     },
+    "Miku196/dsh-tokensave": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Mingxi2077/dsh-plugin-review": {
+      "stars": 2,
+      "forks": 0
+    },
     "minybear/DeepSeek-Harness-Pet": {
       "stars": 2,
       "forks": 0
     },
+    "Misaki14987/dsh-theme-taffy": {
+      "stars": 3,
+      "forks": 0
+    },
     "mishibeikejie/zat-dsh-engine": {
-      "stars": 13,
-      "forks": 1
+      "stars": 17,
+      "forks": 2
     },
     "mixin-ai/dsh-git-branch-switcher": {
       "stars": 0,
       "forks": 0
     },
+    "Miyazawai/dsh-client-pricing": {
+      "stars": 8,
+      "forks": 0
+    },
+    "MJ-Chang/dsh-vscode": {
+      "stars": 3,
+      "forks": 0
+    },
+    "MkaliezZ/dsh-agentfuse-plugin": {
+      "stars": 3,
+      "forks": 0
+    },
     "mnemon-dev/mnemon": {
-      "stars": 440,
+      "stars": 441,
       "forks": 61
     },
     "mochgolf/dsh-deepseek-vision-router": {
@@ -4186,17 +3354,49 @@
       "stars": 9,
       "forks": 1
     },
+    "Moeblack/deepseek-manners": {
+      "stars": 10,
+      "forks": 0
+    },
+    "Moeblack/dsh-message-edit": {
+      "stars": 18,
+      "forks": 0
+    },
+    "Moeblack/dsh-payload-capture": {
+      "stars": 1,
+      "forks": 0
+    },
     "moeblack/dsh-payload-capture": {
       "stars": 1,
       "forks": 0
     },
+    "Moeblack/dsh-prompt-studio": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Momojie-S/dsh-workspace-env": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Mongfayi/dsh-recall": {
+      "stars": 3,
+      "forks": 0
+    },
     "monk233/dsh-plugin-manager": {
+      "stars": 4,
+      "forks": 0
+    },
+    "MoonGlassKitty/dsh-tailscale-sync": {
       "stars": 3,
       "forks": 0
     },
     "moonquake2004/dsh-doctor": {
       "stars": 0,
       "forks": 0
+    },
+    "MorGogh/widget-dock": {
+      "stars": 4,
+      "forks": 1
     },
     "morlay/deepseek-harness": {
       "stars": 56,
@@ -4227,7 +3427,7 @@
       "forks": 2
     },
     "morluto/rea": {
-      "stars": 319,
+      "stars": 320,
       "forks": 26
     },
     "morluto/smokinggun": {
@@ -4238,12 +3438,24 @@
       "stars": 5,
       "forks": 0
     },
+    "Muelsysel/DeepSeek-Harness-Desktop": {
+      "stars": 3,
+      "forks": 0
+    },
     "multica-ai/dsh-multica-runtime": {
       "stars": 33,
       "forks": 0
     },
     "muretai/muretai-dsh-skill": {
       "stars": 1,
+      "forks": 0
+    },
+    "MuWinds/dsh-archived-sessions": {
+      "stars": 1,
+      "forks": 0
+    },
+    "MuziIsabel/dsh-win-notify": {
+      "stars": 4,
       "forks": 0
     },
     "my-dsh-plugin/session-archive-manager": {
@@ -4254,9 +3466,45 @@
       "stars": 3,
       "forks": 0
     },
+    "MysaDC/dsh-plugin-description": {
+      "stars": 2,
+      "forks": 0
+    },
     "myYangyunfan/dsh_desktop": {
-      "stars": 118,
-      "forks": 6
+      "stars": 129,
+      "forks": 7
+    },
+    "N0zoM1z0/th08": {
+      "stars": 8,
+      "forks": 1
+    },
+    "N0zoM1z0/vocaloid-mcp": {
+      "stars": 9,
+      "forks": 0
+    },
+    "Nagi-ovo/dsh-ads": {
+      "stars": 364,
+      "forks": 2
+    },
+    "Nagi-ovo/dsh-find-plugins": {
+      "stars": 75,
+      "forks": 1
+    },
+    "Nagi-ovo/dsh-visualize": {
+      "stars": 86,
+      "forks": 3
+    },
+    "Nanki-nn/dsh-answer-pet": {
+      "stars": 6,
+      "forks": 0
+    },
+    "NanmiCoder/dsh-agent-teams": {
+      "stars": 277,
+      "forks": 24
+    },
+    "NanmiCoder/dsh-auto-mode": {
+      "stars": 27,
+      "forks": 0
     },
     "nanshan1995/DSH-Plugin-Market": {
       "stars": 4,
@@ -4266,25 +3514,65 @@
       "stars": 4,
       "forks": 0
     },
+    "NEXTINDIE/DeepSeek-Harness-for-VS-Code": {
+      "stars": 3,
+      "forks": 2
+    },
     "nexu-io/open-design": {
-      "stars": 86465,
-      "forks": 10085
+      "stars": 86516,
+      "forks": 10089
+    },
+    "Nexus-Aethra/DSH-plugin-switch": {
+      "stars": 2,
+      "forks": 0
+    },
+    "NigelYao/dsh-view-modes": {
+      "stars": 1,
+      "forks": 0
     },
     "ningbainb/deepseek-harness-desktop": {
-      "stars": 36,
+      "stars": 37,
       "forks": 4
+    },
+    "Niuniu-Sir/dsh-data-ledger": {
+      "stars": 2,
+      "forks": 0
     },
     "niyongsheng/free-vision-skill": {
       "stars": 2,
+      "forks": 0
+    },
+    "Noelune/dsh-agent-relay": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Noelune/unified-agent-memory": {
+      "stars": 2,
+      "forks": 0
+    },
+    "NoNameLeGo/dsh-catppuccin": {
+      "stars": 3,
       "forks": 0
     },
     "nonewind/dsh-spend": {
       "stars": 4,
       "forks": 2
     },
+    "Noob-stupid/dsh-github-login": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Noob-stupid/dsh-plugin-hub": {
+      "stars": 19,
+      "forks": 1
+    },
     "noone89A/dsh-gauge": {
       "stars": 3,
       "forks": 0
+    },
+    "NoWint/Oh-My-DSH": {
+      "stars": 6,
+      "forks": 1
     },
     "nowledge-co/nowledge-mem-deepseek-harness": {
       "stars": 5,
@@ -4294,12 +3582,32 @@
       "stars": 561,
       "forks": 11
     },
+    "Nwflower/dsh-chat-import": {
+      "stars": 30,
+      "forks": 4
+    },
+    "Nwflower/dsh-file-claim": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Nyasers/dsh-hanako": {
+      "stars": 4,
+      "forks": 0
+    },
+    "OBdangshang07/DSH_Creative_Workshop": {
+      "stars": 53,
+      "forks": 0
+    },
+    "Octo-o-o-o/deepseek-harness-applicants": {
+      "stars": 52,
+      "forks": 2
+    },
     "octoparse/agent-skills": {
       "stars": 4,
       "forks": 2
     },
     "oil-oil/dsh-vision": {
-      "stars": 28,
+      "stars": 30,
       "forks": 2
     },
     "oitsukiii/deepseek-harness-lan": {
@@ -4310,29 +3618,25 @@
       "stars": 3,
       "forks": 0
     },
-    "omdsh-dev/DSH-better-sidebar": {
-      "stars": 842,
-      "forks": 47
-    },
-    "omdsh-dev/Qwen-MM-Plugins": {
-      "stars": 4,
-      "forks": 0
-    },
     "omdsh-dev/dsh-advisor": {
       "stars": 8,
       "forks": 2
     },
     "omdsh-dev/dsh-annotation": {
-      "stars": 43,
+      "stars": 44,
       "forks": 2
     },
     "omdsh-dev/dsh-at-file": {
-      "stars": 149,
+      "stars": 154,
       "forks": 7
     },
     "omdsh-dev/dsh-auto-chess": {
       "stars": 3,
       "forks": 0
+    },
+    "omdsh-dev/DSH-better-sidebar": {
+      "stars": 866,
+      "forks": 47
     },
     "omdsh-dev/dsh-book2skill": {
       "stars": 3,
@@ -4351,11 +3655,11 @@
       "forks": 0
     },
     "omdsh-dev/dsh-data-agent": {
-      "stars": 21,
+      "stars": 22,
       "forks": 1
     },
     "omdsh-dev/dsh-deep-research": {
-      "stars": 10,
+      "stars": 11,
       "forks": 0
     },
     "omdsh-dev/dsh-ernie-image": {
@@ -4375,12 +3679,12 @@
       "forks": 0
     },
     "omdsh-dev/dsh-genui": {
-      "stars": 81,
+      "stars": 82,
       "forks": 5
     },
     "omdsh-dev/dsh-gomoku": {
       "stars": 13,
-      "forks": 0
+      "forks": 1
     },
     "omdsh-dev/dsh-hub": {
       "stars": 4,
@@ -4411,7 +3715,7 @@
       "forks": 0
     },
     "omdsh-dev/dsh-mnemon": {
-      "stars": 18,
+      "stars": 21,
       "forks": 2
     },
     "omdsh-dev/dsh-mygo": {
@@ -4419,7 +3723,7 @@
       "forks": 0
     },
     "omdsh-dev/dsh-notification": {
-      "stars": 42,
+      "stars": 43,
       "forks": 4
     },
     "omdsh-dev/dsh-office": {
@@ -4427,7 +3731,7 @@
       "forks": 0
     },
     "omdsh-dev/dsh-open-in-vscode": {
-      "stars": 40,
+      "stars": 41,
       "forks": 3
     },
     "omdsh-dev/dsh-paddle-ocr": {
@@ -4530,6 +3834,10 @@
       "stars": 5,
       "forks": 0
     },
+    "omdsh-dev/Qwen-MM-Plugins": {
+      "stars": 4,
+      "forks": 0
+    },
     "omdsh-dev/sandbox-micro": {
       "stars": 3,
       "forks": 0
@@ -4546,6 +3854,10 @@
       "stars": 2,
       "forks": 0
     },
+    "OneZero-Y/dsh-plugin-kit": {
+      "stars": 3,
+      "forks": 0
+    },
     "onychen/learn-dsh": {
       "stars": 17,
       "forks": 3
@@ -4554,8 +3866,12 @@
       "stars": 1,
       "forks": 0
     },
+    "OoWJZZoO/dsh-read-image": {
+      "stars": 3,
+      "forks": 0
+    },
     "openAGFS/dsh-agfs": {
-      "stars": 0,
+      "stars": 1,
       "forks": 0
     },
     "openguardrails/dsh-tui": {
@@ -4587,7 +3903,7 @@
       "forks": 0
     },
     "orxz/deepseek-harness-themes": {
-      "stars": 4,
+      "stars": 5,
       "forks": 0
     },
     "orziz/odai": {
@@ -4603,12 +3919,24 @@
       "forks": 1
     },
     "paean-ai/deeptide": {
-      "stars": 1049,
+      "stars": 1050,
       "forks": 134
+    },
+    "PAKIKNOWLEDGE/dsh-client-ui-skin-claude": {
+      "stars": 3,
+      "forks": 0
+    },
+    "PandaColour/dsh-cmd-starter": {
+      "stars": 3,
+      "forks": 0
     },
     "pangzi499/dsh-balance-stats": {
       "stars": 3,
       "forks": 0
+    },
+    "PC2005-cloud/dsh-pet": {
+      "stars": 23,
+      "forks": 1
     },
     "pc439527/dsh-notify-bark": {
       "stars": 1,
@@ -4622,20 +3950,104 @@
       "stars": 4,
       "forks": 0
     },
+    "PerryLink/dsh-background-agents": {
+      "stars": 3,
+      "forks": 0
+    },
+    "PerryLink/dsh-checkpoint-rewind": {
+      "stars": 3,
+      "forks": 0
+    },
+    "PerryLink/dsh-composer-history": {
+      "stars": 3,
+      "forks": 0
+    },
+    "PerryLink/dsh-doublecheck": {
+      "stars": 2,
+      "forks": 0
+    },
+    "PerryLink/dsh-github": {
+      "stars": 3,
+      "forks": 1
+    },
+    "PerryLink/dsh-mcp-panel": {
+      "stars": 4,
+      "forks": 1
+    },
+    "PerryLink/dsh-memento": {
+      "stars": 3,
+      "forks": 0
+    },
+    "PerryLink/dsh-output-styles": {
+      "stars": 3,
+      "forks": 0
+    },
+    "PerryLink/dsh-permission-rules": {
+      "stars": 3,
+      "forks": 0
+    },
+    "PerryLink/dsh-session-pin": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Phant0Meow/dsh-memory-meow": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Pheobe-Southwood/dsh-acp-paseo": {
+      "stars": 4,
+      "forks": 0
+    },
     "phoenixlucky/zerotoken-skill": {
       "stars": 13,
       "forks": 0
     },
+    "Piccolo123/url-manager": {
+      "stars": 2,
+      "forks": 1
+    },
+    "Piccolo123/url-manager-mcp": {
+      "stars": 0,
+      "forks": 0
+    },
+    "PicGo/dsh-plugin": {
+      "stars": 4,
+      "forks": 0
+    },
+    "PicGo/PicGo-Core": {
+      "stars": 970,
+      "forks": 99
+    },
     "pig1et7/DeepSeek-Harness-Desktop": {
-      "stars": 3,
+      "stars": 4,
       "forks": 0
     },
     "pingfanfan/hello-dsh": {
       "stars": 44,
       "forks": 2
     },
+    "PivotStackIntelligence/dsh-github": {
+      "stars": 10,
+      "forks": 1
+    },
+    "Player-MINEPIG/dsh-llm-codex-oauth": {
+      "stars": 6,
+      "forks": 0
+    },
+    "Player-MINEPIG/dsh-tavern": {
+      "stars": 3,
+      "forks": 0
+    },
+    "PlutoKeating/dsh-lark-bot": {
+      "stars": 12,
+      "forks": 1
+    },
+    "PM-Shawn/Abu-Cowork": {
+      "stars": 326,
+      "forks": 77
+    },
     "poiuyjie/dsh-vision-opencode": {
-      "stars": 5,
+      "stars": 6,
       "forks": 1
     },
     "poplarity/dsh-science-workbench": {
@@ -4646,8 +4058,24 @@
       "stars": 79,
       "forks": 5
     },
+    "PwnKY/dsh-session-link": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Q1hangL/dsh-ask-guard": {
+      "stars": 1,
+      "forks": 0
+    },
     "qichuang321/dsh-plugin-browser": {
       "stars": 4,
+      "forks": 0
+    },
+    "Qinling-Melon-Farmers/dsh-memoir": {
+      "stars": 4,
+      "forks": 0
+    },
+    "Qintsg/dsh-safe-delete": {
+      "stars": 3,
       "forks": 0
     },
     "qiuqiukof-oss/hesi-dsh-plugins": {
@@ -4658,6 +4086,10 @@
       "stars": 1,
       "forks": 0
     },
+    "QT-Chen/dsh-mic-input": {
+      "stars": 1,
+      "forks": 2
+    },
     "qyw233/dsh-deeplink": {
       "stars": 1,
       "forks": 0
@@ -4666,8 +4098,16 @@
       "stars": 0,
       "forks": 0
     },
+    "R3alloc/dsh-session-deeplink": {
+      "stars": 6,
+      "forks": 0
+    },
     "radres/dsh-plugin-call-me": {
       "stars": 3,
+      "forks": 0
+    },
+    "RAFOLIE/dsh-desktop-windowos": {
+      "stars": 2,
       "forks": 0
     },
     "railgun0325/dsh-phone": {
@@ -4678,15 +4118,67 @@
       "stars": 3,
       "forks": 0
     },
+    "RangeKing/vibemeter": {
+      "stars": 3,
+      "forks": 1
+    },
+    "RayYeung1989/dsh-plugin-development": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Realyujie/dsh-us-stocks": {
+      "stars": 5,
+      "forks": 0
+    },
+    "Relistencode/dsh-extension-hub": {
+      "stars": 3,
+      "forks": 0
+    },
     "renat3u/dsh-web-archive": {
       "stars": 4,
       "forks": 0
+    },
+    "RongleCat/deepseek-app": {
+      "stars": 22,
+      "forks": 1
+    },
+    "Ruler4396/dsh-launcher": {
+      "stars": 81,
+      "forks": 3
     },
     "runzhliu/deepseek-harness-docker": {
       "stars": 8,
       "forks": 2
     },
+    "Rxiain/dsh-openviking": {
+      "stars": 2,
+      "forks": 0
+    },
+    "RYun601/dsh-launcher": {
+      "stars": 3,
+      "forks": 0
+    },
+    "SaiSenBox/dsh-boot-guard": {
+      "stars": 4,
+      "forks": 0
+    },
     "sakikoTGW/pack-agent": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Saktawdi/ha-orchestrator": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Sal7one/DSH-Design-Studio": {
+      "stars": 0,
+      "forks": 0
+    },
+    "SamizuHM/dsh-client-ui-theme-xp": {
+      "stars": 2,
+      "forks": 0
+    },
+    "SamXiaBing/dsh-adb": {
       "stars": 2,
       "forks": 0
     },
@@ -4702,12 +4194,20 @@
       "stars": 3,
       "forks": 0
     },
+    "Sanqi-normal/dsh-webui-market-plugin": {
+      "stars": 31,
+      "forks": 1
+    },
     "sanshanya/better-model-provider": {
       "stars": 4,
       "forks": 0
     },
     "sb1733831438-maker/DSH-closerAI": {
       "stars": 4,
+      "forks": 0
+    },
+    "Scorp1o117/dsh-tdai-memory": {
+      "stars": 3,
       "forks": 0
     },
     "seamas0825-lab/dsh-youmind-plugin": {
@@ -4718,17 +4218,65 @@
       "stars": 3,
       "forks": 0
     },
+    "Semidia/dsh-sampling-sliders": {
+      "stars": 1,
+      "forks": 0
+    },
+    "Semidia/dsh-service-control": {
+      "stars": 0,
+      "forks": 0
+    },
+    "Semidia/dsh-session-manager": {
+      "stars": 1,
+      "forks": 0
+    },
+    "SenmuuuuW/dsh-group-photo": {
+      "stars": 15,
+      "forks": 1
+    },
+    "SenmuuuuW/dsh-whale-report": {
+      "stars": 9,
+      "forks": 1
+    },
+    "SepineTam/mcp-for-stata": {
+      "stars": 243,
+      "forks": 33
+    },
     "sereinmono/dsh-desktop-pet": {
       "stars": 3,
+      "forks": 1
+    },
+    "Seryta/dsh-node-nav": {
+      "stars": 4,
+      "forks": 1
+    },
+    "Sev7een/ds-api-usage": {
+      "stars": 6,
+      "forks": 0
+    },
+    "Sev7een/dsh-plugin-automations": {
+      "stars": 1,
       "forks": 0
     },
     "severin-ye/uagent-sync": {
       "stars": 0,
       "forks": 0
     },
+    "SeverusZh/dsh-notify-windows": {
+      "stars": 3,
+      "forks": 0
+    },
+    "SeverusZh/dsh-plugin-subagent-director": {
+      "stars": 3,
+      "forks": 0
+    },
+    "SeverusZh/dsh-yolo-mode": {
+      "stars": 3,
+      "forks": 0
+    },
     "shaokeyibb/dsh-plugin-product-subagents": {
       "stars": 8,
-      "forks": 0
+      "forks": 1
     },
     "sharkymew/dsh-utility-tools": {
       "stars": 3,
@@ -4742,6 +4290,10 @@
       "stars": 4,
       "forks": 2
     },
+    "ShiXiangYu2/dsh-translate-pro": {
+      "stars": 0,
+      "forks": 0
+    },
     "shuguang1994/project-blueprint": {
       "stars": 11,
       "forks": 1
@@ -4750,12 +4302,20 @@
       "stars": 2,
       "forks": 0
     },
+    "Sikao-Engine/KimiX": {
+      "stars": 104,
+      "forks": 12
+    },
     "silencieuxzero/Better_Deepseek_Harkness": {
       "stars": 3,
       "forks": 0
     },
     "simon300000/dsh-auto": {
       "stars": 3,
+      "forks": 0
+    },
+    "Simon314620/dsh-turn-index": {
+      "stars": 1,
       "forks": 0
     },
     "sjh9714/clippy-harness": {
@@ -4771,8 +4331,8 @@
       "forks": 0
     },
     "skymecode/deepseek-harness-for-vscode": {
-      "stars": 4,
-      "forks": 1
+      "stars": 5,
+      "forks": 3
     },
     "sliverp/DeepSeek-harness-lark": {
       "stars": 2,
@@ -4794,6 +4354,34 @@
       "stars": 3,
       "forks": 0
     },
+    "Small-tailqwq/dsh-deep-whale": {
+      "stars": 700,
+      "forks": 22
+    },
+    "Small-tailqwq/dsh-deepcel": {
+      "stars": 7,
+      "forks": 0
+    },
+    "Small-tailqwq/dsh-tps": {
+      "stars": 1,
+      "forks": 0
+    },
+    "Smalldy/godot-bridge": {
+      "stars": 4,
+      "forks": 1
+    },
+    "SnowCrescenter-tech/dsh-desktop": {
+      "stars": 3,
+      "forks": 0
+    },
+    "SnowCrescenter-tech/dsh-milestone": {
+      "stars": 13,
+      "forks": 0
+    },
+    "Socialist-Sister/dsh-collaboration": {
+      "stars": 1,
+      "forks": 0
+    },
     "solknight48/dsh-memoryhub": {
       "stars": 3,
       "forks": 0
@@ -4802,9 +4390,21 @@
       "stars": 3,
       "forks": 0
     },
+    "Sparrived/DSH-Deeptop": {
+      "stars": 4,
+      "forks": 1
+    },
     "sperictao/codex-pro-max": {
       "stars": 27,
       "forks": 4
+    },
+    "Spirtxiaoqi7/mindspace-dsh-local-rag": {
+      "stars": 3,
+      "forks": 0
+    },
+    "SpookySandwich/dsh-smooth-stream": {
+      "stars": 3,
+      "forks": 0
     },
     "springbrand-lab/dsh-oauth-mcp-client": {
       "stars": 6,
@@ -4813,6 +4413,46 @@
     "springbrand-lab/dsh-skin-universe": {
       "stars": 3,
       "forks": 0
+    },
+    "SPYQWER1/dsh-codex-tools": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Sqhao-O/dsh-docs": {
+      "stars": 4,
+      "forks": 1
+    },
+    "StarChen-Cycler/octie-dsh-plugin": {
+      "stars": 3,
+      "forks": 0
+    },
+    "STARDUSTLC666/dsh-calendar": {
+      "stars": 3,
+      "forks": 0
+    },
+    "STARDUSTLC666/dsh-dingtalk": {
+      "stars": 3,
+      "forks": 0
+    },
+    "STARDUSTLC666/dsh-email": {
+      "stars": 4,
+      "forks": 1
+    },
+    "STARDUSTLC666/dsh-hyperframes": {
+      "stars": 2,
+      "forks": 0
+    },
+    "STARDUSTLC666/dsh-rss": {
+      "stars": 3,
+      "forks": 0
+    },
+    "STARDUSTLC666/dsh-slack": {
+      "stars": 4,
+      "forks": 1
+    },
+    "Starfie1d1272/dsh-builtin-toggles": {
+      "stars": 5,
+      "forks": 1
     },
     "starslittle/dsh-blue-whale": {
       "stars": 3,
@@ -4823,7 +4463,7 @@
       "forks": 0
     },
     "steven-kid/deepseek-harness-desktop": {
-      "stars": 125,
+      "stars": 126,
       "forks": 8
     },
     "stevenx65/dsh-balance-plugin": {
@@ -4831,8 +4471,12 @@
       "forks": 0
     },
     "strukto-ai/mirage": {
-      "stars": 3419,
-      "forks": 254
+      "stars": 3423,
+      "forks": 255
+    },
+    "Sttrevens/dsh-cost-meter": {
+      "stars": 0,
+      "forks": 1
     },
     "suimi8/dsh-test-runner": {
       "stars": 2,
@@ -4845,6 +4489,10 @@
     "sulfide2085/dsh-skill-manager": {
       "stars": 7,
       "forks": 1
+    },
+    "Sunrisepeak/dsh-index": {
+      "stars": 2,
+      "forks": 3
     },
     "sunshine-lang/dsh-pdf": {
       "stars": 4,
@@ -4878,8 +4526,20 @@
       "stars": 3,
       "forks": 0
     },
+    "SZMY-haruhi/dsh-desktop-shell": {
+      "stars": 2,
+      "forks": 0
+    },
+    "SZMY-haruhi/dsh-web-search-Tavily": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Tabbit-Browser/dsh-plugin": {
+      "stars": 15,
+      "forks": 2
+    },
     "taxueseek/argo": {
-      "stars": 70,
+      "stars": 71,
       "forks": 2
     },
     "taxueseek/dsh-files": {
@@ -4890,21 +4550,37 @@
       "stars": 0,
       "forks": 0
     },
+    "TecFancy/dsh-deeptutor": {
+      "stars": 2,
+      "forks": 0
+    },
     "techysy/deepseek-harness-fnos": {
-      "stars": 6,
+      "stars": 7,
       "forks": 0
     },
     "tencent-connect/dsh-qqbot": {
-      "stars": 20,
+      "stars": 24,
       "forks": 1
+    },
+    "TencentCloud/tencentmeeting-cli": {
+      "stars": 217,
+      "forks": 10
     },
     "tensorlakeai/dsh-tensorlake-sandbox": {
       "stars": 5,
       "forks": 2
     },
+    "Terry12138qy/dsh-vision": {
+      "stars": 3,
+      "forks": 0
+    },
     "text2future/flowix": {
       "stars": 279,
       "forks": 36
+    },
+    "TGYD-helige/dsh-pi": {
+      "stars": 3,
+      "forks": 0
     },
     "the-beating-light-of-the-nail/dsh-meme-hub": {
       "stars": 17,
@@ -4914,12 +4590,36 @@
       "stars": 4,
       "forks": 0
     },
+    "TheTianzz/dsh-billing": {
+      "stars": 6,
+      "forks": 1
+    },
+    "THEWOLFWALKER/dsh-notifier": {
+      "stars": 0,
+      "forks": 0
+    },
+    "TheYoungChen/dsh-plugin-market": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Thhoho/reSanity": {
+      "stars": 4,
+      "forks": 0
+    },
+    "ThreeBody6666/dsh-im-hub": {
+      "stars": 1,
+      "forks": 0
+    },
+    "THU-MAIC/dsh-openmaic": {
+      "stars": 7,
+      "forks": 2
+    },
     "tianji-qingtian/dsh-composer-polish": {
       "stars": 12,
       "forks": 0
     },
     "tianji-qingtian/dsh-model-router": {
-      "stars": 9,
+      "stars": 13,
       "forks": 0
     },
     "tianji-qingtian/dsh-spec-loop": {
@@ -4931,15 +4631,19 @@
       "forks": 0
     },
     "tianyhjg-lab/dsh-font": {
-      "stars": 2,
+      "stars": 3,
+      "forks": 0
+    },
+    "Tianyu209/dsh-browser-companion": {
+      "stars": 3,
       "forks": 0
     },
     "titanwings/colleague-skill": {
-      "stars": 22137,
+      "stars": 22180,
       "forks": 2045
     },
     "titanwings/dsh-automation": {
-      "stars": 32,
+      "stars": 33,
       "forks": 3
     },
     "titanwings/dsh-better-browser": {
@@ -4948,6 +4652,42 @@
     },
     "titanwings/dsh-plannotator": {
       "stars": 4,
+      "forks": 1
+    },
+    "Tkingxiao/dsh-any-background": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Tom6814/dsh-web": {
+      "stars": 3,
+      "forks": 1
+    },
+    "Tommy00748/dsh-theme-cyberpunk2077": {
+      "stars": 2,
+      "forks": 0
+    },
+    "TonyDua/dsh-web-search-exa": {
+      "stars": 2,
+      "forks": 1
+    },
+    "Totoro-qaq/Cobsidian": {
+      "stars": 9,
+      "forks": 2
+    },
+    "Toukaiteio/dsh-effort-tweak": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Toukaiteio/dsh-plugin-installer": {
+      "stars": 6,
+      "forks": 0
+    },
+    "TQSY114514/dsh-ui-appearance": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Treasure-hub-agent/dsh-story": {
+      "stars": 2,
       "forks": 0
     },
     "truelove-dreamer/dsh-plugin-git-workflow": {
@@ -4975,18 +4715,38 @@
       "forks": 0
     },
     "tt-a1i/archify": {
-      "stars": 12656,
-      "forks": 940
+      "stars": 12692,
+      "forks": 941
+    },
+    "TtTRz/dsh-wecom": {
+      "stars": 3,
+      "forks": 0
     },
     "turtle1999/turtle-ui": {
       "stars": 6,
       "forks": 1
     },
     "turtle2209/Bigfish": {
-      "stars": 183,
-      "forks": 7
+      "stars": 188,
+      "forks": 8
+    },
+    "TwotwoPiggy/dsh-balance": {
+      "stars": 5,
+      "forks": 1
+    },
+    "Tyan66666/billion-context-dsh": {
+      "stars": 10,
+      "forks": 0
+    },
+    "TYEclipse/dsh-webfetch": {
+      "stars": 3,
+      "forks": 0
     },
     "tzy168/dsh-web-theme-packs": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Uddoo/dsh-dashboard": {
       "stars": 3,
       "forks": 0
     },
@@ -4994,12 +4754,16 @@
       "stars": 17,
       "forks": 3
     },
+    "unknowbug/anchorlaw": {
+      "stars": 5,
+      "forks": 1
+    },
     "unknowbug/RE-Framework": {
       "stars": 7,
       "forks": 2
     },
-    "unknowbug/anchorlaw": {
-      "stars": 5,
+    "UNLINEARITY/dsh-code": {
+      "stars": 8,
       "forks": 1
     },
     "unnnnoooo/dsh-cue-plugin": {
@@ -5011,7 +4775,7 @@
       "forks": 2
     },
     "urzeye/dsh-outline": {
-      "stars": 5,
+      "stars": 6,
       "forks": 0
     },
     "urzeye/ophel": {
@@ -5022,9 +4786,25 @@
       "stars": 2,
       "forks": 0
     },
+    "UynajGI/dsh-ssh": {
+      "stars": 4,
+      "forks": 0
+    },
+    "V-dev-388/dsh-usage-meter": {
+      "stars": 0,
+      "forks": 0
+    },
+    "V1ki/dsh-plugin-subscriptions": {
+      "stars": 3,
+      "forks": 0
+    },
     "v587d/dsh-opencode-go-usage": {
       "stars": 2,
       "forks": 1
+    },
+    "VanillaCreamer/dsh-plugin-visual-composer": {
+      "stars": 3,
+      "forks": 0
     },
     "vcxmug/dsh-enhance": {
       "stars": 2,
@@ -5047,11 +4827,23 @@
       "forks": 1
     },
     "vibeinging/dsh-work": {
-      "stars": 26,
+      "stars": 109,
       "forks": 4
+    },
+    "Vim0x3c/dsh-session-manager": {
+      "stars": 4,
+      "forks": 1
+    },
+    "Vim0x3c/dsh-skin-appearance": {
+      "stars": 4,
+      "forks": 0
     },
     "vinyumao/dsh-opencode-usage": {
       "stars": 3,
+      "forks": 0
+    },
+    "Visol-456/dsh-llm-fallback": {
+      "stars": 5,
       "forks": 0
     },
     "vlln/dsh-loop": {
@@ -5071,12 +4863,20 @@
       "forks": 3
     },
     "vlln/whale-girl": {
-      "stars": 141,
+      "stars": 145,
       "forks": 6
+    },
+    "Void0312Aurora/dsh-desktop-electron": {
+      "stars": 4,
+      "forks": 1
+    },
+    "Vulcan626/dsh-pet": {
+      "stars": 3,
+      "forks": 0
     },
     "vvlife/awesome-deepseek-harness-plugins": {
       "stars": 3,
-      "forks": 5
+      "forks": 6
     },
     "w2112515/dsh-plugin-development": {
       "stars": 7,
@@ -5106,6 +4906,14 @@
       "stars": 4,
       "forks": 2
     },
+    "WardLu/shadow-vision": {
+      "stars": 2,
+      "forks": 0
+    },
+    "Wechsels/dsh-zotero-wiki": {
+      "stars": 3,
+      "forks": 0
+    },
     "wefio/dsh-plugin-audit": {
       "stars": 2,
       "forks": 0
@@ -5118,37 +4926,49 @@
       "stars": 6,
       "forks": 2
     },
+    "WeirdSky924/agent-handoff-skill": {
+      "stars": 25,
+      "forks": 3
+    },
+    "WEP-56/DSH-Launcher": {
+      "stars": 7,
+      "forks": 2
+    },
     "weshopai/weshop-dsh-plugin": {
       "stars": 6,
       "forks": 0
     },
     "wess09/DeepSeekHarnessDesktop": {
-      "stars": 30,
-      "forks": 4
+      "stars": 31,
+      "forks": 5
     },
     "white0dew/awesome-dsh-plugins": {
       "stars": 9,
       "forks": 4
-    },
-    "whiteguo233/OpenBiliClaw": {
-      "stars": 2419,
-      "forks": 117
     },
     "whiteguo233/dsh-cc-connect": {
       "stars": 2,
       "forks": 0
     },
     "whiteguo233/dsh-openbiliclaw": {
-      "stars": 24,
+      "stars": 25,
       "forks": 3
+    },
+    "whiteguo233/OpenBiliClaw": {
+      "stars": 2433,
+      "forks": 118
     },
     "whitelonng/dsh-plugin-describe-image": {
       "stars": 4,
       "forks": 0
     },
     "whitelonng/dshcode": {
-      "stars": 12,
+      "stars": 13,
       "forks": 2
+    },
+    "WhitePlusMS/dsh-input-plus": {
+      "stars": 4,
+      "forks": 0
     },
     "why913/dshx": {
       "stars": 2,
@@ -5156,7 +4976,7 @@
     },
     "whyihaveyou/dsh-suite": {
       "stars": 21,
-      "forks": 2
+      "forks": 3
     },
     "wikkd/dsh-remote-access-web": {
       "stars": 1,
@@ -5177,6 +4997,18 @@
     "william-jin-cmu/dsh-vision": {
       "stars": 22,
       "forks": 4
+    },
+    "WilliamLIiii/DeepSeek-Harness-billing-plugin": {
+      "stars": 9,
+      "forks": 0
+    },
+    "WindLX/paper_plane_x": {
+      "stars": 3,
+      "forks": 1
+    },
+    "Wine-Red/dsh-prompt-stash": {
+      "stars": 3,
+      "forks": 0
     },
     "wingoo/codex-plugin-dsh": {
       "stars": 4,
@@ -5242,6 +5074,10 @@
       "stars": 3,
       "forks": 0
     },
+    "WYH66666666/DSH-Transparent-UI-Plugin": {
+      "stars": 16,
+      "forks": 1
+    },
     "wz-heng/dsh-feishu-bridge": {
       "stars": 4,
       "forks": 0
@@ -5282,17 +5118,29 @@
       "stars": 0,
       "forks": 0
     },
+    "XavierMarquis93/dsh-plugin-conversation-outline": {
+      "stars": 5,
+      "forks": 0
+    },
+    "XCNXNXNX/dsh-portable-tavern": {
+      "stars": 5,
+      "forks": 0
+    },
+    "Xenia0922/dsh-opencode-go-usage": {
+      "stars": 5,
+      "forks": 1
+    },
     "xiajingchun/dsh-nebulagraph-v5": {
       "stars": 2,
       "forks": 0
     },
     "xiake595/touhou-hakurei": {
-      "stars": 5,
+      "stars": 6,
       "forks": 1
     },
     "xiaobright/dsh-anchored-standard": {
-      "stars": 903,
-      "forks": 30
+      "stars": 1116,
+      "forks": 35
     },
     "xiaohai-78/Top": {
       "stars": 4,
@@ -5331,8 +5179,16 @@
       "forks": 5
     },
     "xiincs/deepseek-harness-desktop": {
-      "stars": 34,
+      "stars": 35,
       "forks": 2
+    },
+    "Xilin3/dsh-prompt-persona": {
+      "stars": 4,
+      "forks": 0
+    },
+    "XiLuovo/dsh-session-timeline": {
+      "stars": 3,
+      "forks": 0
     },
     "ximengxiaolan/dsh-vision-bridge": {
       "stars": 3,
@@ -5343,7 +5199,7 @@
       "forks": 0
     },
     "xingj404-lab/dsh-desktop": {
-      "stars": 36,
+      "stars": 38,
       "forks": 4
     },
     "xingyingyuzhui/dsh-updater-ui": {
@@ -5355,7 +5211,7 @@
       "forks": 0
     },
     "xiufengsun/TokenTracker": {
-      "stars": 1311,
+      "stars": 1313,
       "forks": 133
     },
     "xmanrui/dsh-feishu": {
@@ -5370,8 +5226,16 @@
       "stars": 0,
       "forks": 0
     },
+    "XMoon/dsh-pi-tui": {
+      "stars": 5,
+      "forks": 0
+    },
+    "Xplore-LAB/dsh-plugin-asmemory": {
+      "stars": 0,
+      "forks": 0
+    },
     "xtxo/dsh-ui": {
-      "stars": 7,
+      "stars": 8,
       "forks": 1
     },
     "xuboboo/dsh-grok-geo": {
@@ -5390,17 +5254,17 @@
       "stars": 3,
       "forks": 0
     },
-    "xyTom/coding-tools-mcp": {
-      "stars": 779,
-      "forks": 132
-    },
     "xylt369/dsh-browser": {
-      "stars": 4,
+      "stars": 5,
       "forks": 1
     },
-    "yangYzc/dsh-plugin-quote-reply": {
-      "stars": 1,
-      "forks": 0
+    "xyTom/coding-tools-mcp": {
+      "stars": 780,
+      "forks": 134
+    },
+    "Yan-Zero/dsh-codex": {
+      "stars": 10,
+      "forks": 2
     },
     "yanglongyun/dsh-ramify": {
       "stars": 7,
@@ -5434,6 +5298,10 @@
       "stars": 2,
       "forks": 0
     },
+    "yangYzc/dsh-plugin-quote-reply": {
+      "stars": 1,
+      "forks": 0
+    },
     "yangzhe1003/dsh-web-search-firecrawl": {
       "stars": 2,
       "forks": 0
@@ -5442,21 +5310,29 @@
       "stars": 39,
       "forks": 3
     },
-    "yauntyour/DSH-Multimodal": {
-      "stars": 0,
-      "forks": 0
-    },
     "yauntyour/DSH-for-VSC": {
       "stars": 3,
       "forks": 0
     },
-    "yejiming/MuseAI": {
-      "stars": 545,
-      "forks": 46
+    "yauntyour/DSH-Multimodal": {
+      "stars": 0,
+      "forks": 0
+    },
+    "Ychris12138/dsh-usage-stats": {
+      "stars": 20,
+      "forks": 2
     },
     "yejiming/dsh-museai-tavern": {
       "stars": 5,
-      "forks": 0
+      "forks": 1
+    },
+    "yejiming/MuseAI": {
+      "stars": 546,
+      "forks": 46
+    },
+    "YELEBAI/dsh-plugin-marketplace": {
+      "stars": 13,
+      "forks": 1
     },
     "yequ172672/dsh-codex-subscription": {
       "stars": 7,
@@ -5478,16 +5354,44 @@
       "stars": 3,
       "forks": 0
     },
+    "Yi-111-a/dsh-jingling": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Yihong89/dsh-teacher": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Yihong89/dsh-usage-plugin": {
+      "stars": 3,
+      "forks": 0
+    },
     "yingjunnan/dsh-deepseek-quota": {
       "stars": 1,
       "forks": 0
     },
     "yjh051108/dsh-super-injector": {
-      "stars": 23,
+      "stars": 29,
       "forks": 1
+    },
+    "YKennen/dsh-zh-output": {
+      "stars": 3,
+      "forks": 0
+    },
+    "YLifeOnlyOnce/dsh-dynamic-island": {
+      "stars": 3,
+      "forks": 0
+    },
+    "YLifeOnlyOnce/dsh-smarthome": {
+      "stars": 3,
+      "forks": 0
     },
     "ylwl1997/noatmark-dsh-plugin": {
       "stars": 1,
+      "forks": 0
+    },
+    "YOGEMOW/DeepSeek_Prism": {
+      "stars": 3,
       "forks": 0
     },
     "yoke233/dsh-prime-agent": {
@@ -5495,8 +5399,12 @@
       "forks": 0
     },
     "ysr666/dsh-vision-router": {
-      "stars": 75,
+      "stars": 81,
       "forks": 8
+    },
+    "YTxue/dsh-skill-manager-ytxue": {
+      "stars": 4,
+      "forks": 0
     },
     "yu2025-luo/dsh-file-panel": {
       "stars": 3,
@@ -5522,6 +5430,10 @@
       "stars": 3,
       "forks": 0
     },
+    "YunTaiHua/illusion-agent": {
+      "stars": 17,
+      "forks": 6
+    },
     "yuqingsh/dsh-image-subagent": {
       "stars": 5,
       "forks": 0
@@ -5529,6 +5441,10 @@
     "yuukiLike/zeromd": {
       "stars": 33,
       "forks": 1
+    },
+    "Yuuz12/dsh-webui-auth": {
+      "stars": 5,
+      "forks": 0
     },
     "yuxino/dsh-blue-whale-maid": {
       "stars": 3,
@@ -5543,16 +5459,52 @@
       "forks": 0
     },
     "yyh-001/dsh-expression": {
+      "stars": 4,
+      "forks": 1
+    },
+    "YYTbit/awesome-dsh-bridges": {
+      "stars": 5,
+      "forks": 1
+    },
+    "YYTbit/dsh-plugin-claude-bridge": {
+      "stars": 5,
+      "forks": 0
+    },
+    "YYTbit/dsh-plugin-codex-bridge": {
+      "stars": 2,
+      "forks": 0
+    },
+    "YYTbit/dsh-plugin-cost-tracker": {
       "stars": 3,
       "forks": 0
     },
+    "YYTbit/dsh-plugin-opencode-bridge": {
+      "stars": 3,
+      "forks": 0
+    },
+    "YYTbit/dsh-plugin-pi-bridge": {
+      "stars": 2,
+      "forks": 0
+    },
     "yyyyukari/dsh-plugin-workshop": {
-      "stars": 17,
+      "stars": 18,
       "forks": 0
     },
     "yzd6552-commits/dsh-browseruse": {
       "stars": 3,
       "forks": 0
+    },
+    "Zachary7456/dsh-voice-mic": {
+      "stars": 3,
+      "forks": 0
+    },
+    "Zalpha263/dsh-file-explorer": {
+      "stars": 3,
+      "forks": 0
+    },
+    "ZASENJC/dsh-plugins-store": {
+      "stars": 25,
+      "forks": 3
     },
     "zdjmrq/dsh-user-plugins-manager": {
       "stars": 4,
@@ -5574,13 +5526,29 @@
       "stars": 27,
       "forks": 0
     },
+    "Zephyr-vibe/dsh-archived-sessions": {
+      "stars": 7,
+      "forks": 0
+    },
+    "Zephyr-vibe/dsh-personalize": {
+      "stars": 4,
+      "forks": 0
+    },
     "zeroa234/dsh-preset-minimal-windows": {
+      "stars": 3,
+      "forks": 0
+    },
+    "ZeroHackz/OpenFlowFrames": {
       "stars": 3,
       "forks": 0
     },
     "zevorn/dsh-humanize": {
       "stars": 3,
       "forks": 0
+    },
+    "ZgblKylin/dsh-terminal": {
+      "stars": 3,
+      "forks": 1
     },
     "zh667/TokenLedger": {
       "stars": 3,
@@ -5622,16 +5590,28 @@
       "stars": 0,
       "forks": 0
     },
-    "zhijun-dai/Catppuccin-dsh-theme": {
+    "ZhengQingJing/dsh-session-tree": {
       "stars": 3,
       "forks": 0
     },
-    "zhijun-dai/Solarized-dsh-theme": {
-      "stars": 0,
+    "Zhenyu98/dsh-context-doctor": {
+      "stars": 7,
+      "forks": 2
+    },
+    "zhijun-dai/Catppuccin-dsh-theme": {
+      "stars": 4,
       "forks": 0
     },
+    "zhijun-dai/Solarized-dsh-theme": {
+      "stars": 1,
+      "forks": 0
+    },
+    "Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins": {
+      "stars": 55,
+      "forks": 5
+    },
     "zhnt/loushang": {
-      "stars": 1131,
+      "stars": 1132,
       "forks": 186
     },
     "zhoushoujianwork/easyeda-agent": {
@@ -5643,11 +5623,15 @@
       "forks": 18
     },
     "zhu1090093659/dsh-web-ui": {
-      "stars": 2101,
-      "forks": 100
+      "stars": 2163,
+      "forks": 108
     },
     "zibo2025/dsh-orchestrator": {
       "stars": 5,
+      "forks": 0
+    },
+    "ZichengGurrr/dsh-window": {
+      "stars": 1,
       "forks": 0
     },
     "zimai233/dsh-adhd-copilot": {
@@ -5682,6 +5666,10 @@
       "stars": 6,
       "forks": 2
     },
+    "ZK-Andy/dsh-continual-evolve": {
+      "stars": 5,
+      "forks": 0
+    },
     "zoahdev/dsh-github-intelligence": {
       "stars": 0,
       "forks": 0
@@ -5703,16 +5691,28 @@
       "forks": 0
     },
     "zouyuxuan122/Deepseek-Harness-EAC": {
-      "stars": 33,
+      "stars": 46,
       "forks": 1
     },
     "zoyluoblue/mc_aiplayer": {
-      "stars": 185,
+      "stars": 186,
       "forks": 6
     },
     "zp-home/dsh-recommend": {
       "stars": 11,
       "forks": 1
+    },
+    "ZRui-C/dsh-computer-use": {
+      "stars": 3,
+      "forks": 0
+    },
+    "ZSeven-W/dsh-noema": {
+      "stars": 4,
+      "forks": 1
+    },
+    "ZSeven-W/dsh-openpencil": {
+      "stars": 68,
+      "forks": 2
     },
     "zsyu9779/dsh-desktop": {
       "stars": 3,

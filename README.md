@@ -7,18 +7,18 @@ A curated and ranked collection of popular DeepSeek Harness plugins, tools, proj
 ## 🔥 Popular
 
 <!-- POPULAR_START -->
-| Rank | Project | Stars | 7d Gain | 7d Growth |
+| Rank | Project | Stars | 3d Gain | 3d Growth |
 |---:|---|---:|---:|---:|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 100,522 | — | — |
-| 2 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 86,465 | — | — |
-| 3 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 50,488 | — | — |
-| 4 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 22,137 | — | — |
-| 5 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 18,399 | — | — |
-| 6 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 12,656 | — | — |
-| 7 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 4,042 | — | — |
-| 8 | [crafter-station/petdex](https://github.com/crafter-station/petdex) | 3,802 | — | — |
-| 9 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | 3,513 | — | — |
-| 10 | [strukto-ai/mirage](https://github.com/strukto-ai/mirage) | 3,419 | — | — |
+| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 102,146 | — | — |
+| 2 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 86,516 | — | — |
+| 3 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 50,492 | — | — |
+| 4 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 22,180 | — | — |
+| 5 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 18,410 | — | — |
+| 6 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 12,692 | — | — |
+| 7 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 4,048 | — | — |
+| 8 | [crafter-station/petdex](https://github.com/crafter-station/petdex) | 3,804 | — | — |
+| 9 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | 3,554 | — | — |
+| 10 | [strukto-ai/mirage](https://github.com/strukto-ai/mirage) | 3,423 | — | — |
 <!-- POPULAR_END -->
 
 ## 🚀 Trending
@@ -51,7 +51,7 @@ CC0 1.0
 
 *151 projects classified · showing top 20*
 
-| Rank | Project | Stars | 7d Growth |
+| Rank | Project | Stars | 3d Growth |
 |---:|---|---:|---:|
 | 1 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 18,399 | — |
 | 2 | [crafter-station/petdex](https://github.com/crafter-station/petdex) | 3,802 | — |
@@ -78,7 +78,7 @@ CC0 1.0
 
 *32 projects classified · showing top 20*
 
-| Rank | Project | Stars | 7d Growth |
+| Rank | Project | Stars | 3d Growth |
 |---:|---|---:|---:|
 | 1 | [alaliqing/claude-paper](https://github.com/alaliqing/claude-paper) | 294 | — |
 | 2 | [OBdangshang07/DSH_Creative_Workshop](https://github.com/OBdangshang07/DSH_Creative_Workshop) | 53 | — |
@@ -105,7 +105,7 @@ CC0 1.0
 
 *13 projects classified · showing top 13*
 
-| Rank | Project | Stars | 7d Growth |
+| Rank | Project | Stars | 3d Growth |
 |---:|---|---:|---:|
 | 1 | [609476965/dsh-LorebookMD](https://github.com/609476965/dsh-LorebookMD) | 4 | — |
 | 2 | [DEEP-IOS/dsh-humanizer](https://github.com/DEEP-IOS/dsh-humanizer) | 4 | — |
@@ -125,7 +125,7 @@ CC0 1.0
 
 *50 projects classified · showing top 20*
 
-| Rank | Project | Stars | 7d Growth |
+| Rank | Project | Stars | 3d Growth |
 |---:|---|---:|---:|
 | 1 | [liustack/modlens](https://github.com/liustack/modlens) | 1,414 | — |
 | 2 | [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) | 851 | — |
@@ -152,7 +152,7 @@ CC0 1.0
 
 *14 projects classified · showing top 14*
 
-| Rank | Project | Stars | 7d Growth |
+| Rank | Project | Stars | 3d Growth |
 |---:|---|---:|---:|
 | 1 | [lhmd/dsh-director-toolkit](https://github.com/lhmd/dsh-director-toolkit) | 7 | — |
 | 2 | [HuanLinOTO/dsh-plugin-aigc-canvas](https://github.com/HuanLinOTO/dsh-plugin-aigc-canvas) | 5 | — |
@@ -173,7 +173,7 @@ CC0 1.0
 
 *185 projects classified · showing top 20*
 
-| Rank | Project | Stars | 7d Growth |
+| Rank | Project | Stars | 3d Growth |
 |---:|---|---:|---:|
 | 1 | [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) | 2,784 | — |
 | 2 | [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) | 2,419 | — |
@@ -200,7 +200,7 @@ CC0 1.0
 
 *71 projects classified · showing top 20*
 
-| Rank | Project | Stars | 7d Growth |
+| Rank | Project | Stars | 3d Growth |
 |---:|---|---:|---:|
 | 1 | [adoresever/graph-memory](https://github.com/adoresever/graph-memory) | 512 | — |
 | 2 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 440 | — |
@@ -227,7 +227,7 @@ CC0 1.0
 
 *345 projects classified · showing top 20*
 
-| Rank | Project | Stars | 7d Growth |
+| Rank | Project | Stars | 3d Growth |
 |---:|---|---:|---:|
 | 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 100,522 | — |
 | 2 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 50,488 | — |
@@ -254,7 +254,7 @@ CC0 1.0
 
 *25 projects classified · showing top 20*
 
-| Rank | Project | Stars | 7d Growth |
+| Rank | Project | Stars | 3d Growth |
 |---:|---|---:|---:|
 | 1 | [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) | 86 | — |
 | 2 | [dsh-external/dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent) | 21 | — |
@@ -281,7 +281,7 @@ CC0 1.0
 
 *37 projects classified · showing top 20*
 
-| Rank | Project | Stars | 7d Growth |
+| Rank | Project | Stars | 3d Growth |
 |---:|---|---:|---:|
 | 1 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 86,465 | — |
 | 2 | [alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book) | 634 | — |
@@ -308,7 +308,7 @@ CC0 1.0
 
 *32 projects classified · showing top 20*
 
-| Rank | Project | Stars | 7d Growth |
+| Rank | Project | Stars | 3d Growth |
 |---:|---|---:|---:|
 | 1 | [omdsh-dev/dsh-notification](https://github.com/omdsh-dev/dsh-notification) | 42 | — |
 | 2 | [Chinesezjc/dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect) | 26 | — |
@@ -335,7 +335,7 @@ CC0 1.0
 
 *139 projects classified · showing top 20*
 
-| Rank | Project | Stars | 7d Growth |
+| Rank | Project | Stars | 3d Growth |
 |---:|---|---:|---:|
 | 1 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 2,815 | — |
 | 2 | [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) | 970 | — |
