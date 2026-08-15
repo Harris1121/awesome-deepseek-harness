@@ -32,7 +32,6 @@ _Not enough history yet._
 <!-- RISING_START -->
 _Not enough history yet._
 <!-- RISING_END -->
-
 ## 🧭 Popular by Category
 
 <!-- CATEGORIES_START -->
