@@ -2,7 +2,7 @@
   "sources": {
     "0xsline": 290,
     "0xsline-catalog": 1281,
-    "awesome-dsh-plugin": 567,
+    "awesome-dsh-plugin": 572,
     "libukai": 57
   },
   "projects": {
@@ -10753,6 +10753,13 @@
         ]
       }
     },
+    "a179-sanae/dsh-auto-collapse": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "bill9109/dsh-101": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -11040,6 +11047,20 @@
       }
     },
     "02Muller25/dsh-api-balance": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "kelearns/dsh-navigation-bar": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "kelearns/dsh-token-usage": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -11505,6 +11526,13 @@
         ]
       }
     },
+    "LeemanCheung/dsh-image-gen": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
     "shinjiyu/deepseek-harness-evolver": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -11835,6 +11863,13 @@
       }
     },
     "ywgATustcbbs/dsh-human-task": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
+    "AngelosZou/dsh-multi-folder": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
