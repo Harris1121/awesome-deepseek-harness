@@ -1,41 +1,61 @@
 # Awesome DeepSeek Harness
 
-A curated list of awesome DeepSeek Harness plugins, skills, tools, recipes and resources.
+A curated and ranked collection of popular DeepSeek Harness plugins, tools, projects and resources.
 
-## Contents
+> **Discover → Track → Rank → Explore**
 
-- Official Resources
-- Plugins
-- Skills
-- Tools
-- Recipes
-- Tutorials & Guides
-- Examples
-- Community
+This repository is the open data and community layer for the DeepSeek Harness ecosystem.
 
-## Official Resources
+## 🔥 Popular
 
-## Plugins
+The ranking is based primarily on GitHub community signals such as stars and star growth.
 
-### Coding
-### Browser & Web
-### Search
-### Memory
-### Database
-### DevOps
+<!-- POPULAR_START -->
+Run the GitHub Action once to populate this section.
+<!-- POPULAR_END -->
 
-## Skills
+## 🚀 Trending
 
-## Tools
+Projects with the strongest recent star growth.
 
-## Recipes
+<!-- TRENDING_START -->
+Run the GitHub Action once to populate this section.
+<!-- TRENDING_END -->
 
-## Tutorials & Guides
+## 🆕 New & Rising
 
-## Examples
+New projects that are gaining attention.
 
-## Community
+<!-- RISING_START -->
+Run the GitHub Action once to populate this section.
+<!-- RISING_END -->
 
-## Contributing
+## Methodology
 
-Contributions are welcome!
+The first version intentionally focuses on **community popularity**, not subjective quality scores.
+
+- Stars are the strongest signal.
+- Recent star growth is the second major signal.
+- Forks and contributor count are supporting signals.
+- Repository activity is shown as context, not as a substitute for popularity.
+- Every daily run stores a snapshot so growth can be measured over time.
+- Candidate discovery is automated; false positives can be excluded through `config/overrides.json`.
+
+As the dataset grows, the ranking model can be versioned without rewriting historical snapshots.
+
+## Automation
+
+A GitHub Actions workflow runs daily and can also be triggered manually.
+
+It:
+1. discovers candidate repositories from several GitHub searches;
+2. deduplicates repositories;
+3. records current GitHub metrics;
+4. stores a dated snapshot;
+5. calculates Popular / Trending / Rising;
+6. updates this README;
+7. commits the generated data back to the repository.
+
+## License
+
+CC0 1.0

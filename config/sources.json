@@ -1,0 +1,12 @@
+{
+  "searches": [
+    "deepseek harness",
+    "deepseek-harness",
+    "dsh-plugin",
+    "topic:dsh-plugin",
+    "\"DeepSeek Harness\""
+  ],
+  "per_query": 100,
+  "sort": "stars",
+  "order": "desc"
+}
