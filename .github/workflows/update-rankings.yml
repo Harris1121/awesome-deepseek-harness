@@ -1,31 +1,41 @@
 name: Update DSH Rankings
+
 on:
   schedule:
     - cron: "30 2 * * *"
   workflow_dispatch:
+
 concurrency:
   group: update-dsh-rankings
   cancel-in-progress: true
+
 permissions:
   contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - name: Update rankings
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 -u scripts/update_rankings.py
+        run: |
+          python3 -u scripts/update_rankings.py
+
       - name: Commit generated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data/projects.json data/history/
+
+          git add README.md data/
+
           if git diff --cached --quiet; then
             echo "No ranking changes."
           else
