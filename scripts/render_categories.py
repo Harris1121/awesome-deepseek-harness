@@ -8,7 +8,7 @@ CFG=json.loads((ROOT/"config/ecosystem.json").read_text(encoding="utf-8"))
 R=ROOT/"README.md"
 
 EM={"Coding & Development":"💻","Research & Search":"🔎","Writing & Content":"✍️","Image & Design":"🎨","Video & Audio":"🎬","Browser & Web":"🌐","Memory & Context":"🧠","Agents & Automation":"🤖","Data & Analytics":"📊","Documents & Office":"📄","Communication":"💬","Developer Experience":"🛠","Entertainment & Fun":"🎮"}
-STATUS={"Official":"🟢 Official","DSH Native":"🔌 DSH Native","Verified Compatible":"✓ Compatible","Community":"Community"}
+STATUS={"Official":"Official","DSH Native":"DSH Native","Verified Compatible":"Compatible","Community":"Community"}
 
 def compact_stars(n):
     return (f"{n/1000:.1f}".rstrip("0").rstrip(".")+"k") if n>=1000 else str(n)
@@ -16,7 +16,7 @@ def compact_stars(n):
 def clean_desc(s):
     s=re.sub(r"\s+"," ",(s or "")).strip()
     if not s:return "No description available yet."
-    return s[:197].rstrip()+"..." if len(s)>200 else s
+    return s[:137].rstrip()+"..." if len(s)>140 else s
 
 def popular_table():
     rows=sorted(D["projects"],key=lambda p:(-p.get("popularity_score_v24",0),-p.get("stars",0)))[:10]
@@ -35,12 +35,12 @@ def categories():
 
         selected=[]
         for i,p in enumerate(rows[:CFG["maximum_display"]],1):
-            if i>CFG["hide_after_rank"] and p.get("stars",0)<CFG["min_stars_after_rank"]:
+            if i > 10 and p.get("stars", 0) < 100:
                 continue
             selected.append(p)
         if not selected:continue
 
-        a += [f"### {EM[cat]}&nbsp;&nbsp;{cat}","", "<br>", ""]
+        a += [f"### {EM[cat]}&nbsp;&nbsp;{cat}",""]
         for i,p in enumerate(selected,1):
             status=STATUS.get(p.get("ecosystem_status"),p.get("ecosystem_status",""))
             gain="" if p.get("gain_3d") is None else f"&nbsp;&nbsp;📈 {p['gain_3d']:+,} / 3d"
