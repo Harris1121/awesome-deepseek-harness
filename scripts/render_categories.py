@@ -7,13 +7,7 @@ D=json.loads((ROOT/"data/categories.json").read_text(encoding="utf-8"))
 CFG=json.loads((ROOT/"config/ecosystem.json").read_text(encoding="utf-8"))
 R=ROOT/"README.md"
 
-EM={
-"Coding & Development":"💻","Research & Search":"🔎","Writing & Content":"✍️",
-"Image & Design":"🎨","Video & Audio":"🎬","Browser & Web":"🌐",
-"Memory & Context":"🧠","Agents & Automation":"🤖","Data & Analytics":"📊",
-"Documents & Office":"📄","Communication":"💬","Developer Experience":"🛠",
-"Entertainment & Fun":"🎮"
-}
+EM={"Coding & Development":"💻","Research & Search":"🔎","Writing & Content":"✍️","Image & Design":"🎨","Video & Audio":"🎬","Browser & Web":"🌐","Memory & Context":"🧠","Agents & Automation":"🤖","Data & Analytics":"📊","Documents & Office":"📄","Communication":"💬","Developer Experience":"🛠","Entertainment & Fun":"🎮"}
 STATUS={"Official":"🟢 Official","DSH Native":"🔌 DSH Native","Verified Compatible":"✓ Compatible","Community":"Community"}
 
 def compact_stars(n):
@@ -22,7 +16,7 @@ def compact_stars(n):
 def clean_desc(s):
     s=re.sub(r"\s+"," ",(s or "")).strip()
     if not s:return "No description available yet."
-    return s[:177].rstrip()+"..." if len(s)>180 else s
+    return s[:197].rstrip()+"..." if len(s)>200 else s
 
 def popular_table():
     rows=sorted(D["projects"],key=lambda p:(-p.get("popularity_score_v24",0),-p.get("stars",0)))[:10]
@@ -46,32 +40,40 @@ def categories():
             selected.append(p)
         if not selected:continue
 
-        a += [f"### {EM[cat]} {cat}",""]
+        a += [f"### {EM[cat]}&nbsp;&nbsp;{cat}","", "<br>", ""]
         for i,p in enumerate(selected,1):
-            gain="" if p.get("gain_3d") is None else f" · 📈 {p['gain_3d']:+,} / 3d"
             status=STATUS.get(p.get("ecosystem_status"),p.get("ecosystem_status",""))
-            a += [
-              f"**{i}. [{p['full_name']}]({p['html_url']})**  ",
-              f"⭐ {compact_stars(p.get('stars',0))}{gain} · {status}  ",
-              f"{clean_desc(p.get('description'))}",
-              ""
-            ]
+            gain="" if p.get("gain_3d") is None else f"&nbsp;&nbsp;📈 {p['gain_3d']:+,} / 3d"
+
+            # Project heading / metadata line.
+            a.append(
+                f"**{i}. [{p['full_name']}]({p['html_url']})**"
+                f"&nbsp;&nbsp;&nbsp;&nbsp;⭐ {compact_stars(p.get('stars',0))}"
+                f"{gain}"
+                f"&nbsp;&nbsp;&nbsp;&nbsp;{status}  "
+            )
+
+            # Add breathing room *inside* each project block, not only between projects.
+            a.append("<br>")
+            a.append(f"{clean_desc(p.get('description'))}  ")
+            a.append("<br><br>")
+            a.append("")
+
     return "\n".join(a)
 
 def trends():
-    blocks=[]; ps=D["projects"]
+    blocks=[];ps=D["projects"]
     t=[p for p in ps if (p.get("gain_3d") or 0)>0]
     if t:
         t.sort(key=lambda p:(-p["gain_3d"],-(p.get("growth_3d") or 0),-p.get("stars",0)))
-        a=["## 🔥 Trending","","| Rank | Project | Stars | 3d Gain |","|---:|---|---:|---:|"]
+        a=["## 🔥&nbsp;&nbsp;Trending","","| Rank | Project | Stars | 3d Gain |","|---:|---|---:|---:|"]
         for i,p in enumerate(t[:10],1):
             a.append(f"| {i} | [{p['full_name']}]({p['html_url']}) | {p['stars']:,} | {p['gain_3d']:+,} |")
         blocks.append("\n".join(a))
-
     r=[p for p in ps if (p.get("growth_3d") or 0)>0]
     if r:
         r.sort(key=lambda p:(-(p.get("growth_3d") or 0),-(p.get("gain_3d") or 0),-p.get("stars",0)))
-        a=["## 🌱 Rising","","| Rank | Project | Stars | 3d Growth |","|---:|---|---:|---:|"]
+        a=["## 🌱&nbsp;&nbsp;Rising","","| Rank | Project | Stars | 3d Growth |","|---:|---|---:|---:|"]
         for i,p in enumerate(r[:10],1):
             a.append(f"| {i} | [{p['full_name']}]({p['html_url']}) | {p['stars']:,} | {p['growth_3d']:+.1f}% |")
         blocks.append("\n".join(a))
@@ -81,6 +83,21 @@ def main():
     tracked=len(D["projects"])
     cats=sum(1 for c in CFG["use_cases"] if len([p for p in D["projects"] if p.get("primary_category")==c])>=CFG["minimum_display"])
     updated=(D.get("generated_at") or "")[:10] or dt.date.today().isoformat()
+
+    why = """## Why this list?
+
+- ⭐&nbsp;&nbsp;**Star-first rankings** — GitHub Stars are the primary popularity signal.
+
+- 📈&nbsp;&nbsp;**3-day momentum** — Short-term Star gains and growth highlight what's heating up now.
+
+- 🔄&nbsp;&nbsp;**Updated daily** — Projects, Stars, classifications and rankings refresh automatically every day.
+
+- 🧭&nbsp;&nbsp;**Practical categories** — Browse by what you want DeepSeek Harness to do.
+
+- 🟢&nbsp;&nbsp;**Ecosystem status** — Distinguishes Official, DSH Native, Compatible and Community projects.
+
+- 🔍&nbsp;&nbsp;**Broad discovery** — Projects are discovered across the public DeepSeek Harness ecosystem and GitHub.
+"""
 
     text=f"""# Awesome DeepSeek Harness
 
@@ -98,14 +115,7 @@ Awesome DeepSeek Harness is a curated, data-driven guide to plugins, clients, in
 
 <p align="center"><em>DeepSeek Harness — official GitHub repository preview.</em></p>
 
-## Why this list?
-
-- ⭐ **Star-first rankings** — GitHub Stars are the primary popularity signal.
-- 📈 **3-day momentum** — Short-term Star gains and growth highlight what's heating up now.
-- 🔄 **Updated daily** — Projects, Stars, classifications and rankings refresh automatically every day.
-- 🧭 **Practical categories** — Browse by what you want DeepSeek Harness to do.
-- 🟢 **Ecosystem status** — Distinguishes Official, DSH Native, Compatible and Community projects.
-- 🔍 **Broad discovery** — Projects are discovered across the public DeepSeek Harness ecosystem and GitHub.
+{why}
 
 > This is an independent community project and is not affiliated with or endorsed by DeepSeek.
 
@@ -131,28 +141,29 @@ pnpm dsh web
 
 **Official resources:** [DeepSeek Harness repository](https://github.com/deepseek-ai/deepseek-harness)
 
-## 🔥 Popular
+## 🔥&nbsp;&nbsp;Popular
 
 {popular_table()}
 
-## 🧭 Popular by Category
+## 🧭&nbsp;&nbsp;Popular by Category
 
 {categories()}
 """
     tr=trends()
     if tr:text+="\n"+tr+"\n\n"
-
-    text+="""## 📊 How Rankings Work
+    text+="""## 📊&nbsp;&nbsp;How Rankings Work
 
 **Popular** uses a Star-first model:
 
 - **70%** GitHub Stars
+
 - **20%** 3-day Star gain
+
 - **10%** 3-day Star growth rate
 
 When there is not yet enough 3-day history, the ranking naturally relies more heavily on current Stars. Trending and Rising are hidden until real historical data is available.
 
-## 🔄 Update Cycle
+## 🔄&nbsp;&nbsp;Update Cycle
 
 This repository updates automatically **every day**:
 
@@ -160,7 +171,7 @@ This repository updates automatically **every day**:
 
 Historical snapshots are retained so short-term growth is calculated from actual Star changes.
 
-## 🤝 Contributing
+## 🤝&nbsp;&nbsp;Contributing
 
 Found a useful DeepSeek Harness project that is missing, misclassified or incorrectly marked? Open an issue or pull request. For DSH plugins, adding the `dsh-plugin` GitHub topic also improves discoverability.
 
