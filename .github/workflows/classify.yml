@@ -1,4 +1,4 @@
-name: Classify DSH Ecosystem V2.4
+name: Classify DSH Ecosystem
 
 on:
   workflow_dispatch:
