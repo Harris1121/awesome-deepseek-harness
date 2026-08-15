@@ -7,7 +7,7 @@ on:
     types: [completed]
 
 concurrency:
-  group: classify-dsh-v24
+  group: classify-dsh-ecosystem
   cancel-in-progress: true
 
 permissions:
@@ -24,25 +24,21 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-
       - name: Seed competitor classifications
         run: python3 -u scripts/seed_competitor_categories.py
-
       - name: Classify ecosystem and status
         run: python3 -u scripts/classify.py
-
-      - name: Render category rankings
+      - name: Render README
         run: python3 -u scripts/render_categories.py
-
       - name: Commit generated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md data/competitor-categories.json data/categories.json
           if git diff --cached --quiet; then
-            echo "No V2.4 changes."
+            echo "No classification changes."
           else
-            git commit -m "feat: add ecosystem status and competitor-first categories"
+            git commit -m "docs: refresh ecosystem guide and rankings"
             git pull --rebase origin main
             git push origin main
           fi
