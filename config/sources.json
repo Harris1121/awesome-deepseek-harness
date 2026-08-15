@@ -1,12 +1,16 @@
 {
-  "searches": [
-    "deepseek harness",
+  "github_searches": [
+    "\"DeepSeek Harness\"",
     "deepseek-harness",
     "dsh-plugin",
     "topic:dsh-plugin",
-    "\"DeepSeek Harness\""
+    "deepseek dsh plugin"
   ],
-  "per_query": 100,
-  "sort": "stars",
-  "order": "desc"
+  "github_topic": "dsh-plugin",
+  "competitor_catalogs": [
+    "https://raw.githubusercontent.com/0xsline/awesome-deepseek-harness/main/CATALOG.md",
+    "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.md"
+  ],
+  "per_search": 100,
+  "max_candidates": 1000
 }
