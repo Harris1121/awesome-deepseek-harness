@@ -9,16 +9,16 @@ A curated and ranked collection of popular DeepSeek Harness plugins, tools, proj
 <!-- POPULAR_START -->
 | Rank | Project | Stars | 3d Gain | 3d Growth |
 |---:|---|---:|---:|---:|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 102,146 | — | — |
-| 2 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 86,516 | — | — |
-| 3 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 50,492 | — | — |
-| 4 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 22,180 | — | — |
-| 5 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 18,410 | — | — |
-| 6 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 12,692 | — | — |
-| 7 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 4,048 | — | — |
-| 8 | [crafter-station/petdex](https://github.com/crafter-station/petdex) | 3,804 | — | — |
-| 9 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | 3,554 | — | — |
-| 10 | [strukto-ai/mirage](https://github.com/strukto-ai/mirage) | 3,423 | — | — |
+| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 103,221 | — | — |
+| 2 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 86,539 | — | — |
+| 3 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 50,493 | — | — |
+| 4 | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 22,200 | — | — |
+| 5 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 18,422 | — | — |
+| 6 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 12,718 | — | — |
+| 7 | [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) | 4,058 | — | — |
+| 8 | [crafter-station/petdex](https://github.com/crafter-station/petdex) | 3,809 | — | — |
+| 9 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | 3,573 | — | — |
+| 10 | [strukto-ai/mirage](https://github.com/strukto-ai/mirage) | 3,426 | — | — |
 <!-- POPULAR_END -->
 
 ## 🚀 Trending
