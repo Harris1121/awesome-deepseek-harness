@@ -1,167 +1,77 @@
 #!/usr/bin/env python3
-import datetime as dt, json, math, os, re, time, urllib.parse, urllib.request
+import datetime as dt, json, math, os, re, urllib.request
 from pathlib import Path
+ROOT=Path(__file__).resolve().parents[1]
+TOKEN=os.environ.get('GITHUB_TOKEN','')
+HEADERS={'Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','User-Agent':'awesome-deepseek-harness-ranking'}
+if TOKEN: HEADERS['Authorization']=f'Bearer {TOKEN}'
 
-ROOT=Path(__file__).resolve().parents[1]; CONFIG=ROOT/'config'; DATA=ROOT/'data'; HISTORY=DATA/'history'; README=ROOT/'README.md'
-API='https://api.github.com'; TOKEN=os.environ.get('GITHUB_TOKEN','')
-HEAD={'Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','User-Agent':'awesome-deepseek-harness-radar'}
-if TOKEN: HEAD['Authorization']=f'Bearer {TOKEN}'
+def api_repo(name):
+    req=urllib.request.Request('https://api.github.com/repos/'+name,headers=HEADERS)
+    with urllib.request.urlopen(req,timeout=15) as r:return json.loads(r.read().decode())
 
-def get_json(url, headers=None):
-    req=urllib.request.Request(url,headers=headers or {'User-Agent':'awesome-deepseek-harness-radar'})
-    for i in range(5):
-        try:
-            with urllib.request.urlopen(req,timeout=30) as r:return json.loads(r.read().decode())
-        except Exception:
-            if i==4: raise
-            time.sleep(2**i)
-
-def get_text(url):
-    try:
-        req=urllib.request.Request(url,headers={'User-Agent':'awesome-deepseek-harness-radar'})
-        with urllib.request.urlopen(req,timeout=30) as r:return r.read().decode('utf-8','replace')
-    except Exception:return ''
-
-def api(path,params=None):
-    u=API+path
-    if params:u+='?'+urllib.parse.urlencode(params)
-    return get_json(u,HEAD)
-
-def load(p,d):
-    try:return json.loads(Path(p).read_text())
-    except Exception:return d
-
-def discover():
-    c=load(CONFIG/'sources.json',{}); repos={}
-    for q in c.get('github_searches',[]):
-        try:
-            x=api('/search/repositories',{'q':q,'sort':'stars','order':'desc','per_page':min(c.get('per_search',100),100)})
-            for r in x.get('items',[]):repos[r['full_name']]=r
-        except Exception as e: print('search failed',q,e)
-    try:
-        x=api('/search/repositories',{'q':'topic:'+c.get('github_topic','dsh-plugin'),'sort':'stars','order':'desc','per_page':100})
-        for r in x.get('items',[]):repos[r['full_name']]=r
-    except Exception as e: print('topic failed',e)
-    # Public catalogs are discovery seeds; we do not trust their metadata.
-    pat=re.compile(r'https?://github\.com/([A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+)')
-    for url in c.get('competitor_catalogs',[]):
-        for full in set(pat.findall(get_text(url))):
-            if full in repos:continue
-            if full.lower() in {'github/github'}:continue
-            try:repos[full]=api('/repos/'+full)
-            except Exception:pass
-    inc=load(CONFIG/'overrides.json',{}).get('include',[])
-    for full in inc:
-        if full not in repos:
-            try:repos[full]=api('/repos/'+full)
-            except Exception:pass
-    exc=set(load(CONFIG/'overrides.json',{}).get('exclude',[]))
-    return {k:v for k,v in repos.items() if k not in exc}
-
-def snapshots():
+def load_snaps():
     out=[]
-    for p in sorted(HISTORY.glob('*.json')):
-        try:out.append(json.loads(p.read_text()))
-        except Exception:pass
+    for p in sorted((ROOT/'data/history').glob('*.json')):
+        try: out.append(json.loads(p.read_text()))
+        except: pass
     return out
 
-def past(snaps,name,days):
-    target=dt.date.today()-dt.timedelta(days=days); best=None; dist=999
+def prior(snaps,name,days):
+    target=dt.date.today()-dt.timedelta(days=days); c=[]
     for s in snaps:
         try:d=dt.date.fromisoformat(s['date'])
-        except Exception:continue
-        n=abs((d-target).days)
-        if n<dist and n<=max(days+3,3) and name in s.get('projects',{}):best=s['projects'][name];dist=n
-    return best
+        except:continue
+        item=s.get('projects',{}).get(name)
+        if item:c.append((abs((d-target).days),item))
+    if not c:return None
+    c.sort(key=lambda x:x[0]); return c[0][1] if c[0][0] <= max(2,days//2) else None
 
-def pct(now,old):return None if old in (None,0) else (now-old)/old*100
-
-def category(r):
-    t=' '.join([r.get('name',''),r.get('description') or '',' '.join(r.get('topics') or [])]).lower()
-    if 'dsh-plugin' in r.get('topics',[]) or 'plugin' in t:return 'Plugins'
-    if any(x in t for x in ['desktop','electron']):return 'Desktop'
-    if any(x in t for x in ['tui','terminal ui']):return 'TUI'
-    if 'mcp' in t:return 'MCP'
-    if any(x in t for x in ['browser','playwright','puppeteer']):return 'Browser'
-    if 'skill' in t:return 'Skills'
-    if any(x in t for x in ['guide','tutorial','awesome','docs']):return 'Guides & Resources'
-    if any(x in t for x in ['web','frontend','ui']):return 'Web'
-    return 'Projects'
-
-def packages(r):
-    # Limited to the most-starred candidates to keep the daily run cheap.
-    owner=r['owner']['login']; name=r['name']; branch=urllib.parse.quote(r.get('default_branch') or 'main')
-    out={'npm':None,'pypi':None}
-    raw=get_text(f'https://raw.githubusercontent.com/{owner}/{name}/{branch}/package.json')
-    if raw:
-        try:
-            p=json.loads(raw); n=p.get('name')
-            if n:
-                reg=get_json('https://registry.npmjs.org/'+urllib.parse.quote(n,safe='@/'))
-                dl=get_json('https://api.npmjs.org/downloads/point/last-week/'+urllib.parse.quote(n,safe='@/'))
-                out['npm']={'name':n,'version':(reg.get('dist-tags') or {}).get('latest'),'weekly_downloads':dl.get('downloads')}
-        except Exception:pass
-    py=get_text(f'https://raw.githubusercontent.com/{owner}/{name}/{branch}/pyproject.toml')
-    m=re.search(r'(?m)^\s*name\s*=\s*["\']([^"\']+)["\']',py or '')
-    if m:
-        try:
-            x=get_json('https://pypi.org/pypi/'+urllib.parse.quote(m.group(1))+'/json');out['pypi']={'name':m.group(1),'version':(x.get('info') or {}).get('version')}
-        except Exception:pass
-    return out
-
-def build(raw,snaps):
-    ps=[]
-    for name,r in raw.items():
-        stars=int(r.get('stargazers_count',0)); forks=int(r.get('forks_count',0)); watch=int(r.get('subscribers_count',r.get('watchers_count',0)))
-        a=past(snaps,name,1); b=past(snaps,name,7); c=past(snaps,name,30)
-        s1=a.get('stars') if a else None;s7=b.get('stars') if b else None;s30=c.get('stars') if c else None
-        ps.append({'full_name':name,'name':r.get('name'),'owner':(r.get('owner') or {}).get('login'),'html_url':r.get('html_url'),'description':r.get('description') or '', 'homepage':r.get('homepage'),'stars':stars,'forks':forks,'watchers':watch,'open_issues':int(r.get('open_issues_count',0)),'language':r.get('language'),'license':(r.get('license') or {}).get('spdx_id'),'topics':r.get('topics') or [],'size_kb':int(r.get('size',0)),'default_branch':r.get('default_branch'),'created_at':r.get('created_at'),'updated_at':r.get('updated_at'),'pushed_at':r.get('pushed_at'),'archived':bool(r.get('archived')),'fork':bool(r.get('fork')),'category':category(r),'stars_1d_delta':None if s1 is None else stars-s1,'stars_7d_delta':None if s7 is None else stars-s7,'stars_30d_delta':None if s30 is None else stars-s30,'stars_1d_growth_pct':pct(stars,s1),'stars_7d_growth_pct':pct(stars,s7),'stars_30d_growth_pct':pct(stars,s30),'discovery':['github-search']+(['github-topic:dsh-plugin'] if 'dsh-plugin' in r.get('topics',[]) else []),'packages':None})
-    return ps
-
-def ln(v,m):return 0 if v is None or v<=0 or m<=0 else math.log1p(v)/math.log1p(m)
-
-def rank(ps):
-    mx=max([p['stars'] for p in ps] or [1]); gains=[max(0,p['stars_7d_delta']) for p in ps if p['stars_7d_delta'] is not None];mg=max(gains or [1])
-    for p in ps:
-        sc=ln(p['stars'],mx)
-        if p['stars_7d_delta'] is not None and gains:sc=.70*sc+.30*ln(max(0,p['stars_7d_delta']),mg)
-        p['popularity_score']=round(sc*100,2)
-        d=max(0,p['stars_7d_delta'] or 0);g=min(max(0,p['stars_7d_growth_pct'] or 0),500)/500
-        p['trending_score']=round((.65*ln(d,mg)+.35*g)*100,2)
-        p['rising_score']=round(p['trending_score']/(1+.08*math.log10(max(p['stars'],1))),2)
-    return ps
+def gain(now,b): return None if not b else now-b.get('stars',0)
+def pct(now,b): return None if not b or b.get('stars',0)<=0 else (now-b['stars'])/b['stars']*100
 
 def table(items):
-    rows=[]
+    if not items:return '_Not enough history yet._'
+    lines=['| Rank | Project | Stars | 7d Gain | 7d Growth |','|---:|---|---:|---:|---:|']
     for i,p in enumerate(items[:10],1):
-        g=p['stars_7d_growth_pct']; gt='—' if g is None else f'{g:+.1f}%'; d=re.sub(r'\s+',' ',p['description']).strip();d=(d[:85]+'...') if len(d)>88 else d
-        rows.append(f"| {i} | [{p['full_name']}]({p['html_url']}) | {p['stars']:,} | {gt} | {d or '—'} |")
-    return '| Rank | Project | Stars | 7d Growth | Description |\n|---:|---|---:|---:|---|\n'+'\n'.join(rows) if rows else '_No data yet._'
+        g=p.get('gain_7d'); gr=p.get('growth_7d')
+        lines.append(f"| {i} | [{p['full_name']}]({p['html_url']}) | {p['stars']:,} | {'—' if g is None else f'{g:+,}'} | {'—' if gr is None else f'{gr:+.1f}%'} |")
+    return '\n'.join(lines)
 
-def write_readme(ps):
-    sets={'POPULAR':sorted(ps,key=lambda p:(-p['popularity_score'],-p['stars'],p['full_name'])),'TRENDING':sorted(ps,key=lambda p:(-p['trending_score'],-(p['stars_7d_delta'] or -1),-p['stars'])),'RISING':sorted(ps,key=lambda p:(-p['rising_score'],-(p['stars_7d_delta'] or -1),p['stars']))}
-    text=README.read_text()
-    for key,items in sets.items():
-        text,n=re.subn(rf'(<!-- {key}_START -->)(.*?)(<!-- {key}_END -->)',rf'\1\n{table(items)}\n\3',text,flags=re.S)
-        if not n:raise RuntimeError('missing README marker '+key)
-    README.write_text(text)
-
-def save(ps):
-    today=dt.date.today().isoformat();now=dt.datetime.now(dt.timezone.utc).isoformat();HISTORY.mkdir(exist_ok=True)
-    snap={'date':today,'generated_at':now,'projects':{p['full_name']:{'stars':p['stars'],'forks':p['forks'],'watchers':p['watchers'],'updated_at':p['updated_at'],'pushed_at':p['pushed_at']} for p in ps}}
-    (HISTORY/f'{today}.json').write_text(json.dumps(snap,ensure_ascii=False,indent=2)+'\n')
-    (DATA/'projects.json').write_text(json.dumps({'generated_at':now,'schema_version':2,'projects':ps},ensure_ascii=False,indent=2)+'\n')
+def update_readme(projects):
+    popular=sorted(projects,key=lambda p:(-p['popularity_score'],-p['stars']))
+    trending=sorted([p for p in projects if (p.get('gain_7d') or 0)>0],key=lambda p:(-p['gain_7d'],-(p.get('growth_7d') or 0),-p['stars']))
+    rising=sorted([p for p in projects if (p.get('growth_7d') or 0)>0],key=lambda p:(-p['rising_score'],-p['stars']))
+    text=(ROOT/'README.md').read_text()
+    for key,val in [('POPULAR',table(popular)),('TRENDING',table(trending)),('RISING',table(rising))]:
+        text=re.sub(rf'(<!-- {key}_START -->)(.*?)(<!-- {key}_END -->)',rf'\1\n{val}\n\3',text,flags=re.S)
+    (ROOT/'README.md').write_text(text)
 
 def main():
-    print('1/6 Discovering...');raw=discover();print(' candidates:',len(raw))
-    snaps=snapshots();print('2/6 Historical snapshots:',len(snaps))
-    ps=rank(build(raw,snaps))
-    print('3/6 Package metadata for top 200 by stars...')
-    for p in sorted(ps,key=lambda x:-x['stars'])[:200]:
-        try:p['packages']=packages(raw[p['full_name']])
-        except Exception:p['packages']={'npm':None,'pypi':None}
-    print('4/6 Saving snapshot');save(ps)
-    print('5/6 Updating README');write_readme(ps)
-    print('6/6 Done:',len(ps),'projects')
-    for i,p in enumerate(sorted(ps,key=lambda x:(-x['popularity_score'],-x['stars']))[:10],1):print(f"{i:2}. {p['full_name']:<48} stars={p['stars']:<6} score={p['popularity_score']}")
-if __name__=='__main__':main()
+    pool=json.loads((ROOT/'data/repositories.json').read_text()).get('repositories',[])
+    snaps=load_snaps(); projects=[]; failures=[]
+    print(f'[1/4] Updating {len(pool)} repositories...',flush=True)
+    for i,e in enumerate(pool,1):
+        name=e['full_name']
+        try:
+            r=api_repo(name); stars=int(r.get('stargazers_count',0)); p7=prior(snaps,name,7); p30=prior(snaps,name,30)
+            projects.append({'full_name':name,'html_url':r.get('html_url'),'description':r.get('description') or '','stars':stars,'forks':int(r.get('forks_count',0)),'watchers':int(r.get('subscribers_count',0)),'open_issues':int(r.get('open_issues_count',0)),'language':r.get('language'),'license':(r.get('license') or {}).get('spdx_id'),'created_at':r.get('created_at'),'updated_at':r.get('updated_at'),'pushed_at':r.get('pushed_at'),'topics':r.get('topics') or [],'sources':e.get('sources',[]),'first_seen':e.get('first_seen'),'gain_7d':gain(stars,p7),'growth_7d':pct(stars,p7),'gain_30d':gain(stars,p30),'growth_30d':pct(stars,p30)})
+        except Exception as ex: failures.append({'repo':name,'error':str(ex)})
+        if i%25==0 or i==len(pool): print(f'  {i}/{len(pool)} complete; failures={len(failures)}',flush=True)
+    print('[2/4] Computing scores...',flush=True)
+    max_stars=max([p['stars'] for p in projects] or [1]); max_gain=max([max(p.get('gain_7d') or 0,0) for p in projects] or [1])
+    for p in projects:
+        s=math.log1p(p['stars'])/math.log1p(max_stars) if max_stars else 0
+        if p.get('gain_7d') is None: pop=s
+        else:
+            gs=math.log1p(max(p['gain_7d'],0))/math.log1p(max_gain) if max_gain>0 else 0
+            pop=.70*s+.30*gs
+        p['popularity_score']=round(pop*100,2); p['rising_score']=round(math.log1p(max(p.get('gain_7d') or 0,0))*max(p.get('growth_7d') or 0,0),3)
+    print('[3/4] Saving data...',flush=True)
+    now=dt.datetime.now(dt.timezone.utc).isoformat(); today=dt.date.today().isoformat()
+    (ROOT/'data/projects.json').write_text(json.dumps({'generated_at':now,'projects':projects,'failures':failures},ensure_ascii=False,indent=2)+'\n')
+    snap={'date':today,'generated_at':now,'projects':{p['full_name']:{'stars':p['stars'],'forks':p['forks']} for p in projects}}
+    (ROOT/'data/history'/f'{today}.json').write_text(json.dumps(snap,ensure_ascii=False,indent=2)+'\n')
+    print('[4/4] Updating README...',flush=True); update_readme(projects)
+    print(f'Done. Updated {len(projects)}; failures={len(failures)}.',flush=True)
+if __name__=='__main__': main()

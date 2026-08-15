@@ -1,16 +1,9 @@
 {
-  "github_searches": [
-    "\"DeepSeek Harness\"",
-    "deepseek-harness",
-    "dsh-plugin",
-    "topic:dsh-plugin",
-    "deepseek dsh plugin"
+  "competitor_sources": [
+    {"name":"0xsline","urls":["https://raw.githubusercontent.com/0xsline/awesome-deepseek-harness/main/CATALOG.md","https://raw.githubusercontent.com/0xsline/awesome-deepseek-harness/main/README.md"]},
+    {"name":"awesome-dsh-plugin","urls":["https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.md"]},
+    {"name":"libukai","urls":["https://raw.githubusercontent.com/libukai/awesome-deepseek-harness/main/README.md"]}
   ],
-  "github_topic": "dsh-plugin",
-  "competitor_catalogs": [
-    "https://raw.githubusercontent.com/0xsline/awesome-deepseek-harness/main/CATALOG.md",
-    "https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/README.md"
-  ],
-  "per_search": 100,
-  "max_candidates": 1000
+  "github_searches": ["topic:dsh-plugin", "\"DeepSeek Harness\"", "deepseek-harness", "\"dsh plugin\""],
+  "max_search_results_per_query": 100
 }
