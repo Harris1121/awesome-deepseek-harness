@@ -1,32 +1,33 @@
 {
   "generated_at": "2026-08-15T07:50:23.887177+00:00",
-  "ranking_model": "v2.4-star-first-3d",
+  "ranking_model": "star-first-3d",
   "weights": {
     "stars": 0.7,
     "star_gain_3d": 0.2,
     "growth_rate_3d": 0.1
   },
   "summary": {
-    "Writing & Content": 27,
-    "Memory & Context": 128,
-    "Coding & Development": 257,
-    "Agents & Automation": 186,
-    "Developer Experience": 287,
-    "Image & Design": 76,
-    "Browser & Web": 26,
-    "Unclassified": 237,
-    "Video & Audio": 25,
+    "Writing & Content": 26,
+    "Memory & Context": 129,
+    "Coding & Development": 256,
+    "Agents & Automation": 185,
+    "Developer Experience": 282,
+    "Image & Design": 77,
+    "Browser & Web": 25,
+    "Unclassified": 218,
+    "Video & Audio": 13,
     "Documents & Office": 42,
-    "Data & Analytics": 22,
+    "Data & Analytics": 21,
+    "Entertainment & Fun": 40,
     "Communication": 43,
-    "Research & Search": 75
+    "Research & Search": 74
   },
   "methods": {
     "metadata-fallback": 845,
-    "competitor-inherited": 313,
-    "unclassified": 237,
+    "competitor-inherited": 331,
+    "unclassified": 218,
     "competitor-conflict-resolved": 23,
-    "competitor-consensus": 13
+    "competitor-consensus": 14
   },
   "statuses": {
     "DSH Native": 1357,
@@ -1504,11 +1505,11 @@
       "growth_30d": null,
       "popularity_score": 15.52,
       "rising_score": 0.0,
-      "primary_category": "Writing & Content",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Writing & Content=3"
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -2593,10 +2594,12 @@
       "growth_30d": null,
       "popularity_score": 12.01,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "metadata-fallback",
+      "category_confidence": 0.6,
+      "classification_evidence": [
+        "metadata:Entertainment & Fun=1"
+      ],
       "source_categories": {
         "0xsline": [
           "趣味与娱乐（31）"
@@ -2800,7 +2803,7 @@
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Research & Search=3"
+        "metadata:Research & Search=4"
       ],
       "source_categories": {
         "0xsline": [
@@ -2945,7 +2948,7 @@
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Coding & Development=1"
+        "metadata:Coding & Development=2"
       ],
       "source_categories": {
         "0xsline": [
@@ -3288,11 +3291,11 @@
       "growth_30d": null,
       "popularity_score": 9.52,
       "rising_score": 0.0,
-      "primary_category": "Developer Experience",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Developer Experience=1"
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -3332,10 +3335,12 @@
       "growth_30d": null,
       "popularity_score": 21.52,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
+      "classification_evidence": [
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
+      ],
       "source_categories": {
         "0xsline": [
           "数据与可视化（6）"
@@ -5102,10 +5107,12 @@
       "growth_30d": null,
       "popularity_score": 9.52,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
+      "classification_evidence": [
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
+      ],
       "source_categories": {
         "awesome-dsh-plugin": [
           "Just for Fun"
@@ -5190,10 +5197,12 @@
       "growth_30d": null,
       "popularity_score": 29.46,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "metadata-fallback",
+      "category_confidence": 0.6,
+      "classification_evidence": [
+        "metadata:Entertainment & Fun=1"
+      ],
       "source_categories": {
         "0xsline": [
           "界面与体验（46）"
@@ -14671,11 +14680,11 @@
       "growth_30d": null,
       "popularity_score": 51.18,
       "rising_score": 0.0,
-      "primary_category": "Video & Audio",
+      "primary_category": "Entertainment & Fun",
       "category_method": "competitor-inherited",
       "category_confidence": 0.92,
       "classification_evidence": [
-        "0xsline:Fun & Lifestyle->Video & Audio"
+        "0xsline:Fun & Lifestyle->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -14892,10 +14901,12 @@
       "growth_30d": null,
       "popularity_score": 15.52,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "metadata-fallback",
+      "category_confidence": 0.6,
+      "classification_evidence": [
+        "metadata:Entertainment & Fun=1"
+      ],
       "source_categories": {
         "0xsline": [
           "🔌 单插件（179）"
@@ -15340,7 +15351,7 @@
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Memory & Context=2"
+        "metadata:Memory & Context=3"
       ],
       "source_categories": {
         "0xsline": [
@@ -15820,11 +15831,11 @@
       "growth_30d": null,
       "popularity_score": 25.04,
       "rising_score": 0.0,
-      "primary_category": "Video & Audio",
+      "primary_category": "Entertainment & Fun",
       "category_method": "competitor-inherited",
       "category_confidence": 0.92,
       "classification_evidence": [
-        "0xsline:Fun & Lifestyle->Video & Audio"
+        "0xsline:Fun & Lifestyle->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -16042,11 +16053,11 @@
       "growth_30d": null,
       "popularity_score": 22.86,
       "rising_score": 0.0,
-      "primary_category": "Video & Audio",
+      "primary_category": "Entertainment & Fun",
       "category_method": "competitor-inherited",
       "category_confidence": 0.92,
       "classification_evidence": [
-        "0xsline:Fun & Lifestyle->Video & Audio"
+        "0xsline:Fun & Lifestyle->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -16547,7 +16558,7 @@
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Documents & Office=3"
+        "metadata:Documents & Office=4"
       ],
       "source_categories": {
         "0xsline": [
@@ -16996,11 +17007,11 @@
       "growth_30d": null,
       "popularity_score": 22.22,
       "rising_score": 0.0,
-      "primary_category": "Video & Audio",
+      "primary_category": "Entertainment & Fun",
       "category_method": "competitor-inherited",
       "category_confidence": 0.92,
       "classification_evidence": [
-        "0xsline:Fun & Lifestyle->Video & Audio"
+        "0xsline:Fun & Lifestyle->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -17226,11 +17237,11 @@
       "growth_30d": null,
       "popularity_score": 9.52,
       "rising_score": 0.0,
-      "primary_category": "Writing & Content",
+      "primary_category": "Memory & Context",
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Writing & Content=1"
+        "metadata:Memory & Context=2"
       ],
       "source_categories": {
         "0xsline": [
@@ -17717,11 +17728,11 @@
       "growth_30d": null,
       "popularity_score": 22.86,
       "rising_score": 0.0,
-      "primary_category": "Video & Audio",
+      "primary_category": "Entertainment & Fun",
       "category_method": "competitor-inherited",
       "category_confidence": 0.92,
       "classification_evidence": [
-        "0xsline:Fun & Lifestyle->Video & Audio"
+        "0xsline:Fun & Lifestyle->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -19528,11 +19539,11 @@
       "growth_30d": null,
       "popularity_score": 30.02,
       "rising_score": 0.0,
-      "primary_category": "Video & Audio",
+      "primary_category": "Entertainment & Fun",
       "category_method": "competitor-inherited",
       "category_confidence": 0.92,
       "classification_evidence": [
-        "0xsline:Fun & Lifestyle->Video & Audio"
+        "0xsline:Fun & Lifestyle->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -21954,11 +21965,11 @@
       "growth_30d": null,
       "popularity_score": 19.95,
       "rising_score": 0.0,
-      "primary_category": "Video & Audio",
+      "primary_category": "Entertainment & Fun",
       "category_method": "competitor-inherited",
       "category_confidence": 0.92,
       "classification_evidence": [
-        "0xsline:Fun & Lifestyle->Video & Audio"
+        "0xsline:Fun & Lifestyle->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -22723,10 +22734,12 @@
       "growth_30d": null,
       "popularity_score": 19.03,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "metadata-fallback",
+      "category_confidence": 0.6,
+      "classification_evidence": [
+        "metadata:Entertainment & Fun=1"
+      ],
       "source_categories": {
         "0xsline": [
           "界面与体验（46）"
@@ -24817,10 +24830,12 @@
       "growth_30d": null,
       "popularity_score": 25.04,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
+      "classification_evidence": [
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
+      ],
       "source_categories": {
         "0xsline": [
           "趣味与娱乐（31）"
@@ -26025,11 +26040,11 @@
       "growth_30d": null,
       "popularity_score": 16.86,
       "rising_score": 0.0,
-      "primary_category": "Video & Audio",
+      "primary_category": "Image & Design",
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Video & Audio=2"
+        "metadata:Image & Design=1"
       ],
       "source_categories": {
         "0xsline": [
@@ -26069,10 +26084,12 @@
       "growth_30d": null,
       "popularity_score": 15.52,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "metadata-fallback",
+      "category_confidence": 0.6,
+      "classification_evidence": [
+        "metadata:Entertainment & Fun=1"
+      ],
       "source_categories": {
         "0xsline": [
           "界面与体验（46）"
@@ -26160,7 +26177,7 @@
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Documents & Office=2"
+        "metadata:Documents & Office=3"
       ],
       "source_categories": {
         "0xsline": [
@@ -26201,11 +26218,11 @@
       "growth_30d": null,
       "popularity_score": 15.52,
       "rising_score": 0.0,
-      "primary_category": "Documents & Office",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Documents & Office=1"
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -26297,7 +26314,7 @@
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Documents & Office=3"
+        "metadata:Documents & Office=4"
       ],
       "source_categories": {
         "0xsline": [
@@ -29246,7 +29263,7 @@
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Documents & Office=4"
+        "metadata:Documents & Office=5"
       ],
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -30456,11 +30473,11 @@
       "growth_30d": null,
       "popularity_score": 9.52,
       "rising_score": 0.0,
-      "primary_category": "Browser & Web",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Browser & Web=1"
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -31639,10 +31656,12 @@
       "growth_30d": null,
       "popularity_score": 21.52,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "metadata-fallback",
+      "category_confidence": 0.6,
+      "classification_evidence": [
+        "metadata:Entertainment & Fun=1"
+      ],
       "source_categories": {
         "0xsline": [
           "趣味与娱乐（31）"
@@ -32712,11 +32731,11 @@
       "growth_30d": null,
       "popularity_score": 36.92,
       "rising_score": 0.0,
-      "primary_category": "Data & Analytics",
+      "primary_category": "Coding & Development",
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Data & Analytics=2"
+        "metadata:Coding & Development=2"
       ],
       "source_categories": {
         "0xsline": [
@@ -33230,11 +33249,11 @@
       "growth_30d": null,
       "popularity_score": 12.01,
       "rising_score": 0.0,
-      "primary_category": "Video & Audio",
+      "primary_category": "Developer Experience",
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Video & Audio=1"
+        "metadata:Developer Experience=1"
       ],
       "source_categories": {
         "0xsline": [
@@ -34504,10 +34523,12 @@
       "growth_30d": null,
       "popularity_score": 12.01,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "metadata-fallback",
+      "category_confidence": 0.6,
+      "classification_evidence": [
+        "metadata:Entertainment & Fun=1"
+      ],
       "source_categories": {
         "0xsline": [
           "其他（519）"
@@ -34633,11 +34654,11 @@
       "growth_30d": null,
       "popularity_score": 25.5,
       "rising_score": 0.0,
-      "primary_category": "Developer Experience",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Developer Experience=1"
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -36110,11 +36131,11 @@
       "growth_30d": null,
       "popularity_score": 12.01,
       "rising_score": 0.0,
-      "primary_category": "Developer Experience",
+      "primary_category": "Documents & Office",
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Developer Experience=2"
+        "metadata:Documents & Office=2"
       ],
       "source_categories": {
         "0xsline": [
@@ -38497,7 +38518,7 @@
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Data & Analytics=2"
+        "metadata:Data & Analytics=3"
       ],
       "source_categories": {
         "0xsline": [
@@ -39389,11 +39410,11 @@
       "growth_30d": null,
       "popularity_score": 9.52,
       "rising_score": 0.0,
-      "primary_category": "Coding & Development",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Coding & Development=1"
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -39941,10 +39962,12 @@
       "growth_30d": null,
       "popularity_score": 20.77,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
+      "classification_evidence": [
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
+      ],
       "source_categories": {
         "0xsline": [
           "趣味与娱乐（31）"
@@ -41391,10 +41414,12 @@
       "growth_30d": null,
       "popularity_score": 19.03,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "metadata-fallback",
+      "category_confidence": 0.6,
+      "classification_evidence": [
+        "metadata:Entertainment & Fun=1"
+      ],
       "source_categories": {
         "0xsline": [
           "其他（519）"
@@ -41493,11 +41518,11 @@
       "growth_30d": null,
       "popularity_score": 51.18,
       "rising_score": 0.0,
-      "primary_category": "Developer Experience",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Developer Experience=1"
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -41598,7 +41623,7 @@
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Data & Analytics=1"
+        "metadata:Data & Analytics=2"
       ],
       "source_categories": {
         "0xsline": [
@@ -43158,10 +43183,12 @@
       "growth_30d": null,
       "popularity_score": 12.01,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "metadata-fallback",
+      "category_confidence": 0.6,
+      "classification_evidence": [
+        "metadata:Entertainment & Fun=1"
+      ],
       "source_categories": {
         "0xsline": [
           "趣味与娱乐（31）"
@@ -43350,10 +43377,12 @@
       "growth_30d": null,
       "popularity_score": 12.01,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
+      "classification_evidence": [
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
+      ],
       "source_categories": {
         "0xsline": [
           "趣味与娱乐（31）"
@@ -43546,10 +43575,12 @@
       "growth_30d": null,
       "popularity_score": 12.01,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "metadata-fallback",
+      "category_confidence": 0.6,
+      "classification_evidence": [
+        "metadata:Entertainment & Fun=1"
+      ],
       "source_categories": {
         "0xsline": [
           "趣味与娱乐（31）"
@@ -43774,10 +43805,12 @@
       "growth_30d": null,
       "popularity_score": 12.01,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "metadata-fallback",
+      "category_confidence": 0.6,
+      "classification_evidence": [
+        "metadata:Entertainment & Fun=1"
+      ],
       "source_categories": {
         "0xsline": [
           "数据与可视化（6）"
@@ -43955,10 +43988,12 @@
       "growth_30d": null,
       "popularity_score": 22.86,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
+      "classification_evidence": [
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
+      ],
       "source_categories": {
         "0xsline": [
           "趣味与娱乐（31）"
@@ -44497,7 +44532,7 @@
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Documents & Office=3"
+        "metadata:Documents & Office=4"
       ],
       "source_categories": {
         "0xsline": [
@@ -47009,11 +47044,11 @@
       "growth_30d": null,
       "popularity_score": 28.22,
       "rising_score": 0.0,
-      "primary_category": "Developer Experience",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Developer Experience=1"
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -51755,11 +51790,12 @@
       "growth_30d": null,
       "popularity_score": 0.0,
       "rising_score": 0.0,
-      "primary_category": "Video & Audio",
-      "category_method": "competitor-inherited",
-      "category_confidence": 0.92,
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-consensus",
+      "category_confidence": 0.98,
       "classification_evidence": [
-        "0xsline:Fun & Lifestyle->Video & Audio"
+        "0xsline:Fun & Lifestyle->Entertainment & Fun",
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -51803,11 +51839,11 @@
       "growth_30d": null,
       "popularity_score": 15.52,
       "rising_score": 0.0,
-      "primary_category": "Coding & Development",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Coding & Development=1"
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -52537,7 +52573,7 @@
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Memory & Context=2"
+        "metadata:Memory & Context=3"
       ],
       "source_categories": {
         "0xsline": [
@@ -53856,11 +53892,11 @@
       "growth_30d": null,
       "popularity_score": 13.94,
       "rising_score": 0.0,
-      "primary_category": "Video & Audio",
+      "primary_category": "Entertainment & Fun",
       "category_method": "competitor-inherited",
       "category_confidence": 0.92,
       "classification_evidence": [
-        "0xsline:Fun & Lifestyle->Video & Audio"
+        "0xsline:Fun & Lifestyle->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -53948,11 +53984,11 @@
       "growth_30d": null,
       "popularity_score": 13.94,
       "rising_score": 0.0,
-      "primary_category": "Video & Audio",
+      "primary_category": "Entertainment & Fun",
       "category_method": "competitor-inherited",
       "category_confidence": 0.92,
       "classification_evidence": [
-        "0xsline:Fun & Lifestyle->Video & Audio"
+        "0xsline:Fun & Lifestyle->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -56400,7 +56436,7 @@
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Video & Audio=3"
+        "metadata:Video & Audio=2"
       ],
       "source_categories": {
         "0xsline": [
@@ -57431,11 +57467,11 @@
       "growth_30d": null,
       "popularity_score": 0.0,
       "rising_score": 0.0,
-      "primary_category": "Developer Experience",
+      "primary_category": "Writing & Content",
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Developer Experience=1"
+        "metadata:Writing & Content=1"
       ],
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -58300,11 +58336,11 @@
       "growth_30d": null,
       "popularity_score": 43.29,
       "rising_score": 0.0,
-      "primary_category": "Coding & Development",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Coding & Development=2"
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -59843,11 +59879,11 @@
       "growth_30d": null,
       "popularity_score": 22.86,
       "rising_score": 0.0,
-      "primary_category": "Agents & Automation",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Agents & Automation=1"
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -61951,10 +61987,12 @@
       "growth_30d": null,
       "popularity_score": 9.52,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
+      "classification_evidence": [
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
+      ],
       "source_categories": {
         "awesome-dsh-plugin": [
           "Just for Fun"
@@ -62087,10 +62125,12 @@
       "growth_30d": null,
       "popularity_score": 13.94,
       "rising_score": 0.0,
-      "primary_category": "Unclassified",
-      "category_method": "unclassified",
-      "category_confidence": 0,
-      "classification_evidence": [],
+      "primary_category": "Coding & Development",
+      "category_method": "metadata-fallback",
+      "category_confidence": 0.6,
+      "classification_evidence": [
+        "metadata:Coding & Development=1"
+      ],
       "source_categories": {
         "0xsline": [
           "输入与提示词（18）"
@@ -65365,11 +65405,11 @@
       "growth_30d": null,
       "popularity_score": 13.94,
       "rising_score": 0.0,
-      "primary_category": "Research & Search",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Entertainment & Fun",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Research & Search=1"
+        "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
         "0xsline": [
@@ -67658,7 +67698,7 @@
       "category_method": "metadata-fallback",
       "category_confidence": 0.6,
       "classification_evidence": [
-        "metadata:Video & Audio=4"
+        "metadata:Video & Audio=3"
       ],
       "source_categories": {
         "awesome-dsh-plugin": [

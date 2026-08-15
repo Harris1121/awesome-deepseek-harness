@@ -2,7 +2,7 @@
   "sources": {
     "0xsline": 290,
     "0xsline-catalog": 1281,
-    "awesome-dsh-plugin": 546,
+    "awesome-dsh-plugin": 553,
     "libukai": 57
   },
   "projects": {
@@ -10604,6 +10604,13 @@
         ]
       }
     },
+    "Ricketts-Guo/dsh-shortcuts": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "magian1127/deepseek-harness-zh_pro": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -11128,6 +11135,13 @@
         ]
       }
     },
+    "jiay98528-dev/dsh-model-sync": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Models & Providers"
+        ]
+      }
+    },
     "HuiHuitie-zhu/dsh-incognito": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -11150,6 +11164,13 @@
       }
     },
     "LeslieWylie/dsh-task-relay": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Sessions & Messages"
+        ]
+      }
+    },
+    "ChuanTianML/dsh-local-share": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Sessions & Messages"
@@ -11496,6 +11517,13 @@
         ]
       }
     },
+    "akqwpeter-prog/dsh-media-skills": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
     "Dariandai/dsh-starter-pack": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -11776,6 +11804,13 @@
         ]
       }
     },
+    "YuanyuanMa03/cot-lint": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Skills"
+        ]
+      }
+    },
     "jeremy9682/dsh-skill-pack": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -11798,6 +11833,13 @@
       }
     },
     "xsoc1/math-research-dsh": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Skills"
+        ]
+      }
+    },
+    "PerryLink/dsh-plugin-guide": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Skills"
@@ -12284,6 +12326,13 @@
       }
     },
     "lucky8197/dsh-weekly-digest": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "HuiHuitie-zhu/dsh-check-update": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Development & Runtime"
