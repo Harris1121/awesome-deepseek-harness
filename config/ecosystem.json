@@ -36,7 +36,7 @@
     "Git & Engineering": "Coding & Development",
     "Output & Deliverables": "Writing & Content",
     "Notifications & Channels": "Communication",
-    "Fun & Lifestyle": "Video & Audio",
+    "Fun & Lifestyle": "Entertainment & Fun",
     "Infrastructure & Development": "Coding & Development",
     "Science & Research": "Research & Search"
   },
@@ -52,6 +52,7 @@
     "Data & Analytics",
     "Documents & Office",
     "Communication",
-    "Developer Experience"
+    "Developer Experience",
+    "Entertainment & Fun"
   ]
 }
