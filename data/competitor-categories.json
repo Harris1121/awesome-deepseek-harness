@@ -2,7 +2,7 @@
   "sources": {
     "0xsline": 290,
     "0xsline-catalog": 1281,
-    "awesome-dsh-plugin": 553,
+    "awesome-dsh-plugin": 567,
     "libukai": 57
   },
   "projects": {
@@ -3851,6 +3851,9 @@
       "source_categories": {
         "0xsline": [
           "界面与体验（46）"
+        ],
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
         ]
       }
     },
@@ -8359,6 +8362,9 @@
       "source_categories": {
         "0xsline": [
           "其他（519）"
+        ],
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
         ]
       }
     },
@@ -9205,6 +9211,9 @@
       "source_categories": {
         "0xsline": [
           "其他（519）"
+        ],
+        "awesome-dsh-plugin": [
+          "Themes & Appearance"
         ]
       }
     },
@@ -10618,6 +10627,13 @@
         ]
       }
     },
+    "NewDaNew/dsh-voice-input": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "13071301808/dsh-composer-expand": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -10744,6 +10760,13 @@
         ],
         "libukai": [
           "工作流与 Agent"
+        ]
+      }
+    },
+    "HongMing-Huang/dsh-file-upload": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
         ]
       }
     },
@@ -11016,6 +11039,13 @@
         ]
       }
     },
+    "02Muller25/dsh-api-balance": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "RevolutionLA/dsh-dream-skin": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -11083,6 +11113,13 @@
       "source_categories": {
         "awesome-dsh-plugin": [
           "Themes & Appearance"
+        ]
+      }
+    },
+    "GodD6366/dsh-sub2api": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Models & Providers"
         ]
       }
     },
@@ -11965,6 +12002,13 @@
         ]
       }
     },
+    "cloader/dsh-taskboard": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
     "ChuanTianML/dsh-open-with": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -12074,6 +12118,27 @@
       "source_categories": {
         "awesome-dsh-plugin": [
           "Notifications & Integrations"
+        ]
+      }
+    },
+    "BotonJ/dsh-plugin-sentinel": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "BotonJ/dsh-windtunnel": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "BotonJ/dsh-remote-link": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
         ]
       }
     },
@@ -12333,6 +12398,27 @@
       }
     },
     "HuiHuitie-zhu/dsh-check-update": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "izz-BLUE/dsh-devtools": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "PAKIKNOWLEDGE/dsh-auto-classifier": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "fuyue521/dsh-desktop-shortcut": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Development & Runtime"
