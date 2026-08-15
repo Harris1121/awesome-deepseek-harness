@@ -1,0 +1,57 @@
+{
+  "minimum_display": 5,
+  "target_display": 10,
+  "maximum_display": 20,
+  "hide_after_rank": 10,
+  "min_stars_after_rank": 10,
+  "popular_weights": {
+    "stars": 0.7,
+    "star_gain_3d": 0.2,
+    "growth_rate_3d": 0.1
+  },
+  "official_orgs": [
+    "deepseek-ai"
+  ],
+  "official_repos": [
+    "deepseek-ai/deepseek-harness"
+  ],
+  "native_evidence": [
+    "dsh.bundle",
+    "dsh plugin add",
+    "cordis",
+    "dsh-plugin"
+  ],
+  "compatible_evidence": [
+    "deepseek harness",
+    "deepseek-harness"
+  ],
+  "use_case_map": {
+    "Core": "Agents & Automation",
+    "Context & Search": "Research & Search",
+    "Input & Editing": "Documents & Office",
+    "UI & Experience": "Developer Experience",
+    "IDE & Clients": "Developer Experience",
+    "Browser & Remote": "Browser & Web",
+    "Models & Inference": "Image & Design",
+    "Git & Engineering": "Coding & Development",
+    "Output & Deliverables": "Writing & Content",
+    "Notifications & Channels": "Communication",
+    "Fun & Lifestyle": "Video & Audio",
+    "Infrastructure & Development": "Coding & Development",
+    "Science & Research": "Research & Search"
+  },
+  "use_cases": [
+    "Coding & Development",
+    "Research & Search",
+    "Writing & Content",
+    "Image & Design",
+    "Video & Audio",
+    "Browser & Web",
+    "Memory & Context",
+    "Agents & Automation",
+    "Data & Analytics",
+    "Documents & Office",
+    "Communication",
+    "Developer Experience"
+  ]
+}

@@ -1,4 +1,4 @@
-name: Classify DSH Projects
+name: Classify DSH Ecosystem V2.4
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ on:
     types: [completed]
 
 concurrency:
-  group: classify-dsh-projects
+  group: classify-dsh-v24
   cancel-in-progress: true
 
 permissions:
@@ -17,7 +17,7 @@ jobs:
   classify:
     if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     steps:
       - name: Checkout latest main
         uses: actions/checkout@v4
@@ -25,25 +25,24 @@ jobs:
           ref: main
           fetch-depth: 0
 
-      - name: Classify and render
-        run: |
-          python3 -u scripts/classify.py
-          python3 -u scripts/render_categories.py
+      - name: Seed competitor classifications
+        run: python3 -u scripts/seed_competitor_categories.py
 
-      - name: Supplement thin categories
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 -u scripts/supplement_categories.py
+      - name: Classify ecosystem and status
+        run: python3 -u scripts/classify.py
 
-      - name: Commit classification data
+      - name: Render category rankings
+        run: python3 -u scripts/render_categories.py
+
+      - name: Commit generated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data/categories.json data/repositories.json
+          git add README.md data/competitor-categories.json data/categories.json
           if git diff --cached --quiet; then
-            echo "No classification changes."
+            echo "No V2.4 changes."
           else
-            git commit -m "chore: classify DSH ecosystem"
+            git commit -m "feat: add ecosystem status and competitor-first categories"
             git pull --rebase origin main
             git push origin main
           fi
