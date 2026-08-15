@@ -8,26 +8,26 @@
   },
   "summary": {
     "Writing & Content": 26,
-    "Memory & Context": 129,
-    "Coding & Development": 256,
+    "Memory & Context": 127,
+    "Coding & Development": 255,
     "Agents & Automation": 186,
-    "Developer Experience": 282,
-    "Image & Design": 77,
+    "Developer Experience": 283,
+    "Image & Design": 78,
     "Browser & Web": 25,
     "Unclassified": 217,
     "Video & Audio": 13,
-    "Documents & Office": 42,
+    "Documents & Office": 43,
     "Data & Analytics": 21,
     "Entertainment & Fun": 40,
     "Communication": 43,
     "Research & Search": 74
   },
   "methods": {
-    "metadata-fallback": 845,
-    "competitor-inherited": 332,
+    "metadata-fallback": 840,
+    "competitor-inherited": 336,
     "unclassified": 217,
     "competitor-conflict-resolved": 23,
-    "competitor-consensus": 14
+    "competitor-consensus": 15
   },
   "statuses": {
     "DSH Native": 1357,
@@ -2112,6 +2112,9 @@
       "source_categories": {
         "0xsline": [
           "开发与工程（148）"
+        ],
+        "libukai": [
+          "开发工具"
         ]
       },
       "ecosystem_status": "DSH Native",
@@ -4223,6 +4226,9 @@
         "0xsline": [
           "Friendly links",
           "其他（519）"
+        ],
+        "libukai": [
+          "桌面与发行版"
         ]
       },
       "ecosystem_status": "DSH Native",
@@ -9119,6 +9125,9 @@
       "source_categories": {
         "0xsline": [
           "其他（519）"
+        ],
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
         ]
       },
       "ecosystem_status": "DSH Native",
@@ -20350,6 +20359,9 @@
       "source_categories": {
         "0xsline": [
           "研究与知识（19）"
+        ],
+        "libukai": [
+          "分析教程"
         ]
       },
       "ecosystem_status": "DSH Native",
@@ -27229,6 +27241,9 @@
         ],
         "awesome-dsh-plugin": [
           "Development & Runtime"
+        ],
+        "libukai": [
+          "桌面与发行版"
         ]
       },
       "ecosystem_status": "DSH Native",
@@ -27273,11 +27288,7 @@
       "classification_evidence": [
         "metadata:Developer Experience=3"
       ],
-      "source_categories": {
-        "libukai": [
-          "桌面与发行版"
-        ]
-      },
+      "source_categories": {},
       "ecosystem_status": "DSH Native",
       "status_evidence": [
         "native-evidence"
@@ -36086,6 +36097,9 @@
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
+        ],
+        "libukai": [
+          "浏览器、视觉与界面"
         ]
       },
       "ecosystem_status": "DSH Native",
@@ -42002,6 +42016,9 @@
       "source_categories": {
         "0xsline": [
           "其他（519）"
+        ],
+        "libukai": [
+          "外部集成"
         ]
       },
       "ecosystem_status": "DSH Native",
@@ -43959,6 +43976,9 @@
         ],
         "awesome-dsh-plugin": [
           "UI Enhancements"
+        ],
+        "libukai": [
+          "浏览器、视觉与界面"
         ]
       },
       "ecosystem_status": "DSH Native",
@@ -45901,6 +45921,9 @@
         ],
         "awesome-dsh-plugin": [
           "Development & Runtime"
+        ],
+        "libukai": [
+          "沙箱与执行"
         ]
       },
       "ecosystem_status": "DSH Native",
@@ -47295,13 +47318,14 @@
       "popularity_score": 12.01,
       "rising_score": 0.0,
       "primary_category": "Coding & Development",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Coding & Development=2"
+        "0xsline:Git & Engineering->Coding & Development"
       ],
       "source_categories": {
         "0xsline": [
+          "Git & Engineering",
           "开发与工程（148）"
         ],
         "awesome-dsh-plugin": [
@@ -47348,14 +47372,15 @@
       "growth_30d": null,
       "popularity_score": 12.01,
       "rising_score": 0.0,
-      "primary_category": "Memory & Context",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Documents & Office",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Memory & Context=2"
+        "0xsline:Input & Editing->Documents & Office"
       ],
       "source_categories": {
         "0xsline": [
+          "Input & Editing",
           "输入与提示词（18）"
         ],
         "awesome-dsh-plugin": [
@@ -47614,14 +47639,15 @@
       "growth_30d": null,
       "popularity_score": 12.01,
       "rising_score": 0.0,
-      "primary_category": "Coding & Development",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Image & Design",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Coding & Development=1"
+        "0xsline:Models & Inference->Image & Design"
       ],
       "source_categories": {
         "0xsline": [
+          "Models & Inference",
           "界面与体验（46）"
         ],
         "awesome-dsh-plugin": [
@@ -47668,13 +47694,14 @@
       "popularity_score": 12.01,
       "rising_score": 0.0,
       "primary_category": "Coding & Development",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Coding & Development=1"
+        "0xsline:Git & Engineering->Coding & Development"
       ],
       "source_categories": {
         "0xsline": [
+          "Git & Engineering",
           "安全与隐私（5）"
         ],
         "awesome-dsh-plugin": [
@@ -48191,9 +48218,6 @@
       "source_categories": {
         "0xsline": [
           "开发与工程（148）"
-        ],
-        "libukai": [
-          "分析教程"
         ]
       },
       "ecosystem_status": "DSH Native",
@@ -50717,13 +50741,16 @@
       "growth_30d": null,
       "popularity_score": 6.0,
       "rising_score": 0.0,
-      "primary_category": "Memory & Context",
-      "category_method": "metadata-fallback",
-      "category_confidence": 0.6,
+      "primary_category": "Developer Experience",
+      "category_method": "competitor-inherited",
+      "category_confidence": 0.92,
       "classification_evidence": [
-        "metadata:Memory & Context=1"
+        "0xsline:UI & Experience->Developer Experience"
       ],
       "source_categories": {
+        "0xsline": [
+          "UI & Experience"
+        ],
         "awesome-dsh-plugin": [
           "UI Enhancements"
         ]
@@ -53527,7 +53554,11 @@
       "classification_evidence": [
         "metadata:Developer Experience=1"
       ],
-      "source_categories": {},
+      "source_categories": {
+        "libukai": [
+          "桌面与发行版"
+        ]
+      },
       "ecosystem_status": "Verified Compatible",
       "status_evidence": [
         "compatibility-evidence"
@@ -54672,6 +54703,9 @@
       "source_categories": {
         "0xsline": [
           "其他（519）"
+        ],
+        "libukai": [
+          "外部集成"
         ]
       },
       "ecosystem_status": "DSH Native",
@@ -61996,12 +62030,16 @@
       "popularity_score": 9.52,
       "rising_score": 0.0,
       "primary_category": "Entertainment & Fun",
-      "category_method": "competitor-inherited",
-      "category_confidence": 0.92,
+      "category_method": "competitor-consensus",
+      "category_confidence": 0.98,
       "classification_evidence": [
+        "0xsline:Fun & Lifestyle->Entertainment & Fun",
         "awesome-dsh-plugin:Just for Fun->Entertainment & Fun"
       ],
       "source_categories": {
+        "0xsline": [
+          "Fun & Lifestyle"
+        ],
         "awesome-dsh-plugin": [
           "Just for Fun"
         ]
@@ -68398,6 +68436,9 @@
       "source_categories": {
         "0xsline": [
           "其他（519）"
+        ],
+        "libukai": [
+          "上下文、会话与输入"
         ]
       },
       "ecosystem_status": "DSH Native",
