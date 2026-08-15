@@ -53,10 +53,7 @@ def categories():
                 f"&nbsp;&nbsp;&nbsp;&nbsp;{status}  "
             )
 
-            # Add breathing room *inside* each project block, not only between projects.
-            a.append("<br>")
             a.append(f"{clean_desc(p.get('description'))}  ")
-            a.append("<br><br>")
             a.append("")
 
     return "\n".join(a)
