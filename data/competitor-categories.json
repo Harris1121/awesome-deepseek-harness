@@ -2,7 +2,7 @@
   "sources": {
     "0xsline": 373,
     "0xsline-catalog": 1284,
-    "awesome-dsh-plugin": 870,
+    "awesome-dsh-plugin": 885,
     "libukai": 70
   },
   "projects": {
@@ -2126,6 +2126,9 @@
       "source_categories": {
         "0xsline": [
           "Security & Governance"
+        ],
+        "awesome-dsh-plugin": [
+          "Skills"
         ]
       }
     },
@@ -2915,6 +2918,9 @@
       "source_categories": {
         "0xsline": [
           "Runtime & Operations"
+        ],
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
         ]
       }
     },
@@ -11421,6 +11427,13 @@
         ]
       }
     },
+    "a735624258/dsh-skill-picker": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "Limitinfinitude/DSH-Right-Sidebar": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -11598,6 +11611,13 @@
       }
     },
     "wjy9902/dsh-web-default-session": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "ChuanTianML/prompt-for-me": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -12240,6 +12260,13 @@
         ]
       }
     },
+    "warmwine/dsh-ui-font": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "Ultronen/dsh-liquid-glass": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -12363,6 +12390,13 @@
       "source_categories": {
         "awesome-dsh-plugin": [
           "Themes & Appearance"
+        ]
+      }
+    },
+    "ringoage/dsh-subagent-model-picker": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Models & Providers"
         ]
       }
     },
@@ -13126,6 +13160,13 @@
         ]
       }
     },
+    "54xkeee/dsh-vision": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
     "Fro2en12/dsh-download-progress": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -13204,6 +13245,13 @@
       }
     },
     "omdsh-dev/dsh-kb-sieve": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
+    "htcqp802/dsh-knowledge-base": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -13693,6 +13741,34 @@
         ]
       }
     },
+    "somnusovis/dsh-multi-workspace": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
+    "zjl1989-li/dsh-harness-zh": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
+    "zjl1989-li/dsh-harness-zh-cn": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
+    "zjsthmjialin/inspiration-deck-workshop": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Skills"
+        ]
+      }
+    },
     "happpsee/dsh-desktop-app": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -13756,6 +13832,13 @@
         ]
       }
     },
+    "JazzuLu/find-dsh-plugins": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Skills"
+        ]
+      }
+    },
     "tuogusa/dsh-skill-manager": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -13764,6 +13847,13 @@
       }
     },
     "zjsthmjialin/commercial-ui-ux-codex-skill": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Skills"
+        ]
+      }
+    },
+    "zjsthmjialin/pdf-background-gray-codex-skill": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Skills"
@@ -14177,6 +14267,13 @@
       }
     },
     "mingzeng21/dsh-notion": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Notifications & Integrations"
+        ]
+      }
+    },
+    "michaelcode-wang/dsh-wecom": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Notifications & Integrations"

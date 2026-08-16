@@ -37057,6 +37057,9 @@
       "source_categories": {
         "0xsline": [
           "Runtime & Operations"
+        ],
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
         ]
       },
       "ecosystem_status": "DSH Native",
