@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:35:07.303854+00:00",
+  "generated_at": "2026-08-16T08:49:24.904751+00:00",
   "repositories": [
     {
       "full_name": "01Virex/dsh-status-rotator",
@@ -298,6 +298,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "54xkeee/dsh-vision",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "54xkeee/dsh-youreyes",
       "sources": [
         "competitor:awesome-dsh-plugin"
@@ -375,6 +383,14 @@
       "full_name": "AI-Galaxy-GPU/dsh-sound",
       "sources": [
         "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "AITabby/dockyard-dsh",
+      "sources": [
+        "competitor:0xsline"
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -593,6 +609,14 @@
         "competitor:libukai"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "Andyqwe44/dsh-notify-win",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -844,6 +868,7 @@
     {
       "full_name": "Bernardxu123/dsh-mobile-gate",
       "sources": [
+        "competitor:0xsline",
         "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-15",
@@ -869,6 +894,7 @@
     {
       "full_name": "BiBoyang/dsh-im-bridge",
       "sources": [
+        "competitor:0xsline",
         "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-15",
@@ -1169,7 +1195,8 @@
     {
       "full_name": "ChangedenCZD/dsh-minimal-turbo",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "github-search:\"DeepSeek Harness\""
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -1326,6 +1353,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "ChuanTianML/prompt-for-me",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "Civitasv/dsh-plugin-colorscheme",
       "sources": [
         "competitor:0xsline"
@@ -1336,7 +1371,8 @@
     {
       "full_name": "Civitasv/dsh-plugin-diff-review",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "github-search:\"dsh plugin\""
       ],
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16"
@@ -1350,11 +1386,27 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "Classicoke/cleverer-dsh",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "Clizo1209/dsh-playwright-browser",
       "sources": [
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "Co-Engram/Co-Engram",
+      "sources": [
+        "github-search:deepseek-harness"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -1846,6 +1898,7 @@
     {
       "full_name": "GCWing/BitFun",
       "sources": [
+        "competitor:0xsline",
         "github-search:topic:dsh-plugin"
       ],
       "first_seen": "2026-08-16",
@@ -2044,7 +2097,7 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15"
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "HackSing/dsh-plugins",
@@ -2472,6 +2525,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "JFWaskin/dsh-git-nexus",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "JUANWANG-BUAA/dsh-full-remote",
       "sources": [
         "competitor:awesome-dsh-plugin"
@@ -2496,6 +2557,14 @@
         "github-search:topic:dsh-plugin"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "JazzuLu/find-dsh-plugins",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -2786,6 +2855,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "Khellendros97/dsh-launch",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "Khellendros97/dsh-subscription-auth",
       "sources": [
         "competitor:0xsline"
@@ -3029,6 +3106,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "Len7183/DSH-Think-zh",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "Leo-Ayh-Oday/dsh-orcana",
       "sources": [
         "competitor:0xsline"
@@ -3123,6 +3208,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "Lhy723/dsh-neu-theme",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "LiangYin233/dsh-provider-model-configurator",
       "sources": [
         "competitor:0xsline"
@@ -3165,7 +3258,8 @@
     {
       "full_name": "Linjiangxian0203/dsh-remote-tunnel",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -3647,6 +3741,15 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "MrWeiCodes/dsh-permgate",
+      "sources": [
+        "competitor:0xsline",
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "MuWinds/dsh-archived-sessions",
       "sources": [
         "competitor:0xsline",
@@ -4025,6 +4128,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "Oyama-Mahiro-F/dsh-env-switcher",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "PAKIKNOWLEDGE/dsh-auto-classifier",
       "sources": [
         "competitor:awesome-dsh-plugin"
@@ -4123,7 +4234,8 @@
     {
       "full_name": "PerryLink/dsh-claude-move",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "github-search:\"dsh plugin\""
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -4216,6 +4328,15 @@
       ],
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-15"
+    },
+    {
+      "full_name": "PerryLink/dsh-skill-pack-security",
+      "sources": [
+        "competitor:0xsline",
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "PeterBon/dsh-hooks",
@@ -4363,7 +4484,8 @@
     {
       "full_name": "QCYTSN/dsh-dafeiyu",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "github-search:\"DeepSeek Harness\""
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -4379,7 +4501,8 @@
     {
       "full_name": "Qinling-Melon-Farmers/dsh-memoir",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "github-search:\"dsh plugin\""
       ],
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16"
@@ -4743,6 +4866,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "Semidia/dsh-i18n",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "Semidia/dsh-plugin-help",
       "sources": [
         "competitor:0xsline"
@@ -4917,6 +5048,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "SingleOne/dsh-notify-center",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "Small-tailqwq/dsh-deep-whale",
       "sources": [
         "competitor:0xsline",
@@ -5071,6 +5210,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "Suiwan/whale-purse",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "SummerSec/AI-Inner-Os",
       "sources": [
         "competitor:0xsline"
@@ -5121,6 +5268,7 @@
     {
       "full_name": "THEWOLFWALKER/dsh-notifier",
       "sources": [
+        "competitor:0xsline",
         "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-15",
@@ -5163,9 +5311,18 @@
       "full_name": "Tabbit-Browser/dsh-plugin",
       "sources": [
         "competitor:0xsline",
+        "github-search:\"DeepSeek Harness\"",
         "github-search:\"dsh plugin\""
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "TaoSmile/dsh-shell",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -5476,8 +5633,17 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "WJNCT55555/dsh-achievements",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "WNJXYK/dsh-codex-oauth",
       "sources": [
+        "competitor:0xsline",
         "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-16",
@@ -5504,7 +5670,8 @@
       "full_name": "WYH66666666/DSH-Transparent-UI-Plugin",
       "sources": [
         "competitor:0xsline",
-        "github-search:\"DeepSeek Harness\""
+        "github-search:\"DeepSeek Harness\"",
+        "github-search:deepseek-harness"
       ],
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16"
@@ -5646,6 +5813,14 @@
       "full_name": "XiaoMaColtAI/math-modeling-skill",
       "sources": [
         "github-search:deepseek-harness"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "XieZongChen/dsh-md-notes",
+      "sources": [
+        "competitor:0xsline"
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -5992,6 +6167,15 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "ZRui-C/dsh-minimal-first-turn",
+      "sources": [
+        "competitor:0xsline",
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "ZSeven-W/dsh-noema",
       "sources": [
         "competitor:0xsline",
@@ -6129,6 +6313,7 @@
     {
       "full_name": "a179-sanae/dsh-auto-collapse",
       "sources": [
+        "competitor:0xsline",
         "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-16",
@@ -6136,6 +6321,14 @@
     },
     {
       "full_name": "a179-sanae/dsh-code-check",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "a735624258/dsh-skill-picker",
       "sources": [
         "competitor:awesome-dsh-plugin"
       ],
@@ -6224,7 +6417,7 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15"
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "agentrq/agentrq",
@@ -6290,7 +6483,7 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15"
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "akqwpeter-prog/dsh-agent-conductor",
@@ -6523,7 +6716,8 @@
     {
       "full_name": "asdf17128/dsh-doctor",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16"
@@ -6531,7 +6725,8 @@
     {
       "full_name": "asdf17128/dshp",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16"
@@ -6617,6 +6812,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "bainianlaoyao/windows-bash",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "baisama-cloud/dsh-custom-brand",
       "sources": [
         "competitor:awesome-dsh-plugin"
@@ -6697,6 +6900,14 @@
         "github-search:\"dsh plugin\""
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "bigclawd/dsh-security-guard",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -6976,7 +7187,8 @@
       "full_name": "buhuikongpan/dsh-pluginmanager",
       "sources": [
         "competitor:0xsline",
-        "competitor:awesome-dsh-plugin"
+        "competitor:awesome-dsh-plugin",
+        "github-search:\"dsh plugin\""
       ],
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16"
@@ -7156,6 +7368,7 @@
     {
       "full_name": "cdxiaodong/dsh-island",
       "sources": [
+        "competitor:0xsline",
         "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-16",
@@ -7175,6 +7388,14 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "cerebrixos-org/dsh-asimovbox",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -7227,6 +7448,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "chen731215-dev/-",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "chenw2759-wq/dsh-IDE",
       "sources": [
         "competitor:0xsline"
@@ -7276,6 +7505,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "chiyulogg-commits/deepseek-harness-zh-tw",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "chnjames/dsh-plugin-market",
       "sources": [
         "competitor:0xsline"
@@ -7285,6 +7522,14 @@
     },
     {
       "full_name": "chokwinlee/deepseek-harness-desktop",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "chouyong/dsh-fork-graph",
       "sources": [
         "competitor:0xsline"
       ],
@@ -7381,12 +7626,28 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "cn-scuo-oo/dsh-deepseek-quota",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "cocofhu/anime-find",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "codeAnqiang-ma/dsh-superpowers",
       "sources": [
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15"
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "cofy-x/axern",
@@ -7404,6 +7665,14 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "condaThinker/dsh-image-inline",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -7567,7 +7836,7 @@
         "github-search:\"dsh plugin\""
       ],
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15"
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "cyijun/dsh-surfing-plugin",
@@ -7613,6 +7882,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "dannyvan/dsh-file-drop",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "dataelement/dsh-desktop",
       "sources": [
         "competitor:libukai",
@@ -7620,6 +7897,14 @@
         "github-search:deepseek-harness"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "dawnliming/dsh-chinese-mode",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -7727,6 +8012,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "dickpy/dsh-cloud-sync",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "didclawapp-ai/DSH-Office",
       "sources": [
         "competitor:awesome-dsh-plugin"
@@ -7769,6 +8062,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "dk33333333/dsh-deepseek-quota-left",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "doncelee229-cmyk/dsh-plugin-approval-alert",
       "sources": [
         "competitor:awesome-dsh-plugin"
@@ -7790,7 +8091,7 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15"
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "dongsheng123132/dsh-audit-bundle",
@@ -10190,7 +10491,7 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15"
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "edison7009/EchoBird",
@@ -10234,6 +10535,14 @@
       ],
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-15"
+    },
+    {
+      "full_name": "eri64/dsh-claude-ux",
+      "sources": [
+        "github-search:\"dsh plugin\""
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "eric-song-dev/dsh-ikun-pet",
@@ -10565,7 +10874,9 @@
       "full_name": "fufankeji/deepseek-harness-studio",
       "sources": [
         "competitor:0xsline",
-        "github-search:\"DeepSeek Harness\""
+        "github-search:\"DeepSeek Harness\"",
+        "github-search:deepseek-harness",
+        "github-search:topic:dsh-plugin"
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -10605,7 +10916,23 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "gameswu/dsh-plugin-vscode-sidebar",
+      "sources": [
+        "github-search:\"dsh plugin\""
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "garrisonz/dsh-sidebar-width",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "genius-alray/dsh-model-picker",
       "sources": [
         "competitor:awesome-dsh-plugin"
       ],
@@ -10759,6 +11086,7 @@
     {
       "full_name": "h4dex/opc-nexus",
       "sources": [
+        "competitor:0xsline",
         "github-search:topic:dsh-plugin"
       ],
       "first_seen": "2026-08-16",
@@ -10902,6 +11230,14 @@
         "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "helloHupc/dsh-plugin-hub",
+      "sources": [
+        "github-search:\"dsh plugin\""
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -11061,6 +11397,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "howmp/dsh-pentest",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "hrhgit/deepseek-harness-plugin-manager",
       "sources": [
         "competitor:0xsline"
@@ -11075,6 +11419,14 @@
         "github-search:deepseek-harness"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "htcqp802/dsh-knowledge-base",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -11158,6 +11510,7 @@
     {
       "full_name": "huguangyu666/dsh-store",
       "sources": [
+        "competitor:0xsline",
         "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-15",
@@ -11276,6 +11629,16 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "hyqibot/A-share-Ai",
+      "sources": [
+        "competitor:0xsline",
+        "github-search:deepseek-harness",
+        "github-search:topic:dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "iamfromchangsha/dsh-go-balance",
       "sources": [
         "competitor:awesome-dsh-plugin"
@@ -11371,7 +11734,8 @@
     {
       "full_name": "imsai-sh/awesome-deepseek-harness-plugins",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "github-search:\"dsh plugin\""
       ],
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16"
@@ -11951,7 +12315,8 @@
     {
       "full_name": "kingOfSoySauce/dsh-liang-skin",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "github-search:\"DeepSeek Harness\""
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -11976,6 +12341,14 @@
       "full_name": "kipozannaki/dsh-gui",
       "sources": [
         "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "kirigayakazima/dsh-usage-vendor-stats",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -12430,6 +12803,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "linhx1999/dsh-writing-pad",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "linkingoscar/dsh-billing-glass",
       "sources": [
         "competitor:0xsline"
@@ -12846,6 +13227,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "luumod/dsh-achievements",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "luumod/dsh-desktop-lifecycle",
       "sources": [
         "competitor:awesome-dsh-plugin"
@@ -13054,6 +13443,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "michaelcode-wang/dsh-wecom",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "miisaka19800/dsh-restart-fab",
       "sources": [
         "competitor:awesome-dsh-plugin"
@@ -13071,6 +13468,14 @@
     },
     {
       "full_name": "mingzeng21/dsh-notion",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "mingzeng21/dsh-obsidian",
       "sources": [
         "competitor:awesome-dsh-plugin"
       ],
@@ -13162,6 +13567,14 @@
         "github-search:\"dsh plugin\""
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "moononnn/DeepSeek-Harness-Hanako-Memory",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -13281,6 +13694,23 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "mtty-ai/mmx-quota-tool",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "mudden2380078550-creator/write-chinese-long-screenplay",
+      "sources": [
+        "competitor:0xsline",
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "multica-ai/dsh-multica-runtime",
       "sources": [
         "competitor:0xsline",
@@ -13383,6 +13813,14 @@
         "github-search:deepseek-harness"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "niuniuaba/dsh-subagent-vision",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -13590,7 +14028,7 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15"
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "omdsh-dev/dsh-data-agent",
@@ -13680,6 +14118,14 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "omdsh-dev/dsh-input-history",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -13982,6 +14428,14 @@
       "last_seen": "2026-08-15"
     },
     {
+      "full_name": "omdsh-dev/dsh_workflow",
+      "sources": [
+        "github-search:deepseek-harness"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "omdsh-dev/ex-setting",
       "sources": [
         "competitor:awesome-dsh-plugin"
@@ -14160,6 +14614,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "owner/repo",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "p2coder/dsh-task-control",
       "sources": [
         "competitor:awesome-dsh-plugin"
@@ -14186,6 +14648,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "pandashere/dsh-self-control-guard",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "pangzi499/dsh-balance-stats",
       "sources": [
         "competitor:0xsline"
@@ -14207,6 +14677,14 @@
         "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "pc439527/dsh-side-monitor",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -14321,6 +14799,14 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "pppolf/dsh-webgate",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -14441,9 +14927,26 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "reshuibuduo/TMCRA-Agent-Memory",
+      "sources": [
+        "competitor:0xsline",
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "riffkit/skill",
       "sources": [
         "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "ringoage/dsh-subagent-model-picker",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -14458,6 +14961,14 @@
     },
     {
       "full_name": "rocker2018-droid/dsh-longtask-orchestrator",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "rogerdigital/dsh-searxng",
       "sources": [
         "competitor:awesome-dsh-plugin"
       ],
@@ -14815,6 +15326,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "somnusovis/dsh-multi-workspace",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "songyang0603/ds-spec-loop",
       "sources": [
         "competitor:0xsline"
@@ -15079,10 +15598,34 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15"
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "tancheng33/dsh-code-runtime-container",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "tancheng33/dsh-credentials-vault",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "tancheng33/dsh-egress-guard",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "tancheng33/dsh-spill-s3",
       "sources": [
         "competitor:awesome-dsh-plugin"
       ],
@@ -15230,6 +15773,7 @@
       "full_name": "tinqiao-oss/engramory",
       "sources": [
         "competitor:0xsline",
+        "competitor:awesome-dsh-plugin",
         "github-search:deepseek-harness",
         "github-search:topic:dsh-plugin"
       ],
@@ -15274,6 +15818,14 @@
         "competitor:libukai"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "tomowang/dsh-tui",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -15425,6 +15977,14 @@
         "github-search:deepseek-harness"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "txy-ucas/dsh-workspace-snapshot",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -15588,7 +16148,8 @@
     {
       "full_name": "vinyumao/dsh-opencode-usage",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-16"
@@ -15649,7 +16210,17 @@
     {
       "full_name": "volcengine/OpenViking",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "competitor:awesome-dsh-plugin",
+        "github-search:topic:dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "vostride/agent-qa",
+      "sources": [
+        "github-search:topic:dsh-plugin"
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -15669,6 +16240,14 @@
         "github-search:\"dsh plugin\""
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "w2112515/dsh-plugin-marketplace",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -15725,6 +16304,14 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "warmwine/dsh-ui-font",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -16022,7 +16609,7 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15"
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "wuxiangru915/dsh-review-loop",
@@ -16133,6 +16720,7 @@
     {
       "full_name": "x2802490130-prog/dsh-tool-writing",
       "sources": [
+        "competitor:0xsline",
         "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-15",
@@ -16141,6 +16729,7 @@
     {
       "full_name": "x2802490130-prog/dsh-writing-remote",
       "sources": [
+        "competitor:0xsline",
         "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-15",
@@ -16208,7 +16797,24 @@
     {
       "full_name": "xiaoshihou514/dsh-desktop-pet",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "xiaoshihou514/dsh-tui",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "xiaoshihou514/dsh-vision",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -16216,10 +16822,11 @@
     {
       "full_name": "xiaoshihou514/dsh-weixin",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15"
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "xiaoxianyu-office/dsh-image-tools",
@@ -16227,12 +16834,13 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15"
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "xiaoxianyu-office/dsh-router-flash",
       "sources": [
-        "competitor:0xsline"
+        "competitor:0xsline",
+        "github-search:\"dsh plugin\""
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -16257,6 +16865,22 @@
       "full_name": "xiaoyangcheng84-svg/dsh-skin-manager",
       "sources": [
         "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "xiaoyanzi191/dsh-desktop",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "xiaoyanzi191/dsh-premium-themes",
+      "sources": [
+        "competitor:0xsline"
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -16418,6 +17042,7 @@
     {
       "full_name": "xmanrui/dsh-im",
       "sources": [
+        "competitor:0xsline",
         "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-15",
@@ -16435,7 +17060,8 @@
       "full_name": "xmutfyh/dsh-plugin-writing-guard",
       "sources": [
         "competitor:0xsline",
-        "competitor:awesome-dsh-plugin"
+        "competitor:awesome-dsh-plugin",
+        "github-search:\"dsh plugin\""
       ],
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
@@ -16505,7 +17131,23 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "xxiaoxiong/dsh-ci",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "xxiaoxiong/dsh-issue-tracker",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "xxiaoxiong/dsh-kubernetes",
       "sources": [
         "competitor:awesome-dsh-plugin"
       ],
@@ -16646,6 +17288,14 @@
     },
     {
       "full_name": "yascitom/dsh-opencode-go-box",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "yauntyour/DSH-Encrypt",
       "sources": [
         "competitor:0xsline"
       ],
@@ -16932,7 +17582,7 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15"
+      "last_seen": "2026-08-16"
     },
     {
       "full_name": "yweilai77-dev/dsh-plugin-cost",
@@ -16944,6 +17594,14 @@
     },
     {
       "full_name": "ywgATustcbbs/dsh-human-task",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "yyb16yyb-hub/dsh-deepseek-usage",
       "sources": [
         "competitor:awesome-dsh-plugin"
       ],
@@ -17054,6 +17712,14 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "zetaluolang-cyber/deepseek-harness-phone-remote",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "zevorn/dsh-humanize",
       "sources": [
         "competitor:0xsline"
@@ -17118,6 +17784,22 @@
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "zhangzhenwen1/qmd-autosearch",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "zhangzujian/dsh-same-mode-sandbox-noop",
+      "sources": [
+        "competitor:0xsline"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
@@ -17270,6 +17952,7 @@
     {
       "full_name": "zhxqc/dsh-oh-my-theme",
       "sources": [
+        "competitor:0xsline",
         "competitor:awesome-dsh-plugin"
       ],
       "first_seen": "2026-08-16",
@@ -17334,6 +18017,7 @@
     {
       "full_name": "zimodzh/dsh-plugin-dev-skills",
       "sources": [
+        "competitor:0xsline",
         "github-search:\"dsh plugin\""
       ],
       "first_seen": "2026-08-16",
@@ -17356,11 +18040,51 @@
       "last_seen": "2026-08-16"
     },
     {
+      "full_name": "zjl1989-li/dsh-harness-zh",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "zjl1989-li/dsh-harness-zh-cn",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
       "full_name": "zjl88858/dsh-huadongbianzuqi",
       "sources": [
         "competitor:0xsline"
       ],
       "first_seen": "2026-08-15",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "zjsthmjialin/commercial-ui-ux-codex-skill",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "zjsthmjialin/inspiration-deck-workshop",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    {
+      "full_name": "zjsthmjialin/pdf-background-gray-codex-skill",
+      "sources": [
+        "competitor:awesome-dsh-plugin"
+      ],
+      "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
     },
     {
