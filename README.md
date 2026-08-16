@@ -158,10 +158,7 @@ Pure mathematics for agents: search for examples and counterexamples, compute ex
 **8. [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 40&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT...  
 
-**9. [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 35&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-A DeepSeek Harness plugin for Context insight dashboard — showing what the model's context window is made of and how it evolves.  
-
-**10. [HiWhaleW/dsh-toolbox](https://github.com/HiWhaleW/dsh-toolbox)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 26&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+**9. [HiWhaleW/dsh-toolbox](https://github.com/HiWhaleW/dsh-toolbox)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 26&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
 Local-first DeepSeek Harness plugins for product research, context routing, plugin preflight, and compatibility monitoring.  
 
 ### ✍️&nbsp;&nbsp;Writing & Content
@@ -294,34 +291,37 @@ Playwright browser automation for DeepSeek Harness｜面向 DeepSeek Harness 的
 
 ### 🧠&nbsp;&nbsp;Memory & Context
 
-**1. [adoresever/graph-memory](https://github.com/adoresever/graph-memory)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 513&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**1. [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 35&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+A DeepSeek Harness plugin for Context insight dashboard — showing what the model's context window is made of and how it evolves.  
+
+**2. [adoresever/graph-memory](https://github.com/adoresever/graph-memory)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 513&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Openclaw记忆插件Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts structured triples from conversations, compre...  
 
-**2. [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 442&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**3. [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 442&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness,...  
 
-**3. [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 153&nbsp;&nbsp;&nbsp;&nbsp;Community  
+**4. [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 153&nbsp;&nbsp;&nbsp;&nbsp;Community  
 从 0 复刻 WorkBuddy-style 桌面 AI 助手 Harness：24 章 Python 教程，覆盖 Agent Loop、工具调用、记忆系统、Sidecar、沙盒审计、DeepSeek/OpenAI 评测轨迹  
 
-**4. [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 48&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**5. [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 48&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 deepseek harness对话和代码状态回退插件 | DSH — rewind conversation and workspace state, powered by a persistent Change Ledger  
 
-**5. [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 30&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**6. [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 30&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 从Claude Code、Codex、Reasonix等Agent工具导入迁移历史消息，并在DeepSeek Harness(DSH)中继续对话  
 
-**6. [Chinesezjc/dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 26&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**7. [Chinesezjc/dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 26&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Cross-instance message/event handoff plugins for DSH (interconnect service + tools)  
 
-**7. [WeirdSky924/agent-handoff-skill](https://github.com/WeirdSky924/agent-handoff-skill)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 25&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**8. [WeirdSky924/agent-handoff-skill](https://github.com/WeirdSky924/agent-handoff-skill)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 25&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Use this cross-platform skill in Codex or Claude Code to establish repository-local continuity memory so a future agent can recover objec...  
 
-**8. [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 22&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**9. [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 22&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term memory across Mnemon...  
 
-**9. [hellodigua/dsh-share](https://github.com/hellodigua/dsh-share)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 18&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**10. [hellodigua/dsh-share](https://github.com/hellodigua/dsh-share)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 18&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DSH 对话分享插件，分享单轮或多轮对话，可导出为图片或 Markdown。Share DSH Q&As or selected conversation groups as PNG or Markdown.  
 
-**10. [Moeblack/dsh-message-edit](https://github.com/Moeblack/dsh-message-edit)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 18&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**11. [Moeblack/dsh-message-edit](https://github.com/Moeblack/dsh-message-edit)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 18&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DSH plugin: branch-based message editing, reroll, retry, version timeline  
 
 ### 🤖&nbsp;&nbsp;Agents & Automation
