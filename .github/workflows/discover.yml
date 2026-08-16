@@ -1,13 +1,17 @@
 name: Discover DSH Projects
+
 on:
   schedule:
-    - cron: "15 1 * * *"
+    - cron: "15 1 * * *"  # 09:15 Beijing
   workflow_dispatch:
+
 concurrency:
   group: discover-dsh-projects
   cancel-in-progress: true
+
 permissions:
   contents: write
+
 jobs:
   discover:
     runs-on: ubuntu-latest

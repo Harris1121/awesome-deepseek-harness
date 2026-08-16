@@ -1,9 +1,10 @@
 name: Update DSH Rankings
 
 on:
-  schedule:
-    - cron: "30 2 * * *"
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Discover DSH Projects"]
+    types: [completed]
 
 concurrency:
   group: update-dsh-rankings
@@ -14,28 +15,24 @@ permissions:
 
 jobs:
   update:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
-      - name: Checkout
+      - name: Checkout latest main
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
-
-      - name: Update rankings
+      - name: Update rankings with GitHub GraphQL
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python3 -u scripts/update_rankings.py
-
+        run: python3 -u scripts/update_rankings.py
       - name: Commit generated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add README.md data/
-
+          git add data/
           if git diff --cached --quiet; then
             echo "No ranking changes."
           else
