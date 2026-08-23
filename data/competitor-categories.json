@@ -1,11 +1,18 @@
 {
   "sources": {
-    "0xsline": 581,
-    "0xsline-catalog": 1288,
-    "awesome-dsh-plugin": 1846,
-    "libukai": 104
+    "0xsline": 602,
+    "0xsline-catalog": 1298,
+    "awesome-dsh-plugin": 1893,
+    "libukai": 106
   },
   "projects": {
+    "18126295767-cell/deepseek-harness-ultimate": {
+      "source_categories": {
+        "0xsline": [
+          "Core & Bundles"
+        ]
+      }
+    },
     "dsh-external/dsh-deepresearch": {
       "source_categories": {
         "0xsline": [
@@ -73,10 +80,17 @@
       "source_categories": {
         "0xsline": [
           "Core & Bundles",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Sessions & Messages"
+        ]
+      }
+    },
+    "mjylfz/dsh-skill-mover": {
+      "source_categories": {
+        "0xsline": [
+          "Core & Bundles"
         ]
       }
     },
@@ -87,6 +101,17 @@
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
+        ]
+      }
+    },
+    "Noob-stupid/dsh-plugin-hub": {
+      "source_categories": {
+        "0xsline": [
+          "Core & Bundles",
+          "其他（702）"
+        ],
+        "awesome-dsh-plugin": [
+          "Plugin Markets & Managers"
         ]
       }
     },
@@ -139,7 +164,7 @@
       "source_categories": {
         "0xsline": [
           "Agents & Orchestration",
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
@@ -151,6 +176,13 @@
         ],
         "awesome-dsh-plugin": [
           "Workflow & Automation"
+        ]
+      }
+    },
+    "usersx/dsh-automation-center": {
+      "source_categories": {
+        "0xsline": [
+          "Agents & Orchestration"
         ]
       }
     },
@@ -221,7 +253,7 @@
       "source_categories": {
         "0xsline": [
           "Agents & Orchestration",
-          "Agent 与自动化（34）",
+          "Agent 与自动化（35）",
           "其他（702）"
         ]
       }
@@ -230,7 +262,7 @@
       "source_categories": {
         "0xsline": [
           "Agents & Orchestration",
-          "Agent 与自动化（34）",
+          "Agent 与自动化（35）",
           "其他（702）"
         ]
       }
@@ -307,7 +339,7 @@
       "source_categories": {
         "0xsline": [
           "Context & Search",
-          "记忆与上下文（10）"
+          "记忆与上下文（11）"
         ],
         "awesome-dsh-plugin": [
           "Memory"
@@ -335,7 +367,7 @@
       "source_categories": {
         "0xsline": [
           "Context & Search",
-          "记忆与上下文（10）"
+          "记忆与上下文（11）"
         ],
         "awesome-dsh-plugin": [
           "Usage & Billing"
@@ -410,7 +442,7 @@
       "source_categories": {
         "0xsline": [
           "Context & Search",
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "Sessions & Messages"
@@ -440,10 +472,18 @@
       "source_categories": {
         "0xsline": [
           "Context & Search",
-          "浏览器与远程（12）"
+          "浏览器与远程（15）"
         ],
         "awesome-dsh-plugin": [
           "Browser & Web"
+        ]
+      }
+    },
+    "delef/dsh-free-web-search": {
+      "source_categories": {
+        "0xsline": [
+          "Context & Search",
+          "浏览器与远程（15）"
         ]
       }
     },
@@ -549,7 +589,7 @@
       "source_categories": {
         "0xsline": [
           "Memory & Knowledge",
-          "记忆与上下文（10）"
+          "记忆与上下文（11）"
         ],
         "awesome-dsh-plugin": [
           "Memory"
@@ -560,7 +600,7 @@
       "source_categories": {
         "0xsline": [
           "Memory & Knowledge",
-          "记忆与上下文（10）"
+          "记忆与上下文（11）"
         ],
         "awesome-dsh-plugin": [
           "Memory"
@@ -607,7 +647,7 @@
       "source_categories": {
         "0xsline": [
           "Memory & Knowledge",
-          "记忆与上下文（10）"
+          "记忆与上下文（11）"
         ],
         "awesome-dsh-plugin": [
           "Memory"
@@ -650,7 +690,7 @@
       "source_categories": {
         "0xsline": [
           "Memory & Knowledge",
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -744,6 +784,14 @@
         ]
       }
     },
+    "Mutx163/dsh-model-memory": {
+      "source_categories": {
+        "0xsline": [
+          "Memory & Knowledge",
+          "记忆与上下文（11）"
+        ]
+      }
+    },
     "Semidia/dsh-global-rules": {
       "source_categories": {
         "0xsline": [
@@ -790,6 +838,16 @@
         "0xsline": [
           "Input & Editing",
           "🔌 单插件（179）"
+        ]
+      }
+    },
+    "Chael-Chael/dsh-reference-anything": {
+      "source_categories": {
+        "0xsline": [
+          "Input & Editing"
+        ],
+        "awesome-dsh-plugin": [
+          "Sessions & Messages"
         ]
       }
     },
@@ -848,7 +906,7 @@
       "source_categories": {
         "0xsline": [
           "Input & Editing",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Sessions & Messages"
@@ -859,7 +917,7 @@
       "source_categories": {
         "0xsline": [
           "Input & Editing",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Sessions & Messages"
@@ -870,7 +928,7 @@
       "source_categories": {
         "0xsline": [
           "Input & Editing",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -1287,7 +1345,7 @@
       "source_categories": {
         "0xsline": [
           "UI, Themes & Interaction",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -1319,7 +1377,7 @@
       "source_categories": {
         "0xsline": [
           "UI, Themes & Interaction",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -1615,7 +1673,7 @@
       "source_categories": {
         "0xsline": [
           "Dashboards & Session UX",
-          "成本与用量（7）"
+          "成本与用量（8）"
         ]
       }
     },
@@ -1623,7 +1681,7 @@
       "source_categories": {
         "0xsline": [
           "Dashboards & Session UX",
-          "成本与用量（7）"
+          "成本与用量（8）"
         ],
         "awesome-dsh-plugin": [
           "Usage & Billing"
@@ -1634,7 +1692,7 @@
       "source_categories": {
         "0xsline": [
           "Dashboards & Session UX",
-          "成本与用量（7）"
+          "成本与用量（8）"
         ],
         "awesome-dsh-plugin": [
           "Usage & Billing"
@@ -1849,10 +1907,18 @@
       "source_categories": {
         "0xsline": [
           "Dashboards & Session UX",
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "UI Enhancements"
+        ]
+      }
+    },
+    "Chu-m/dsh-chat-continue": {
+      "source_categories": {
+        "0xsline": [
+          "Dashboards & Session UX",
+          "Agent 与自动化（35）"
         ]
       }
     },
@@ -1936,7 +2002,7 @@
           "Output & Deliverables",
           "Notifications & Channels",
           "Plugin Ecosystem & Development",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Sessions & Messages",
@@ -2019,6 +2085,14 @@
         ]
       }
     },
+    "woosh2010/dsh-usage-dashboard": {
+      "source_categories": {
+        "0xsline": [
+          "Dashboards & Session UX",
+          "成本与用量（8）"
+        ]
+      }
+    },
     "dsh-external/dsh-cc-tui": {
       "source_categories": {
         "0xsline": [
@@ -2073,7 +2147,7 @@
       "source_categories": {
         "0xsline": [
           "IDE & Clients",
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
@@ -2132,7 +2206,7 @@
       "source_categories": {
         "0xsline": [
           "IDE & Clients",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Notifications & Integrations"
@@ -2150,7 +2224,7 @@
       "source_categories": {
         "0xsline": [
           "IDE & Clients",
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
@@ -2263,7 +2337,8 @@
     "yangfei222666-9/dsh-voice-gate": {
       "source_categories": {
         "0xsline": [
-          "Browser & Remote"
+          "Browser & Remote",
+          "📡 远程渠道（7）"
         ]
       }
     },
@@ -2419,6 +2494,40 @@
         ]
       }
     },
+    "sheep-programmer/dsh-web-search-free": {
+      "source_categories": {
+        "0xsline": [
+          "Browser & Remote",
+          "浏览器与远程（15）"
+        ]
+      }
+    },
+    "SeerableOfficial/dsh-web-search-toggle": {
+      "source_categories": {
+        "0xsline": [
+          "Browser & Remote",
+          "浏览器与远程（15）"
+        ]
+      }
+    },
+    "Tabbit-Browser/dsh-plugin": {
+      "source_categories": {
+        "0xsline": [
+          "Browser & Remote",
+          "其他（702）"
+        ]
+      }
+    },
+    "Tabbit-Browser/dsh-tabbit": {
+      "source_categories": {
+        "0xsline": [
+          "Browser & Remote"
+        ],
+        "awesome-dsh-plugin": [
+          "Browser & Web"
+        ]
+      }
+    },
     "LiZhenNet/dsh-antigravity": {
       "source_categories": {
         "0xsline": [
@@ -2472,6 +2581,25 @@
         "0xsline": [
           "Models & Inference",
           "其他（702）"
+        ],
+        "awesome-dsh-plugin": [
+          "Models & Providers"
+        ]
+      }
+    },
+    "nickhelion/dsh-plugins": {
+      "source_categories": {
+        "0xsline": [
+          "Models & Inference",
+          "Notifications & Channels"
+        ]
+      }
+    },
+    "WSL043/dsh-codex-subscription": {
+      "source_categories": {
+        "0xsline": [
+          "Models & Inference",
+          "模型与推理（17）"
         ],
         "awesome-dsh-plugin": [
           "Models & Providers"
@@ -2549,7 +2677,7 @@
       "source_categories": {
         "0xsline": [
           "Models & Inference",
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
@@ -2596,7 +2724,7 @@
       "source_categories": {
         "0xsline": [
           "Models & Inference",
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "Notifications & Integrations"
@@ -2623,7 +2751,7 @@
       "source_categories": {
         "0xsline": [
           "Models & Inference",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
@@ -2891,7 +3019,7 @@
       "source_categories": {
         "0xsline": [
           "Git & Engineering",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "libukai": [
           "开发工具"
@@ -3060,7 +3188,7 @@
       "source_categories": {
         "0xsline": [
           "Git & Engineering",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -3071,7 +3199,7 @@
       "source_categories": {
         "0xsline": [
           "Git & Engineering",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -3227,7 +3355,7 @@
       "source_categories": {
         "0xsline": [
           "Security & Governance",
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "Security & Permissions"
@@ -3360,7 +3488,28 @@
         ]
       }
     },
+    "accpowered/dsh-credential-manager": {
+      "source_categories": {
+        "0xsline": [
+          "Security & Governance"
+        ]
+      }
+    },
+    "accpowered/dsh-auto-review": {
+      "source_categories": {
+        "0xsline": [
+          "Security & Governance"
+        ]
+      }
+    },
     "taltara/capmark": {
+      "source_categories": {
+        "0xsline": [
+          "Security & Governance"
+        ]
+      }
+    },
+    "AgentValet/dsh-agentvalet": {
       "source_categories": {
         "0xsline": [
           "Security & Governance"
@@ -3522,16 +3671,6 @@
         "0xsline": [
           "Notifications & Channels",
           "🔌 单插件（179）"
-        ]
-      }
-    },
-    "nickhelion/dsh-serverchan-notify": {
-      "source_categories": {
-        "0xsline": [
-          "Notifications & Channels"
-        ],
-        "awesome-dsh-plugin": [
-          "Notifications & Integrations"
         ]
       }
     },
@@ -3991,11 +4130,19 @@
         ]
       }
     },
+    "menotbobbybrown/create-dsh-app": {
+      "source_categories": {
+        "0xsline": [
+          "Plugin Ecosystem & Development",
+          "开发与工程（102）"
+        ]
+      }
+    },
     "leechen298/Code2Skill": {
       "source_categories": {
         "0xsline": [
           "Plugin Ecosystem & Development",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -4006,7 +4153,7 @@
       "source_categories": {
         "0xsline": [
           "Plugin Ecosystem & Development",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Development & Runtime",
@@ -4021,7 +4168,7 @@
       "source_categories": {
         "0xsline": [
           "Plugin Ecosystem & Development",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Skills"
@@ -4170,7 +4317,7 @@
       "source_categories": {
         "0xsline": [
           "Plugin Ecosystem & Development",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
@@ -4233,7 +4380,7 @@
       "source_categories": {
         "0xsline": [
           "Plugin Ecosystem & Development",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Skills"
@@ -4281,7 +4428,7 @@
       "source_categories": {
         "0xsline": [
           "Runtime & Operations",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -4367,7 +4514,7 @@
       "source_categories": {
         "0xsline": [
           "Runtime & Operations",
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "Workflow & Automation"
@@ -4401,6 +4548,13 @@
         ]
       }
     },
+    "alloevil/dsh-xray": {
+      "source_categories": {
+        "0xsline": [
+          "Runtime & Operations"
+        ]
+      }
+    },
     "fancr-code/dsh-tray-launcher": {
       "source_categories": {
         "0xsline": [
@@ -4426,6 +4580,14 @@
       "source_categories": {
         "0xsline": [
           "Runtime & Operations"
+        ]
+      }
+    },
+    "oxgbl/dsh-no-cmd-launcher": {
+      "source_categories": {
+        "0xsline": [
+          "Runtime & Operations",
+          "桌面客户端（17）"
         ]
       }
     },
@@ -4488,7 +4650,7 @@
       "source_categories": {
         "0xsline": [
           "Runtime & Operations",
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -5707,6 +5869,13 @@
         ]
       }
     },
+    "yangfei222666-9/dsh-paper-trade": {
+      "source_categories": {
+        "0xsline": [
+          "🔌 单插件（179）"
+        ]
+      }
+    },
     "dsh-external/Qwen-MM-Plugins": {
       "source_categories": {
         "0xsline": [
@@ -6383,7 +6552,7 @@
     "bruc3van/dsh-desktop": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ],
         "libukai": [
           "桌面与发行版"
@@ -6393,63 +6562,63 @@
     "ChisaAlter/Deepseek-Harness-Desktop": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
     "feiyang-dev/DeepSeek-Harness-Desktop": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
     "iuikj/dsh-desktop": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
     "JustGenius-s/DSH-Desktop": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
     "kelai141/dsh-mobile-apk": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
     "liguobao/dsh-desktop": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
     "paean-ai/deeptide": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
     "PM-Shawn/Abu-Cowork": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
     "Ruler4396/dsh-launcher": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ],
         "libukai": [
           "桌面与发行版"
@@ -6459,28 +6628,28 @@
     "techysy/deepseek-harness-fnos": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
     "wess09/DeepSeekHarnessDesktop": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
     "whitelonng/dshcode": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
     "zsyu9779/dsh-desktop": {
       "source_categories": {
         "0xsline": [
-          "桌面客户端（16）"
+          "桌面客户端（17）"
         ]
       }
     },
@@ -6618,7 +6787,7 @@
     "1na-ko/dsh-hdc-bridge": {
       "source_categories": {
         "0xsline": [
-          "浏览器与远程（12）"
+          "浏览器与远程（15）"
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -6628,21 +6797,21 @@
     "gxpppp/dsh-search-mcp": {
       "source_categories": {
         "0xsline": [
-          "浏览器与远程（12）"
+          "浏览器与远程（15）"
         ]
       }
     },
     "hanelalo/browser-bridge": {
       "source_categories": {
         "0xsline": [
-          "浏览器与远程（12）"
+          "浏览器与远程（15）"
         ]
       }
     },
     "icodesign/orbis": {
       "source_categories": {
         "0xsline": [
-          "浏览器与远程（12）"
+          "浏览器与远程（15）"
         ],
         "libukai": [
           "终端、移动与 Web 体验"
@@ -6652,7 +6821,7 @@
     "liustack/modsearch": {
       "source_categories": {
         "0xsline": [
-          "浏览器与远程（12）"
+          "浏览器与远程（15）"
         ],
         "awesome-dsh-plugin": [
           "Browser & Web"
@@ -6665,7 +6834,7 @@
     "Lum1104/dsh-browser": {
       "source_categories": {
         "0xsline": [
-          "浏览器与远程（12）"
+          "浏览器与远程（15）"
         ],
         "awesome-dsh-plugin": [
           "Browser & Web"
@@ -6678,21 +6847,21 @@
     "moxisuki/dsh-lan": {
       "source_categories": {
         "0xsline": [
-          "浏览器与远程（12）"
+          "浏览器与远程（15）"
         ]
       }
     },
     "railgun0325/dsh-phone": {
       "source_categories": {
         "0xsline": [
-          "浏览器与远程（12）"
+          "浏览器与远程（15）"
         ]
       }
     },
     "taxueseek/argo": {
       "source_categories": {
         "0xsline": [
-          "浏览器与远程（12）"
+          "浏览器与远程（15）"
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -6702,7 +6871,7 @@
     "titanwings/dsh-better-browser": {
       "source_categories": {
         "0xsline": [
-          "浏览器与远程（12）"
+          "浏览器与远程（15）"
         ],
         "libukai": [
           "浏览器、视觉与界面"
@@ -6712,14 +6881,14 @@
     "UynajGI/dsh-ssh": {
       "source_categories": {
         "0xsline": [
-          "浏览器与远程（12）"
+          "浏览器与远程（15）"
         ]
       }
     },
     "csyangwen/dsh-memory-evolve": {
       "source_categories": {
         "0xsline": [
-          "记忆与上下文（10）"
+          "记忆与上下文（11）"
         ],
         "libukai": [
           "上下文、会话与输入"
@@ -6729,7 +6898,7 @@
     "KitDoesIt/dsh-compaction-instant": {
       "source_categories": {
         "0xsline": [
-          "记忆与上下文（10）"
+          "记忆与上下文（11）"
         ],
         "libukai": [
           "上下文、会话与输入"
@@ -6739,21 +6908,21 @@
     "knqiufan/powercontext-dsh": {
       "source_categories": {
         "0xsline": [
-          "记忆与上下文（10）"
+          "记忆与上下文（11）"
         ]
       }
     },
     "Totoro-qaq/Cobsidian": {
       "source_categories": {
         "0xsline": [
-          "记忆与上下文（10）"
+          "记忆与上下文（11）"
         ]
       }
     },
     "unnnnoooo/dsh-cue-plugin": {
       "source_categories": {
         "0xsline": [
-          "记忆与上下文（10）"
+          "记忆与上下文（11）"
         ]
       }
     },
@@ -7018,16 +7187,6 @@
         ]
       }
     },
-    "WSL043/dsh-codex-subscription": {
-      "source_categories": {
-        "0xsline": [
-          "模型与推理（17）"
-        ],
-        "awesome-dsh-plugin": [
-          "Models & Providers"
-        ]
-      }
-    },
     "Yan-Zero/dsh-codex": {
       "source_categories": {
         "0xsline": [
@@ -7052,28 +7211,28 @@
     "H1a3x/dsh-token-stats": {
       "source_categories": {
         "0xsline": [
-          "成本与用量（7）"
+          "成本与用量（8）"
         ]
       }
     },
     "jelly-000/dsh-balance-monitor": {
       "source_categories": {
         "0xsline": [
-          "成本与用量（7）"
+          "成本与用量（8）"
         ]
       }
     },
     "TwotwoPiggy/dsh-balance": {
       "source_categories": {
         "0xsline": [
-          "成本与用量（7）"
+          "成本与用量（8）"
         ]
       }
     },
     "Ychris12138/dsh-usage-stats": {
       "source_categories": {
         "0xsline": [
-          "成本与用量（7）"
+          "成本与用量（8）"
         ],
         "awesome-dsh-plugin": [
           "Usage & Billing"
@@ -7163,14 +7322,14 @@
     "agentic-control-plane/dsh-acp-plugin": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "Anionex/dsh-computer-use": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -7183,7 +7342,7 @@
     "bobleer/dsh-acp-for-bitfun": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "Notifications & Integrations"
@@ -7193,7 +7352,7 @@
     "btspoony/mstar-harness": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "Workflow & Automation"
@@ -7206,7 +7365,7 @@
     "Chinesezjc/dsh-interconnect": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "Sessions & Messages"
@@ -7216,21 +7375,21 @@
     "Devin-AXIS/iPolloWork": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "dpskh/dsh-a2a": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "fuhefei/dsh-sentinel": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "Workflow & Automation"
@@ -7240,21 +7399,21 @@
     "hellowind777/helloagents": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "HuanLinOTO/dsh-plugin-yet-another-subagent": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "humblebanana/dsh-record-replay": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "libukai": [
           "工作流与 Agent"
@@ -7264,14 +7423,14 @@
     "humblebanana/open-record-replay": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "NanmiCoder/dsh-agent-teams": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "Workflow & Automation"
@@ -7284,35 +7443,35 @@
     "nutshellai-tech/mobius": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "openma-ai/open-managed-agents": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "pulseaiclub/phi": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "shaokeyibb/dsh-plugin-product-subagents": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "titanwings/dsh-automation": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "Workflow & Automation"
@@ -7325,14 +7484,14 @@
     "toolclub/agent_team_gui": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "whiteguo233/dsh-openbiliclaw": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -7342,14 +7501,14 @@
     "whiteguo233/OpenBiliClaw": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "william-jin-cmu/dsh-evolve": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ],
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -7359,35 +7518,35 @@
     "YunTaiHua/illusion-agent": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "zenx0x/allinluna": {
       "source_categories": {
         "0xsline": [
-          "Agent 与自动化（34）"
+          "Agent 与自动化（35）"
         ]
       }
     },
     "0xsline/awesome-deepseek-harness": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "Acidmoon/DIzzy-DSH": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "AdamPlatin123/awesome-dsh-plugins": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "libukai": [
           "开发工具"
@@ -7397,28 +7556,28 @@
     "Alex-Yanggg/awesome-DSH-plugin": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "ali-meoo/meoo-cli": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "AlliotTech/deepseek-harness-docker": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "Anionex/dsh-turn-rewind": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Sessions & Messages"
@@ -7431,14 +7590,14 @@
     "awesome-dsh-plugin/awesome-dsh-plugin": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "awesome-dsh-plugin/dsh-find-plugin": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Plugin Markets & Managers"
@@ -7448,7 +7607,7 @@
     "bradeGithub/DSH-Plugins-Marketplace": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Plugin Markets & Managers"
@@ -7458,49 +7617,49 @@
     "bruc3van/awesome-dsh-plugin": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "bugmaker2/dsh-plugin-template": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "cccakeee/awesome-dsh-plugins": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "cofy-x/axern": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "cyanseek/dsh-landscape": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "DDDFXYqiming/Agent_Extensions": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "deepseek-ai/deepseek-harness": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）",
+          "开发与工程（102）",
           "其他（702）"
         ],
         "awesome-dsh-plugin": [
@@ -7517,49 +7676,49 @@
     "Dominic789654/awesome-deepseek-harness": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "Ericwong5021/deepseek-plugin-store": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "FlashingChen/dsh-worktree": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "ginuim/multi-screen-wireframe": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "GoalfyAI/goalfydata": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "HarcoChen/dsh-vsc-integration": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "hellodigua/dsh-share": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Sessions & Messages"
@@ -7572,21 +7731,21 @@
     "HuanLinOTO/dsh-plugin-better-sidebar-plugin-office": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "HuanLinOTO/dsh-plugin-interpreters": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "HuanLinOTO/dsh-plugin-mineru": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Docs & Rendering"
@@ -7596,14 +7755,14 @@
     "HuanLinOTO/dsh-plugin-sleep": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "hust-open-atom-club/oh-dsh": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -7616,14 +7775,14 @@
     "inmny/dsh-git-bash": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "Jesse-njx/dsh-cowork": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Docs & Rendering"
@@ -7633,56 +7792,56 @@
     "JustGenius-s/DSH-Plugs": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "kejixiaoliang/awesome-dsh-plugins": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "LaplaceYoung/oh-my-dsh": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "lhh010/dsh-bash-encoding": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "lhmd/dsh-director-toolkit": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "lhmd/dsh-promotion-toolkit": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "like-study1/Oh-My-DSH": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "linhay/harmony-next.skills": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Skills"
@@ -7692,7 +7851,7 @@
     "LoserFox/distill": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Memory"
@@ -7702,7 +7861,7 @@
     "LoserFox/dsh-git-identity": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Git & Code Review"
@@ -7712,14 +7871,14 @@
     "LX2000WASD/dsh-web-plugin-manager": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "MAXeaglet/dsh-bash-terminal": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -7729,42 +7888,42 @@
     "morluto/leantoken": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "morluto/rea": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "Nagi-ovo/dsh-find-plugins": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "NEXTINDIE/DeepSeek-Harness-for-VS-Code": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "NoWint/Oh-My-DSH": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "omdsh-dev/dsh-custom-tool": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -7777,7 +7936,7 @@
     "omdsh-dev/dsh-data-agent": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -7787,21 +7946,21 @@
     "omdsh-dev/dsh-hub-workshop": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "omdsh-dev/dsh-mygo": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "omdsh-dev/dsh-open-in-vscode": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Notifications & Integrations"
@@ -7814,21 +7973,21 @@
     "omdsh-dev/dsh-plugin-dev": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "omdsh-dev/dsh-plugin-skills": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "omdsh-dev/dsh-tool-calculator": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -7838,7 +7997,7 @@
     "omdsh-dev/dsh-tool-stat": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -7848,7 +8007,7 @@
     "omdsh-dev/dsh-toolkit": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -7861,7 +8020,7 @@
     "omdsh-dev/fabric": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -7871,7 +8030,7 @@
     "omdsh-dev/plugin-template": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -7881,49 +8040,49 @@
     "pingfanfan/hello-dsh": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "PivotStackIntelligence/dsh-github": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "runzhliu/deepseek-harness-docker": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "SakalioLabs/dsh-code-ide": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "SepineTam/mcp-for-stata": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "shuguang1994/project-blueprint": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "springbrand-lab/dsh-oauth-mcp-client": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -7933,14 +8092,14 @@
     "unknowbug/RE-Framework": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "vlln/plugin-registry": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Plugin Markets & Managers"
@@ -7950,35 +8109,35 @@
     "vvlife/awesome-deepseek-harness-plugins": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "walkinglabs/awesome-deepseek-harness-plugins": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "weijiafu14/pi2dsh": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "white0dew/awesome-dsh-plugins": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "xingyingyuzhui/dsh-updater-ui": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -7988,56 +8147,56 @@
     "YELEBAI/dsh-plugin-marketplace": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "yjh051108/dsh-super-injector": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "yuukiLike/zeromd": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "YYTbit/awesome-dsh-bridges": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "YYTbit/dsh-plugin-claude-bridge": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "ZASENJC/dsh-plugins-store": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "zimzaza4/dsh-bash-win": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ]
       }
     },
     "ZSeven-W/dsh-openpencil": {
       "source_categories": {
         "0xsline": [
-          "开发与工程（101）"
+          "开发与工程（102）"
         ],
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -11464,16 +11623,6 @@
         ]
       }
     },
-    "Noob-stupid/dsh-plugin-hub": {
-      "source_categories": {
-        "0xsline": [
-          "其他（702）"
-        ],
-        "awesome-dsh-plugin": [
-          "Plugin Markets & Managers"
-        ]
-      }
-    },
     "not-big-dog/DSH-pipeline-kernel": {
       "source_categories": {
         "0xsline": [
@@ -11949,6 +12098,9 @@
       "source_categories": {
         "0xsline": [
           "其他（702）"
+        ],
+        "awesome-dsh-plugin": [
+          "Memory"
         ]
       }
     },
@@ -12361,16 +12513,6 @@
       "source_categories": {
         "0xsline": [
           "其他（702）"
-        ]
-      }
-    },
-    "Tabbit-Browser/dsh-plugin": {
-      "source_categories": {
-        "0xsline": [
-          "其他（702）"
-        ],
-        "awesome-dsh-plugin": [
-          "Browser & Web"
         ]
       }
     },
@@ -12941,6 +13083,9 @@
       "source_categories": {
         "0xsline": [
           "其他（702）"
+        ],
+        "libukai": [
+          "工作流与 Agent"
         ]
       }
     },
@@ -13431,6 +13576,9 @@
         "0xsline": [
           "其他（702）"
         ],
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ],
         "libukai": [
           "浏览器、视觉与界面"
         ]
@@ -13513,6 +13661,48 @@
       }
     },
     "AKIRACOD/dsh-drag-and-drop": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "AKS1st/dock": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "AKS1st/dock-editor": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "AKS1st/dock-files": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "AKS1st/dock-git": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "AKS1st/dock-images": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "AKS1st/dock-markdown": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -13784,6 +13974,13 @@
         ]
       }
     },
+    "FeiZhuNiU-INFJA/dsh-stock-ticker": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "fengMax1997/dsh-line-select": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -13792,6 +13989,13 @@
       }
     },
     "flyhigao/dsh-sticky-notes": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "Free-corner/dsh-chat-tools": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -13840,6 +14044,13 @@
         ]
       }
     },
+    "gjj-star/dsh-conversation-navigator": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "GLFzr/dsh-drop-file-to-path": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -13861,6 +14072,13 @@
         ]
       }
     },
+    "guoliyuan97-png/dsh-game-hud": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "Han-1413141/dsh-ui-hub": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -13869,6 +14087,13 @@
       }
     },
     "hatsuyuki0103/dsh-at-any": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "hufeide/dsh-sidebar-assistant": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -14263,6 +14488,13 @@
         ]
       }
     },
+    "Phant0Meow/dsh-meow-smooth": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "Physicolor/harness-widgets": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -14512,6 +14744,13 @@
       }
     },
     "vvvspec/better-reasoning-slider": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "waknow/dsh-web-icon-indicator": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -14777,6 +15016,13 @@
         ]
       }
     },
+    "yuanbaoerer/dsh-decision-split": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "Yuer6327/NoLetMe": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -14890,6 +15136,13 @@
       }
     },
     "534119219/chicheng-stats": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Usage & Billing"
+        ]
+      }
+    },
+    "Andrew111888/dsh-plugin-balance": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Usage & Billing"
@@ -15500,7 +15753,21 @@
         ]
       }
     },
+    "HaoyueQin/deepseek-harness-background": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Themes & Appearance"
+        ]
+      }
+    },
     "Isilsolme/dsh-anthropic-fonts": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Themes & Appearance"
+        ]
+      }
+    },
+    "jiangwangyang/dsh-theme-blackhole": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Themes & Appearance"
@@ -15962,6 +16229,13 @@
         ]
       }
     },
+    "wqy8593521/dsh-model-pro": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Models & Providers"
+        ]
+      }
+    },
     "wss534857356/dsh-plugin-codex": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -16081,13 +16355,6 @@
         ]
       }
     },
-    "Chael-Chael/dsh-reference-anything": {
-      "source_categories": {
-        "awesome-dsh-plugin": [
-          "Sessions & Messages"
-        ]
-      }
-    },
     "ChuanTianML/dsh-local-share": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -16168,6 +16435,13 @@
         ]
       }
     },
+    "ht719/dsh-session-categories": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Sessions & Messages"
+        ]
+      }
+    },
     "huguangyu666/dsh-plugin-session-import": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -16225,6 +16499,13 @@
         ]
       }
     },
+    "jueburenshu123/dsh-win-minimal": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Sessions & Messages"
+        ]
+      }
+    },
     "kaieye/dsh-AIR": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -16233,6 +16514,13 @@
       }
     },
     "keepermttl/dsh-archive-viewer": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Sessions & Messages"
+        ]
+      }
+    },
+    "kirkchinese/CiteCiter": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Sessions & Messages"
@@ -16954,6 +17242,13 @@
         ]
       }
     },
+    "Swd146296/dsh-memos-bridge": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Memory"
+        ]
+      }
+    },
     "symmetryseeker/dsh-akn-plugin": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -17185,6 +17480,13 @@
         ]
       }
     },
+    "chenjiyan2001/dsh-proxy-routing": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
     "Chhlafiu4312/dsh-mcp-bridge": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -17213,7 +17515,21 @@
         ]
       }
     },
+    "ciky20171114/dsh-plugin-midscene": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
     "ClaireXi99/dsh-data-insight": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
+    "codingayice/dsh-interview": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -17641,6 +17957,13 @@
         ]
       }
     },
+    "lynote-ai/dsh-humanizer": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
     "mafeis/dsh-net-proxy": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -17904,6 +18227,13 @@
       }
     },
     "Taler97/dsh-rollback": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
+    "TaurenMountain/dsh-llm-as-a-verifier": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -18197,6 +18527,13 @@
         ]
       }
     },
+    "jiaererw/dsh-plugin-chrome": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Browser & Web"
+        ]
+      }
+    },
     "jiewaigongxing/dsh-jiey-browser": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -18243,6 +18580,14 @@
       "source_categories": {
         "awesome-dsh-plugin": [
           "Browser & Web"
+        ]
+      }
+    },
+    "PyModel/dsh-research-plugins": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Browser & Web",
+          "Docs & Rendering"
         ]
       }
     },
@@ -19054,6 +19399,13 @@
         ]
       }
     },
+    "Kenerlee/dsh-moments-aieo": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Skills"
+        ]
+      }
+    },
     "kobenfang/Big8": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -19194,7 +19546,28 @@
         ]
       }
     },
+    "WilShi/dsh-skill-station": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Skills"
+        ]
+      }
+    },
+    "wmengxiang/dsh-any-skills": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Skills"
+        ]
+      }
+    },
     "WODE25500/dsh-skillopt": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Skills"
+        ]
+      }
+    },
+    "wyzh0117/dsh-skill-select": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Skills"
@@ -19321,6 +19694,13 @@
       }
     },
     "buhuikongpan/dsh-project-context": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
+    "callmesoul/deepseek-kanban-plugin": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Workflow & Automation"
@@ -19657,6 +20037,13 @@
       }
     },
     "vlln/dsh-loop": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
+    "WintryGrass/dsh-multi-candidate": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Workflow & Automation"
@@ -20062,6 +20449,13 @@
         ]
       }
     },
+    "Laplace-bit/dsh-bell-notify": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Notifications & Integrations"
+        ]
+      }
+    },
     "luzhengyangtx/dsh-telegram-duty": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -20119,6 +20513,20 @@
       }
     },
     "NattoCB/dsh-plugin-notifications": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Notifications & Integrations"
+        ]
+      }
+    },
+    "nickhelion/dsh-serverchan-notify": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Notifications & Integrations"
+        ]
+      }
+    },
+    "nishit130/dsh-notification": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Notifications & Integrations"
@@ -20478,6 +20886,20 @@
         ]
       }
     },
+    "CH4ACKO3/dsh-render-engine": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "CH4ACKO3/the-binding-of-dsh": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
     "chenkai2/dsh-daemon": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -20796,6 +21218,13 @@
         ]
       }
     },
+    "memorax-ai/dsh-webui-studio": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
     "mexiaosqwq/want-a-init": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -20895,6 +21324,13 @@
       }
     },
     "stuarthu/dsh-hot-reload": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "SuCriss/dsh-version-update": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -21042,6 +21478,13 @@
       }
     },
     "zoahdev/dsh-rule-evolve": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "zoahdev/dsh-unplug": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -21891,6 +22334,13 @@
         ]
       }
     },
+    "leeclouddragon/dsh-all-in": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Just for Fun"
+        ]
+      }
+    },
     "Little-Star888/dsh-pelican": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -22154,6 +22604,13 @@
       "source_categories": {
         "libukai": [
           "上下文、会话与输入"
+        ]
+      }
+    },
+    "ZSeven-W/dsh-android": {
+      "source_categories": {
+        "libukai": [
+          "浏览器、视觉与界面"
         ]
       }
     },
