@@ -2,7 +2,7 @@
   "sources": {
     "0xsline": 758,
     "0xsline-catalog": 1728,
-    "awesome-dsh-plugin": 3865,
+    "awesome-dsh-plugin": 3946,
     "libukai": 119
   },
   "projects": {
@@ -1406,6 +1406,9 @@
       "source_categories": {
         "0xsline": [
           "UI, Themes & Interaction"
+        ],
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
         ]
       }
     },
@@ -4151,6 +4154,9 @@
       "source_categories": {
         "0xsline": [
           "Git & Engineering"
+        ],
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
         ]
       }
     },
@@ -5645,6 +5651,9 @@
       "source_categories": {
         "0xsline": [
           "Plugin Ecosystem & Development"
+        ],
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
         ]
       }
     },
@@ -18421,6 +18430,13 @@
         ]
       }
     },
+    "2002XiaoYu/dsh-session-diff": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "2nd1st/dsh-plugin-open-app": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -18701,6 +18717,13 @@
         ]
       }
     },
+    "appthin/dsh-mcp-manager-plus": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "ArcaneOrion/dsh-model-selector-search": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -18873,6 +18896,13 @@
         ]
       }
     },
+    "CAI-MH/dsh-agent-group-panel": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "caisiyang123/dsh-tick-rail": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -19020,6 +19050,13 @@
         ]
       }
     },
+    "CMoyuer/dsh-cad-viewer": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "CNSeniorious000/dsh-generative-ui": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -19049,7 +19086,7 @@
         ]
       }
     },
-    "Coprexist/AIsChat": {
+    "Coprexist/Copree": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -19621,6 +19658,13 @@
         ]
       }
     },
+    "hoyyang/dsh-improve-prompt": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "hu669293657/dsh-turn-tools": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -19792,6 +19836,13 @@
         ]
       }
     },
+    "jaikensai888/dsh-drawio": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "jasondu/dsh-ui-mobile": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -19954,6 +20005,13 @@
       }
     },
     "lakabuji-arch/dsh-model-accordion": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "lalalaleo/dsh-draft": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -20430,6 +20488,13 @@
       }
     },
     "Minecraftbe/dsh-toolfold": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "Missher12/dsh-missher-enhance": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -20922,6 +20987,13 @@
         ]
       }
     },
+    "sailoumili/dsh-sidebar-plus": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "Saknutella/dsh-thinking-quips": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -21014,6 +21086,13 @@
       }
     },
     "SiriLee/dsh-approval-hotkeys": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "SkyblueeeLabs/dsh-iconic-launcher": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -21127,6 +21206,13 @@
       }
     },
     "sunyuhuirong/fsviewer": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "SUZUNAMI/dsh-workspace-hide": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -21715,6 +21801,13 @@
         ]
       }
     },
+    "xswt442-cmd/dsh-xswt-tauriapp": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "xuexiaolei1997/dsh-plugin-stock-x": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -21723,6 +21816,13 @@
       }
     },
     "xwh5/dsh-change-review": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "XXXXXQ-0206/dsh-prompt-for-me": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -21933,6 +22033,13 @@
       }
     },
     "zerorigin-studio/dsh-desktop-shell": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "zhang24xiao/dsh-snippets": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -22423,6 +22530,13 @@
       }
     },
     "GooDAnDReaDY/dsh-cost-meter": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Usage & Billing"
+        ]
+      }
+    },
+    "GooDAnDReaDY/dsh-key-limits": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Usage & Billing"
@@ -23379,6 +23493,13 @@
         ]
       }
     },
+    "elong16/dsh-skin-xuyuanwu": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Themes & Appearance"
+        ]
+      }
+    },
     "feng78-boop/dsh-thirteen-bg": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -23912,6 +24033,13 @@
       }
     },
     "11zld22/dsh-model-info-fill": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Models & Providers"
+        ]
+      }
+    },
+    "1624318455/dsh-plugin-adapter": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Models & Providers"
@@ -24905,6 +25033,13 @@
         ]
       }
     },
+    "BOWLUNA/dsh-custom-mode": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Identity & Communication"
+        ]
+      }
+    },
     "CAI-MH/dsh-reply-language": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -24976,6 +25111,13 @@
       }
     },
     "xxww0098/dsh-plugin-oauth-subs": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Identity & Communication"
+        ]
+      }
+    },
+    "YuJunZhiXue/dsh-purge": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Identity & Communication"
@@ -25137,6 +25279,13 @@
       }
     },
     "bwndlct/dsh-session-export": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Sessions & Messages"
+        ]
+      }
+    },
+    "CAI-MH/dsh-steer": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Sessions & Messages"
@@ -25386,6 +25535,13 @@
         ]
       }
     },
+    "hasan-aghayev/dsh-session-resilience": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Sessions & Messages"
+        ]
+      }
+    },
     "heartmove/dsh-session-bridge": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -25408,6 +25564,13 @@
       }
     },
     "hkkz9522/dsh-session-manager": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Sessions & Messages"
+        ]
+      }
+    },
+    "hoyyang/dsh-concise": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Sessions & Messages"
@@ -25645,6 +25808,14 @@
       "source_categories": {
         "awesome-dsh-plugin": [
           "Sessions & Messages"
+        ]
+      }
+    },
+    "loulangogogo/dsh-plugins-loulan": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Sessions & Messages",
+          "Tools & Capabilities"
         ]
       }
     },
@@ -26149,6 +26320,13 @@
       }
     },
     "xohmai/dsh-session-delete": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Sessions & Messages"
+        ]
+      }
+    },
+    "XXXXXQ-0206/dsh-session-delete": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Sessions & Messages"
@@ -26780,6 +26958,13 @@
         ]
       }
     },
+    "lpf20200901/dsh-memory-delta": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Memory"
+        ]
+      }
+    },
     "Luisarg03/dsh-memory-vault": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -26822,7 +27007,21 @@
         ]
       }
     },
+    "MiHjy12138/dsh-memory-lite": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Memory"
+        ]
+      }
+    },
     "MineRPi/dsh-trilium": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Memory"
+        ]
+      }
+    },
+    "Missher12/dsh-missher-brain": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Memory"
@@ -27018,7 +27217,21 @@
         ]
       }
     },
+    "tabilet/tabilet-skills": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Memory"
+        ]
+      }
+    },
     "tancheng33/dsh-yogacara": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Memory"
+        ]
+      }
+    },
+    "TodayJin/dsh-trilogy": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Memory"
@@ -27061,6 +27274,13 @@
       }
     },
     "woshishadowhunter/dsh-seed-society": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Memory"
+        ]
+      }
+    },
+    "WYR-233/dsh-memory-lite": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Memory"
@@ -27207,6 +27427,13 @@
         ]
       }
     },
+    "1Ecc/dsh-lenovo-toolkit": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
     "2286893544/feishu-dsh-plugin": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -27313,6 +27540,13 @@
       }
     },
     "acebang0303/dsh-quick-launch": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
+    "adithyanraj03/dsh-graft-plugin": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -27446,6 +27680,13 @@
       }
     },
     "bx33661/dsh-omv": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
+    "bycall/dsh-engineer-tools": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -28140,6 +28381,13 @@
       }
     },
     "James-web11/dsh-matlab-mcp": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
+    "Jaylor-Wang/dsh-tool-ast-grep": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -29063,6 +29311,13 @@
         ]
       }
     },
+    "rebron1900/dsh-web-search-9router": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
     "Roarpeng/GraphFlow": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -29526,6 +29781,13 @@
         ]
       }
     },
+    "WanchunLian/dsh-draft-polish": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
     "wangcong1137-hash/dsh-geoserver": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -29555,6 +29817,13 @@
       }
     },
     "wangzhanchao883/dsh-screenshot-capture": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
+    "wangzhanchao883/dsh-word-vault": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -29957,6 +30226,13 @@
       }
     },
     "ZK-Andy/dsh-frecency": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
+    "zlZayn/dsh-zhihu-search": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -30419,6 +30695,13 @@
         ]
       }
     },
+    "KasenRi/dsh-browser": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Browser & Web"
+        ]
+      }
+    },
     "kenny2077/dsh-web-kimi": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -30448,6 +30731,13 @@
       }
     },
     "lirui1024k/dsh-browser-ops": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Browser & Web"
+        ]
+      }
+    },
+    "longmiaoo/dsh-native-browser": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Browser & Web"
@@ -30553,6 +30843,13 @@
         ]
       }
     },
+    "QuantumKuba/dsh-webstack": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Browser & Web"
+        ]
+      }
+    },
     "renchengxiang/dsh-web-search-tavily": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -30617,6 +30914,13 @@
       }
     },
     "Viger1/dsh-preview": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Browser & Web"
+        ]
+      }
+    },
+    "whiteS18/dsh-bing-search": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Browser & Web"
@@ -30764,6 +31068,13 @@
       }
     },
     "bug-huntter/dsh-vision-plugin": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Vision & Multimodal"
+        ]
+      }
+    },
+    "CAI-MH/dsh-gpt-image": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Vision & Multimodal"
@@ -31571,6 +31882,13 @@
         ]
       }
     },
+    "WYR-233/dsh-multi-tts": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Voice & Audio"
+        ]
+      }
+    },
     "XanthanL/dsh-plugin-uisfx": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -31833,6 +32151,13 @@
         ]
       }
     },
+    "yunfeizhu/dsh-pptx-editor": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Docs & Rendering"
+        ]
+      }
+    },
     "zh851233/docs-mode": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -32009,6 +32334,13 @@
       }
     },
     "gezi-wen/dsh-plugin-development": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Skills"
+        ]
+      }
+    },
+    "gezi-wen/dsh-skill-authoring": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Skills"
@@ -32610,6 +32942,13 @@
         ]
       }
     },
+    "2507483326/dsh-eteams": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
     "534119219/chicheng-cron": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -32715,6 +33054,13 @@
         ]
       }
     },
+    "CAI-MH/dsh-sysbrief": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
     "callmesoul/deepseek-kanban-plugin": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -32758,6 +33104,13 @@
       }
     },
     "Cyning12/dsh-coding-kit": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
+    "darrien1998/dsh-ditto": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Workflow & Automation"
@@ -32835,6 +33188,13 @@
       }
     },
     "fxylabs/superself": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
+    "gezi-wen/dsh-subagent-delegation": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Workflow & Automation"
@@ -33052,6 +33412,13 @@
       }
     },
     "KanoNoUta/dsh-captain": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
+    "KasenRi/dsh-orbit": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Workflow & Automation"
@@ -33730,6 +34097,48 @@
         ]
       }
     },
+    "Z-Asset/attest": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
+    "Z-Asset/ZA_analysis": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
+    "Z-Asset/ZA_data": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
+    "Z-Asset/ZA_literature": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
+    "Z-Asset/ZA_ppt": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
+    "Z-Asset/ZA_report": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
+        ]
+      }
+    },
     "zclDragon/dsh-tool-generate-image": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -33836,6 +34245,13 @@
       }
     },
     "BrambleXu/dsh-revdiff": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Git & Code Review"
+        ]
+      }
+    },
+    "Dayi-Z/dsh-git-manager": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Git & Code Review"
@@ -34052,6 +34468,13 @@
         ]
       }
     },
+    "mays-hi/dsh-git-idea": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Git & Code Review"
+        ]
+      }
+    },
     "MeghanBao/dsh-backstory": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -34137,6 +34560,13 @@
       }
     },
     "txy-ucas/dsh-workspace-snapshot": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Git & Code Review"
+        ]
+      }
+    },
+    "vclike/dsh-github-companion": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Git & Code Review"
@@ -34361,6 +34791,13 @@
       }
     },
     "bululuburuarua666/dsh-herald": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Notifications & Integrations"
+        ]
+      }
+    },
+    "CAI-MH/dsh-agent-bridge": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Notifications & Integrations"
@@ -34774,6 +35211,13 @@
         ]
       }
     },
+    "picsky/dsh-pocket-console": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Notifications & Integrations"
+        ]
+      }
+    },
     "pitetow/dsh-notify-on-complete": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -34865,6 +35309,13 @@
         ]
       }
     },
+    "WanchunLian/dsh-plugin-sound-alert": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Notifications & Integrations"
+        ]
+      }
+    },
     "wendayuan/dsh-weixin": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -34908,6 +35359,13 @@
       }
     },
     "xiaxingtianxia2-glitch/dsh-chime": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Notifications & Integrations"
+        ]
+      }
+    },
+    "xinyang920/dsh-caps-beacon": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Notifications & Integrations"
@@ -34999,6 +35457,13 @@
       }
     },
     "1123762794/dsh-web-restart": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "1624318455/dsh-plugin-proxy": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -35201,6 +35666,13 @@
         ]
       }
     },
+    "CAI-MH/dsh-plugin-forge": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
     "caizhihaoczh/dsh-profile-multica": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -35372,6 +35844,13 @@
         ]
       }
     },
+    "gezi-wen/dsh-repair": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
     "goatliamia/dsh-plugin-maker": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -35380,6 +35859,13 @@
       }
     },
     "GodCC6/dsh-updater": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "GooDAnDReaDY/dsh-issue-reporter": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -35646,6 +36132,13 @@
       }
     },
     "lemoncat7/dsh-ssh": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "lemonxiny55/dsh-composition-doctor": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -36185,6 +36678,13 @@
         ]
       }
     },
+    "wyzh0117/dsh-port-manager": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
     "x2802490130-prog/dsh-guard": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -36640,6 +37140,13 @@
         ]
       }
     },
+    "Jueze-2019/dsh-redteam-mode": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Security & Permissions"
+        ]
+      }
+    },
     "JW53222/faultseed": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -36938,6 +37445,13 @@
       }
     },
     "Vladimir-Kryshchenko/dsh-route-fence-linter": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Security & Permissions"
+        ]
+      }
+    },
+    "wangzhaonan16/dsh-fs-allowlist": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Security & Permissions"
@@ -37924,6 +38438,13 @@
         ]
       }
     },
+    "ljh257110/dsh-local-installer": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Plugin Markets & Managers"
+        ]
+      }
+    },
     "LKMeng2001/dsh-mcp-market": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -38239,6 +38760,13 @@
         ]
       }
     },
+    "huashenglian/dsh-livechat": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Just for Fun"
+        ]
+      }
+    },
     "jarvislee90s-dot/dsh-foxbell-pet": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -38379,6 +38907,13 @@
         ]
       }
     },
+    "NoodleStormno/dsh-plugin-tic80": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Just for Fun"
+        ]
+      }
+    },
     "nxz1026/SinglePlayer": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -38443,6 +38978,13 @@
       }
     },
     "pwping/moyu_games": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Just for Fun"
+        ]
+      }
+    },
+    "qiqibabyy/dsh-pet-desktop": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Just for Fun"
