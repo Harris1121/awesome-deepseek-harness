@@ -1,8 +1,8 @@
 {
   "sources": {
-    "0xsline": 769,
+    "0xsline": 779,
     "0xsline-catalog": 1728,
-    "awesome-dsh-plugin": 4367,
+    "awesome-dsh-plugin": 4381,
     "libukai": 119
   },
   "projects": {
@@ -122,6 +122,17 @@
         ]
       }
     },
+    "1420079678-ctrl/agent-body": {
+      "source_categories": {
+        "0xsline": [
+          "Core & Bundles"
+        ],
+        "awesome-dsh-plugin": [
+          "Memory",
+          "Development & Runtime"
+        ]
+      }
+    },
     "NanmiCoder/dsh-agent-teams": {
       "source_categories": {
         "0xsline": [
@@ -164,6 +175,9 @@
       "source_categories": {
         "0xsline": [
           "Agents & Orchestration"
+        ],
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
         ]
       }
     },
@@ -384,6 +398,13 @@
         ],
         "awesome-dsh-plugin": [
           "Skills"
+        ]
+      }
+    },
+    "pure-craft/dsh-actions": {
+      "source_categories": {
+        "0xsline": [
+          "Agents & Orchestration"
         ]
       }
     },
@@ -889,10 +910,13 @@
         ]
       }
     },
-    "Breeze136/kb-rag": {
+    "Breeze136/dsh-kb-rag": {
       "source_categories": {
         "0xsline": [
           "Memory & Knowledge"
+        ],
+        "awesome-dsh-plugin": [
+          "Memory"
         ]
       }
     },
@@ -1106,6 +1130,13 @@
       }
     },
     "IvenKooLab/loci-dsh": {
+      "source_categories": {
+        "0xsline": [
+          "Memory & Knowledge"
+        ]
+      }
+    },
+    "yul761/dsh-statecore": {
       "source_categories": {
         "0xsline": [
           "Memory & Knowledge"
@@ -1510,6 +1541,9 @@
       "source_categories": {
         "0xsline": [
           "UI, Themes & Interaction"
+        ],
+        "awesome-dsh-plugin": [
+          "Themes & Appearance"
         ]
       }
     },
@@ -2335,6 +2369,13 @@
         ]
       }
     },
+    "weibaohui/dsh-flow": {
+      "source_categories": {
+        "0xsline": [
+          "Dashboards & Session UX"
+        ]
+      }
+    },
     "dsh-external/dsh-ui-progress": {
       "source_categories": {
         "0xsline": [
@@ -2671,6 +2712,16 @@
       }
     },
     "wjingshan/dsh-cost-gauge": {
+      "source_categories": {
+        "0xsline": [
+          "Dashboards & Session UX"
+        ],
+        "awesome-dsh-plugin": [
+          "Usage & Billing"
+        ]
+      }
+    },
+    "olimc2016/dsh-token-meter-panel": {
       "source_categories": {
         "0xsline": [
           "Dashboards & Session UX"
@@ -3257,6 +3308,13 @@
       "source_categories": {
         "0xsline": [
           "Browser & Remote"
+        ]
+      }
+    },
+    "mn288/dsh-vertex-gemini": {
+      "source_categories": {
+        "0xsline": [
+          "Models & Inference"
         ]
       }
     },
@@ -5220,6 +5278,9 @@
       "source_categories": {
         "0xsline": [
           "Fun & Lifestyle"
+        ],
+        "awesome-dsh-plugin": [
+          "Plugin Markets & Managers"
         ]
       }
     },
@@ -5231,6 +5292,27 @@
       }
     },
     "yul761/dsh-blackjack": {
+      "source_categories": {
+        "0xsline": [
+          "Fun & Lifestyle"
+        ]
+      }
+    },
+    "weibaohui/dsh-matrix": {
+      "source_categories": {
+        "0xsline": [
+          "Fun & Lifestyle"
+        ]
+      }
+    },
+    "weibaohui/dsh-gaokao": {
+      "source_categories": {
+        "0xsline": [
+          "Fun & Lifestyle"
+        ]
+      }
+    },
+    "weibaohui/dsh-fireworks": {
       "source_categories": {
         "0xsline": [
           "Fun & Lifestyle"
@@ -6512,6 +6594,13 @@
         ],
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
+        ]
+      }
+    },
+    "shiyan688/dsh-paperdesk": {
+      "source_categories": {
+        "0xsline": [
+          "Domain & Specialist Skills"
         ]
       }
     },
@@ -18933,6 +19022,13 @@
         ]
       }
     },
+    "azazo1/dsh-deep-diving-back": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "azazo1/dsh-reduce-effects": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -22956,6 +23052,15 @@
         ]
       }
     },
+    "Azhe0306/dsh-connectors": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Usage & Billing",
+          "Tools & Capabilities",
+          "Browser & Web"
+        ]
+      }
+    },
     "badai147/dsh-ocgo-usage": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -23223,6 +23328,13 @@
       }
     },
     "GPIOX/dsh-api-balance": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Usage & Billing"
+        ]
+      }
+    },
+    "guooo1380/dsh-team-panel": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Usage & Billing"
@@ -23643,13 +23755,6 @@
       }
     },
     "null5069/dsh-better-stats": {
-      "source_categories": {
-        "awesome-dsh-plugin": [
-          "Usage & Billing"
-        ]
-      }
-    },
-    "olimc2016/dsh-token-meter-panel": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Usage & Billing"
@@ -24319,6 +24424,13 @@
       }
     },
     "HeShen-1/deepseek-whale-wallpaper": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Themes & Appearance"
+        ]
+      }
+    },
+    "huzhengbang2007/dsh-orca-glass": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Themes & Appearance"
@@ -25303,6 +25415,13 @@
         ]
       }
     },
+    "Henta111/dsh-more-models-thinking-level": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Models & Providers"
+        ]
+      }
+    },
     "HiSeax/dsh-better-model-setting": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -25665,6 +25784,13 @@
       }
     },
     "Pummelchen/TinyTitan": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Models & Providers"
+        ]
+      }
+    },
+    "qikairo7/dsh-gemini-pool": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Models & Providers"
@@ -27817,14 +27943,6 @@
         ]
       }
     },
-    "1420079678-ctrl/agent-body": {
-      "source_categories": {
-        "awesome-dsh-plugin": [
-          "Memory",
-          "Development & Runtime"
-        ]
-      }
-    },
     "398894496-arch/DSH-KRouter": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -27938,13 +28056,6 @@
       }
     },
     "BOWLUNA/dsh-zcode-scribe": {
-      "source_categories": {
-        "awesome-dsh-plugin": [
-          "Memory"
-        ]
-      }
-    },
-    "Breeze136/dsh-kb-rag": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Memory"
@@ -37268,6 +37379,13 @@
         ]
       }
     },
+    "Archaofan/dsh-notify-relay": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Notifications & Integrations"
+        ]
+      }
+    },
     "baisama-cloud/dsh-omni-bridge": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -38929,6 +39047,13 @@
       }
     },
     "memorax-ai/dsh-webui-studio": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "mengqi1436/DSH-Rtk-rewrite": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -41495,6 +41620,13 @@
       }
     },
     "AnacondaKC/dsh-douyin": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Just for Fun"
+        ]
+      }
+    },
+    "Andersen216/dsh-whale-girl-live2d": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Just for Fun"
