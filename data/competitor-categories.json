@@ -2,7 +2,7 @@
   "sources": {
     "0xsline": 779,
     "0xsline-catalog": 1728,
-    "awesome-dsh-plugin": 4381,
+    "awesome-dsh-plugin": 4391,
     "libukai": 119
   },
   "projects": {
@@ -128,6 +128,7 @@
           "Core & Bundles"
         ],
         "awesome-dsh-plugin": [
+          "Usage & Billing",
           "Memory",
           "Development & Runtime"
         ]
@@ -2373,6 +2374,9 @@
       "source_categories": {
         "0xsline": [
           "Dashboards & Session UX"
+        ],
+        "awesome-dsh-plugin": [
+          "Workflow & Automation"
         ]
       }
     },
@@ -5309,6 +5313,9 @@
       "source_categories": {
         "0xsline": [
           "Fun & Lifestyle"
+        ],
+        "awesome-dsh-plugin": [
+          "Just for Fun"
         ]
       }
     },
@@ -5316,6 +5323,9 @@
       "source_categories": {
         "0xsline": [
           "Fun & Lifestyle"
+        ],
+        "awesome-dsh-plugin": [
+          "Just for Fun"
         ]
       }
     },
@@ -6804,6 +6814,9 @@
       "source_categories": {
         "0xsline": [
           "Tools & Utilities"
+        ],
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
         ]
       }
     },
@@ -18241,9 +18254,6 @@
       "source_categories": {
         "0xsline": [
           "其他（738）"
-        ],
-        "awesome-dsh-plugin": [
-          "Themes & Appearance"
         ]
       }
     },
@@ -19426,6 +19436,13 @@
         ]
       }
     },
+    "damlys99/dsh-morning-paper": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "damlys99/dsh-queue-reorder": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -20138,6 +20155,13 @@
           "Sessions & Messages",
           "Tools & Capabilities",
           "Development & Runtime"
+        ]
+      }
+    },
+    "Iambatman1928/dsh-lawkb-ui": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
         ]
       }
     },
@@ -21080,6 +21104,13 @@
       }
     },
     "Nanmu-del/dsh-plan-toggle": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "NativeDog1/dsh-boot-animation": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -23243,6 +23274,13 @@
         ]
       }
     },
+    "etony668/dsh-balance": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Usage & Billing"
+        ]
+      }
+    },
     "faith1688/dsh-usage-meter-harness": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -24927,6 +24965,13 @@
         ]
       }
     },
+    "yunxiiQwQ/dsh-maid-whale-UI": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Themes & Appearance"
+        ]
+      }
+    },
     "yzke/dsh-icon-theme": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -25854,6 +25899,13 @@
       }
     },
     "Scorp1o117/dsh-reasoning-options": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Models & Providers"
+        ]
+      }
+    },
+    "sequoiayunus-hue/dsh-subagent-model-config": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Models & Providers"
