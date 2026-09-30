@@ -2,7 +2,7 @@
   "sources": {
     "0xsline": 779,
     "0xsline-catalog": 1728,
-    "awesome-dsh-plugin": 4396,
+    "awesome-dsh-plugin": 4406,
     "libukai": 119
   },
   "projects": {
@@ -5312,6 +5312,9 @@
       "source_categories": {
         "0xsline": [
           "Fun & Lifestyle"
+        ],
+        "awesome-dsh-plugin": [
+          "Just for Fun"
         ]
       }
     },
@@ -18814,6 +18817,13 @@
         ]
       }
     },
+    "Aicksion/dsh-clean-desktop-shell-pro": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "AikenFra/dsh-alive": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -20227,6 +20237,13 @@
         ]
       }
     },
+    "iceriverlin/dsh-session-upload": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "idoall/dsh-quick-replies": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -20291,6 +20308,13 @@
       }
     },
     "jaikensai888/dsh-drawio": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "jameswatt139240-crypto/dsh-ATLAS": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -22302,6 +22326,13 @@
       }
     },
     "wszhoho/dsh-file-attachment": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
+    "wucl12/dsh-side-branch": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "UI Enhancements"
@@ -25368,6 +25399,13 @@
         ]
       }
     },
+    "eghrhegpe/dsh-connect-qoder": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Models & Providers"
+        ]
+      }
+    },
     "elizax/dsh-http-proxy": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -26418,6 +26456,13 @@
       }
     },
     "YuJunZhiXue/dsh-purge": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Identity & Communication"
+        ]
+      }
+    },
+    "YUNmengyuan/Herta-dsh": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Identity & Communication"
@@ -33859,16 +33904,6 @@
         ]
       }
     },
-    "zhu1090093659/dsh-web-ui": {
-      "source_categories": {
-        "awesome-dsh-plugin": [
-          "Vision & Multimodal"
-        ],
-        "libukai": [
-          "终端、移动与 Web 体验"
-        ]
-      }
-    },
     "zmm863-commits/dsh-agnes-studio": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -34164,6 +34199,13 @@
       }
     },
     "TaoruiLiu19/dsh-gsv": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Voice & Audio"
+        ]
+      }
+    },
+    "toddpan/dsh-xiaozhi": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Voice & Audio"
@@ -38607,6 +38649,13 @@
         ]
       }
     },
+    "ethanwong-hk/dsh-thinking-guard": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
     "EvilIrving/dsh-repro": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -39168,6 +39217,13 @@
       }
     },
     "myd74108520/cadence-skill": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "NamesMT/dsh-home-hosted": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Development & Runtime"
@@ -40530,6 +40586,13 @@
       }
     },
     "ai-eks/dsh-auth-tunnel": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Remote & Mobile"
+        ]
+      }
+    },
+    "AIcivilization/deepseek-harness-vps": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Remote & Mobile"
@@ -42357,6 +42420,13 @@
       }
     },
     "openguardrails/dsh-tui": {
+      "source_categories": {
+        "libukai": [
+          "终端、移动与 Web 体验"
+        ]
+      }
+    },
+    "zhu1090093659/dsh-web-ui": {
       "source_categories": {
         "libukai": [
           "终端、移动与 Web 体验"
