@@ -2,7 +2,7 @@
   "sources": {
     "0xsline": 786,
     "0xsline-catalog": 1728,
-    "awesome-dsh-plugin": 4428,
+    "awesome-dsh-plugin": 4438,
     "libukai": 119
   },
   "projects": {
@@ -2733,6 +2733,9 @@
       "source_categories": {
         "0xsline": [
           "Dashboards & Session UX"
+        ],
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
         ]
       }
     },
@@ -22945,6 +22948,13 @@
         ]
       }
     },
+    "zeusxx/dsh-composer-live": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "UI Enhancements"
+        ]
+      }
+    },
     "zhang24xiao/dsh-snippets": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -24764,6 +24774,13 @@
         ]
       }
     },
+    "longgege-cd/dsh-skin-pixel-anime": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Themes & Appearance"
+        ]
+      }
+    },
     "LoveIrishCoffee/dsh-effort-ultra-skin": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -25560,6 +25577,15 @@
         ]
       }
     },
+    "FNOSP/fnos-dsh": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Models & Providers",
+          "Identity & Communication",
+          "Development & Runtime"
+        ]
+      }
+    },
     "fu827707013/dsh-codebuddy-cli": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -26191,15 +26217,6 @@
       "source_categories": {
         "awesome-dsh-plugin": [
           "Models & Providers"
-        ]
-      }
-    },
-    "tnnevol/fn-os-apps": {
-      "source_categories": {
-        "awesome-dsh-plugin": [
-          "Models & Providers",
-          "Identity & Communication",
-          "Development & Runtime"
         ]
       }
     },
@@ -27825,6 +27842,13 @@
       }
     },
     "SZMY-haruhi/dsh-session-plus": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Sessions & Messages"
+        ]
+      }
+    },
+    "TetraSsky/dsh-hold": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Sessions & Messages"
@@ -29995,6 +30019,13 @@
         ]
       }
     },
+    "functy23/dsh-mcp-studio": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
     "gezi-wen/sage-guikit": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -30746,6 +30777,13 @@
         ]
       }
     },
+    "liaoyuqing/dsh_workspace_switch": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
     "lifeopsgo/dsh-capability-toggle-plugin": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -31090,6 +31128,13 @@
       }
     },
     "MrWeiCodes/dsh-fs-encoding": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Tools & Capabilities"
+        ]
+      }
+    },
+    "MuzeWinter/dscomputer-control": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Tools & Capabilities"
@@ -33186,6 +33231,13 @@
         ]
       }
     },
+    "lyp88997/dsh-browser-service": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Browser & Web"
+        ]
+      }
+    },
     "Lzh3070/dsh-search-hub": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -35218,7 +35270,7 @@
         ]
       }
     },
-    "OMSociety/kimi-ppt-skill": {
+    "OMSociety/dsh-kimi-ppt": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Skills"
@@ -38250,6 +38302,13 @@
         ]
       }
     },
+    "ShiXiangYu2/dsh-feishu-remote": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Notifications & Integrations"
+        ]
+      }
+    },
     "shrekcg/dsh-im-channel": {
       "source_categories": {
         "awesome-dsh-plugin": [
@@ -39399,6 +39458,13 @@
       }
     },
     "NamesMT/dsh-home-hosted": {
+      "source_categories": {
+        "awesome-dsh-plugin": [
+          "Development & Runtime"
+        ]
+      }
+    },
+    "Neo65536-engineer/dsh-agent-log": {
       "source_categories": {
         "awesome-dsh-plugin": [
           "Development & Runtime"
