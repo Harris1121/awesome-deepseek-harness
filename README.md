@@ -4,7 +4,7 @@
 
 Awesome DeepSeek Harness is a curated, data-driven guide to plugins, clients, integrations, tools and resources that work with **DeepSeek Harness**. It tracks community adoption and short-term momentum so you can quickly find the projects that matter instead of digging through hundreds of repositories.
 
-**7,500 projects tracked · 13 categories · Updated daily · Last data refresh: 2026-10-18**
+**7,789 projects tracked · 13 categories · Updated daily · Last data refresh: 2026-10-20**
 
 <p align="center">
   <a href="https://github.com/deepseek-ai/deepseek-harness">
@@ -57,254 +57,257 @@ pnpm dsh web
 
 | Rank | Project | Stars | 3d Gain | Status |
 |---:|---|---:|---:|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 310,907 | +61,063 | DSH Native |
-| 2 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 22,622 | +5,893 | DSH Native |
-| 3 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 22,605 | +5,876 | DSH Native |
-| 4 | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | 6,808 | +1,061 | DSH Native |
-| 5 | [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) | 2,887 | +1,047 | DSH Native |
-| 6 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 14,990 | +892 | DSH Native |
-| 7 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 50,946 | +1,171 | Community |
-| 8 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | 7,026 | +454 | DSH Native |
-| 9 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 76,177 | +1,461 | DSH Native |
-| 10 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | 5,700 | +397 | DSH Native |
+| 1 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 28,590 | +8,777 | DSH Native |
+| 2 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 28,567 | +8,754 | DSH Native |
+| 3 | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | 9,624 | +3,227 | DSH Native |
+| 4 | [morluto/rea](https://github.com/morluto/rea) | 339,527 | +45,434 | DSH Native |
+| 5 | [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) | 2,900 | +1,218 | DSH Native |
+| 6 | [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) | 3,342 | +718 | DSH Native |
+| 7 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | 7,562 | +774 | DSH Native |
+| 8 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 15,704 | +1,045 | DSH Native |
+| 9 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 3,976 | +453 | DSH Native |
+| 10 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 20,966 | +955 | DSH Native |
 
 ## 🧭&nbsp;&nbsp;Popular by Category
 
 ### 💻&nbsp;&nbsp;Coding & Development
 
-**1. [morluto/rea](https://github.com/morluto/rea)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 310.9k&nbsp;&nbsp;📈 +61,063 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**1. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 28.6k&nbsp;&nbsp;📈 +8,777 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no logi...  
+
+**2. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 28.6k&nbsp;&nbsp;📈 +8,754 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no logi...  
+
+**3. [morluto/rea](https://github.com/morluto/rea)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 339.5k&nbsp;&nbsp;📈 +45,434 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Reverse engineer anything with agents, from app behavior down to native binaries.  
 
-**2. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 22.6k&nbsp;&nbsp;📈 +5,893 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no logi...  
-
-**3. [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 22.6k&nbsp;&nbsp;📈 +5,876 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no logi...  
-
-**4. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 76.2k&nbsp;&nbsp;📈 +1,461 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system...  
-
-**5. [superdesigndev/treg](https://github.com/superdesigndev/treg)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 5.7k&nbsp;&nbsp;📈 +397 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn  
-
-**6. [tt-a1i/archify](https://github.com/tt-a1i/archify)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 85k&nbsp;&nbsp;📈 +1,296 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.  
-
-**7. [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 5.2k&nbsp;&nbsp;📈 +322 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装  
-
-**8. [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.8k&nbsp;&nbsp;📈 +383 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Ag...  
-
-**9. [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.8k&nbsp;&nbsp;📈 +383 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Ag...  
-
-**10. [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 3.6k&nbsp;&nbsp;📈 +245 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**4. [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 4k&nbsp;&nbsp;📈 +453 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。  
 
-**11. [DSH-APP/DSHA](https://github.com/DSH-APP/DSHA)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.5k&nbsp;&nbsp;📈 +277 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+**5. [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 5.5k&nbsp;&nbsp;📈 +443 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装  
+
+**6. [ruvnet/ruflo](https://github.com/ruvnet/ruflo)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 77.4k&nbsp;&nbsp;📈 +1,635 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system...  
+
+**7. [tt-a1i/archify](https://github.com/tt-a1i/archify)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 86k&nbsp;&nbsp;📈 +1,421 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.  
+
+**8. [DSH-APP/DSHA](https://github.com/DSH-APP/DSHA)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.7k&nbsp;&nbsp;📈 +328 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
 免 ROOT 免 Termux，在手机上跑 DeepSeek Harness。完整 Ubuntu 环境 + proroot 零 ptrace 开销 · AI 输出实时上屏 · ADB 直连 · 数据不丢  
 
-**12. [DSH-APP/DSHA](https://github.com/DSH-APP/DSHA)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.5k&nbsp;&nbsp;📈 +276 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+**9. [DSH-APP/DSHA](https://github.com/DSH-APP/DSHA)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.7k&nbsp;&nbsp;📈 +328 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
 免 ROOT 免 Termux，在手机上跑 DeepSeek Harness。完整 Ubuntu 环境 + proroot 零 ptrace 开销 · AI 输出实时上屏 · ADB 直连 · 数据不丢  
 
-**13. [anbeime/skill](https://github.com/anbeime/skill)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 8.2k&nbsp;&nbsp;📈 +163 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**10. [superdesigndev/treg](https://github.com/superdesigndev/treg)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 5.9k&nbsp;&nbsp;📈 +269 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn  
+
+**11. [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 9.1k&nbsp;&nbsp;📈 +215 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, dis...  
+
+**12. [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 9.1k&nbsp;&nbsp;📈 +215 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, dis...  
+
+**13. [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 9.1k&nbsp;&nbsp;📈 +215 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, dis...  
+
+**14. [anbeime/skill](https://github.com/anbeime/skill)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 8.4k&nbsp;&nbsp;📈 +187 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive...  
 
-**14. [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 8.9k&nbsp;&nbsp;📈 +150 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, dis...  
-
-**15. [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 8.9k&nbsp;&nbsp;📈 +150 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, dis...  
-
-**16. [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 8.9k&nbsp;&nbsp;📈 +150 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, dis...  
-
-**17. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 52.7k&nbsp;&nbsp;📈 +74 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
+**15. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 52.8k&nbsp;&nbsp;📈 +79 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
 AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs  
 
-**18. [liyupi/ai-guide](https://github.com/liyupi/ai-guide)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 21.3k&nbsp;&nbsp;📈 +150 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
+**16. [liyupi/ai-guide](https://github.com/liyupi/ai-guide)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 21.4k&nbsp;&nbsp;📈 +133 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Sk...  
 
-**19. [titanwings/distilly](https://github.com/titanwings/distilly)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 25.7k&nbsp;&nbsp;📈 +101 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**17. [titanwings/distilly](https://github.com/titanwings/distilly)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 25.8k&nbsp;&nbsp;📈 +113 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.  
 
-**20. [titanwings/distilly](https://github.com/titanwings/distilly)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 25.7k&nbsp;&nbsp;📈 +101 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**18. [titanwings/distilly](https://github.com/titanwings/distilly)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 25.8k&nbsp;&nbsp;📈 +113 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.  
+
+**19. [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 6.3k&nbsp;&nbsp;📈 +107 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts...  
+
+**20. [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 3.1k&nbsp;&nbsp;📈 +81 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code...  
 
 ### 🔎&nbsp;&nbsp;Research & Search
 
-**1. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 34.5k&nbsp;&nbsp;📈 +489 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**1. [Tencent/WeKnora](https://github.com/Tencent/WeKnora)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 34.8k&nbsp;&nbsp;📈 +347 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.  
 
-**2. [Clearailhc/clearai-dsh](https://github.com/Clearailhc/clearai-dsh)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1k&nbsp;&nbsp;📈 +257 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**2. [Clearailhc/clearai-dsh](https://github.com/Clearailhc/clearai-dsh)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.2k&nbsp;&nbsp;📈 +231 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into...  
 
-**3. [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.3k&nbsp;&nbsp;📈 +136 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**3. [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.4k&nbsp;&nbsp;📈 +168 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for...  
 
-**4. [MemTensor/MemOS](https://github.com/MemTensor/MemOS)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 11.9k&nbsp;&nbsp;📈 +48 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**4. [MemTensor/MemOS](https://github.com/MemTensor/MemOS)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 12k&nbsp;&nbsp;📈 +54 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token sav...  
 
-**5. [anysearch-team/anysearch-dsh](https://github.com/anysearch-team/anysearch-dsh)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 520&nbsp;&nbsp;📈 +59 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**5. [anysearch-team/anysearch-dsh](https://github.com/anysearch-team/anysearch-dsh)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 574&nbsp;&nbsp;📈 +70 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH)  
 
 **6. [Jesseovo/last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.9k&nbsp;&nbsp;📈 +8 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 last30days-cn 是一个 AI Agent 技能（Skill），能够自动搜索中国互联网 8 大主流平台最近 30 天的内容，综合分析后生成有据可查的研究报告。  
 
-**7. [chenxiachan/thoughtdag](https://github.com/chenxiachan/thoughtdag)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 651&nbsp;&nbsp;📈 +25 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.  
-
-**8. [himovo/movo](https://github.com/himovo/movo)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 304&nbsp;&nbsp;📈 +31 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browse...  
-
-**9. [mindscale-noah/MindMemOS](https://github.com/mindscale-noah/MindMemOS)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 917&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-No description available yet.  
-
-**10. [chainbase-labs/Agentkey](https://github.com/chainbase-labs/Agentkey)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 663&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.  
-
-**11. [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 385&nbsp;&nbsp;📈 +8 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
-A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT...  
-
-**12. [RevolutionLA/dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 254&nbsp;&nbsp;📈 +15 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DeepSeek Harness 换肤 / 壁纸 / 主题包插件 (dsh-plugin) — 8 套 Mirage 主题、每用户强调色、壁纸2.0、主题包导入导出/分享链接、收藏与随机，纯原生 token 系统实现。  
-
-**13. [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 542&nbsp;&nbsp;📈 +4 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole res...  
-
-**14. [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 261&nbsp;&nbsp;📈 +13 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-Complete reverse-skill (88 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security...  
-
-**15. [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 328&nbsp;&nbsp;📈 +8 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
-Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH...  
-
-**16. [theBigGavin/marketingdashboard](https://github.com/theBigGavin/marketingdashboard)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 390&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**7. [theBigGavin/marketingdashboard](https://github.com/theBigGavin/marketingdashboard)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 415&nbsp;&nbsp;📈 +25 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 面向金融与产业研究的一屏式实时行情大屏：A股/港股/美股指数、大宗商品、美债收益率、板块热点、主力资金流、7×24 快讯、产业链自选股、AI 大模型 Token 追踪。A real-time market research cockpit on a single scree...  
 
-**17. [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 297&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**8. [chenxiachan/thoughtdag](https://github.com/chenxiachan/thoughtdag)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 658&nbsp;&nbsp;📈 +13 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.  
+
+**9. [himovo/movo](https://github.com/himovo/movo)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 313&nbsp;&nbsp;📈 +15 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browse...  
+
+**10. [cordiverse/paper](https://github.com/cordiverse/paper)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 3k&nbsp;&nbsp;📈 +1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
+A Programming Paradigm for Spatiotemporal Composability  
+
+**11. [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 545&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole res...  
+
+**12. [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 332&nbsp;&nbsp;📈 +7 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH...  
+
+**13. [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 271&nbsp;&nbsp;📈 +11 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Complete reverse-skill (88 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security...  
+
+**14. [chainbase-labs/Agentkey](https://github.com/chainbase-labs/Agentkey)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 665&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.  
+
+**15. [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 388&nbsp;&nbsp;📈 +4 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT...  
+
+**16. [RevolutionLA/dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 258&nbsp;&nbsp;📈 +8 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DeepSeek Harness 换肤 / 壁纸 / 主题包插件 (dsh-plugin) — 8 套 Mirage 主题、每用户强调色、壁纸2.0、主题包导入导出/分享链接、收藏与随机，纯原生 token 系统实现。  
+
+**17. [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 301&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. D...  
 
-**18. [Ariestar/sivtr](https://github.com/Ariestar/sivtr)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 257&nbsp;&nbsp;📈 +4 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-A unified agent memory workspace for human and agent | 一个统一的agent记忆工作空间  
+**18. [taxueseek/argo](https://github.com/taxueseek/argo)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 200&nbsp;&nbsp;📈 +6 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+专门为 agent 打造的开源 agent 搜索工具，具备 200+的搜索源及多语言搜索能力，覆盖中文/英文/学术/代码/购物/金融/新闻/百科。  
 
-**19. [alaliqing/claude-paper](https://github.com/alaliqing/claude-paper)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 348&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-📖 Cross-agent research paper toolkit for Claude Code, Codex, OpenCode, and DeepSeek Harness—quick summaries, deep study materials, code d...  
+**19. [ZJU-REAL/Polaris](https://github.com/ZJU-REAL/Polaris)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 261&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Toward Autonomous Scientific Discovery  
 
-**20. [cordiverse/paper](https://github.com/cordiverse/paper)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 3k&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
-A Programming Paradigm for Spatiotemporal Composability  
+**20. [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 216&nbsp;&nbsp;📈 +4 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Industry and company research domain pack for DeepSeek Harness: methodology skills, industry chain mapping, public-source policy/news tra...  
 
 ### ✍️&nbsp;&nbsp;Writing & Content
 
-**1. [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 7.5k&nbsp;&nbsp;📈 +50 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**1. [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 7.6k&nbsp;&nbsp;📈 +43 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。  
 
-**2. [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 536&nbsp;&nbsp;📈 +18 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**2. [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 555&nbsp;&nbsp;📈 +23 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and vi...  
 
-**3. [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 536&nbsp;&nbsp;📈 +18 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**3. [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 555&nbsp;&nbsp;📈 +23 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and vi...  
 
-**4. [toby-bridges/api-relay-audit](https://github.com/toby-bridges/api-relay-audit)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 885&nbsp;&nbsp;📈 +4 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**4. [toby-bridges/api-relay-audit](https://github.com/toby-bridges/api-relay-audit)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 887&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies,...  
 
-**5. [EthanYoQ/Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 509&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。  
-
-**6. [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 151&nbsp;&nbsp;📈 +6 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**5. [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 185&nbsp;&nbsp;📈 +38 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 把 DSH Web 状态行换成 1063 条梗:打字机 + 炫彩渐变 + 弹幕 + 12 个主题词库包,设置页可视化编辑。  
 
-**7. [Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1k&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-GLM-5.3-Flash × J-Space capability realization — benchmark presentation of the J-Space Cognition Suite  
+**6. [EthanYoQ/Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 511&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。  
 
-**8. [Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1k&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-GLM-5.3-Flash × J-Space capability realization — benchmark presentation of the J-Space Cognition Suite  
-
-**9. [Finderchangchang/brewreel](https://github.com/Finderchangchang/brewreel)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 170&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。  
-
-**10. [akira399/dsh-novel-writer](https://github.com/akira399/dsh-novel-writer)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 94&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**7. [akira399/dsh-novel-writer](https://github.com/akira399/dsh-novel-writer)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 99&nbsp;&nbsp;📈 +7 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 大肥鱼的小说工坊 — DSH 网络小说创作插件：九阶段门禁式创作流程 + 世界书设定注入 + 本地书籍导入 + AI 一键润色 + 去AI味 + 黄金三章诊断 + 百万字一致性 + 市场调研与模板复制。  
+
+**8. [Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1k&nbsp;&nbsp;📈 -1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+GLM-5.3-Flash × J-Space capability realization — benchmark presentation of the J-Space Cognition Suite  
+
+**9. [Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1k&nbsp;&nbsp;📈 -1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+GLM-5.3-Flash × J-Space capability realization — benchmark presentation of the J-Space Cognition Suite  
+
+**10. [Finderchangchang/brewreel](https://github.com/Finderchangchang/brewreel)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 171&nbsp;&nbsp;📈 +1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。  
 
 ### 🎨&nbsp;&nbsp;Image & Design
 
-**1. [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.9k&nbsp;&nbsp;📈 +1,047 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**1. [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 3.3k&nbsp;&nbsp;📈 +718 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时  
 
-**2. [nexu-io/open-design](https://github.com/nexu-io/open-design)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 102k&nbsp;&nbsp;📈 +808 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentation...  
+**2. [nexu-io/open-design](https://github.com/nexu-io/open-design)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 102.6k&nbsp;&nbsp;📈 +904 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, pres...  
 
-**3. [liustack/modlens](https://github.com/liustack/modlens)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 4.3k&nbsp;&nbsp;📈 +41 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**3. [liustack/modlens](https://github.com/liustack/modlens)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 4.3k&nbsp;&nbsp;📈 +50 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON...  
 
-**4. [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.5k&nbsp;&nbsp;📈 +15 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**4. [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.5k&nbsp;&nbsp;📈 +12 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.  
 
-**5. [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.2k&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-为纯文本模型"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — i...  
-
-**6. [ysr666/dsh-vision-router](https://github.com/ysr666/dsh-vision-router)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.2k&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel d...  
-
-**7. [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 897&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**5. [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 902&nbsp;&nbsp;📈 +7 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-s...  
 
-**8. [WSL043/dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 194&nbsp;&nbsp;📈 +17 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**6. [Anionex/agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.2k&nbsp;&nbsp;📈 +4 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+为纯文本模型"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — i...  
+
+**7. [WSL043/dsh-codex-subscription](https://github.com/WSL043/dsh-codex-subscription)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 214&nbsp;&nbsp;📈 +30 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Use your ChatGPT Plus / Pro (Codex) subscription in DeepSeek Harness (DSH): GPT-6 & Codex models, images, web search and quota via ChatGP...  
 
-**9. [dickpy/dsh-imagegen](https://github.com/dickpy/dsh-imagegen)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 122&nbsp;&nbsp;📈 +7 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**8. [ysr666/dsh-vision-router](https://github.com/ysr666/dsh-vision-router)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.2k&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel d...  
+
+**9. [dickpy/dsh-imagegen](https://github.com/dickpy/dsh-imagegen)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 125&nbsp;&nbsp;📈 +7 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DSH (DeepSeek Harness) Web GUI AI image generation plugin: text-to-image & image-to-image via OpenAI-compatible endpoints (gpt-image-2),...  
 
-**10. [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 991&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-:zap:The ultimate image uploading engine. Both CLI & API supports.  
+**10. [pearjelly/deep-blend](https://github.com/pearjelly/deep-blend)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 63&nbsp;&nbsp;📈 +32 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Create and refine Blender product scenes in DSH: editable recipes, model imports, real previews, saved revisions and PNG/MP4 delivery.  
 
-**11. [amlyczz/dsh-agy-link](https://github.com/amlyczz/dsh-agy-link)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 117&nbsp;&nbsp;📈 +6 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-Google Antigravity (agy CLI) models for DeepSeek Harness — streaming chat, thinking, tool activity, usage, in-GUI Google OAuth login  
-
-**12. [fandc520/dsh-comfyui](https://github.com/fandc520/dsh-comfyui)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 117&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**11. [fandc520/dsh-comfyui](https://github.com/fandc520/dsh-comfyui)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 120&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 一个基于DeepSeek-Harness的ComfyUI插件  
 
-**13. [mrpulor-gh/nuphus-mcp](https://github.com/mrpulor-gh/nuphus-mcp)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 326&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
+**12. [amlyczz/dsh-agy-link](https://github.com/amlyczz/dsh-agy-link)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 119&nbsp;&nbsp;📈 +4 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Google Antigravity (agy CLI) models for DeepSeek Harness — streaming chat, thinking, tool activity, usage, in-GUI Google OAuth login  
+
+**13. [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 991&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+:zap:The ultimate image uploading engine. Both CLI & API supports.  
+
+**14. [mrpulor-gh/nuphus-mcp](https://github.com/mrpulor-gh/nuphus-mcp)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 326&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
 Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Prot...  
 
-**14. [Stormycry-cryp/dsh-AuthInOne](https://github.com/Stormycry-cryp/dsh-AuthInOne)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 105&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**15. [Stormycry-cryp/dsh-AuthInOne](https://github.com/Stormycry-cryp/dsh-AuthInOne)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 105&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Self-contained DeepSeek Harness (DSH) plugin for Provider/Auth login, model switching, image fallback, token/cost analytics, and same-por...  
 
 ### 🎬&nbsp;&nbsp;Video & Audio
 
-**1. [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.3k&nbsp;&nbsp;📈 +44 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**1. [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.4k&nbsp;&nbsp;📈 +45 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.  
 
-**2. [beiyege-01/dsh-voice-ai-girlfriend](https://github.com/beiyege-01/dsh-voice-ai-girlfriend)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 489&nbsp;&nbsp;📈 +256 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**2. [beiyege-01/dsh-voice-ai-girlfriend](https://github.com/beiyege-01/dsh-voice-ai-girlfriend)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 522&nbsp;&nbsp;📈 +52 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 语音 AI 女友（Voice AI girlfriend for DeepSeek Harness）：Whisper 语音输入 + Qwen3-TTS 声音克隆 + 句子级流式朗读 + 数字人动画窗。插话/排队双模式，说话即打断。  
 
-**3. [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 500&nbsp;&nbsp;📈 +16 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+**3. [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 504&nbsp;&nbsp;📈 +10 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
 Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped eviden...  
 
-**4. [zrt-ai-lab/ViNote](https://github.com/zrt-ai-lab/ViNote)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 473&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+**4. [zrt-ai-lab/ViNote](https://github.com/zrt-ai-lab/ViNote)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 474&nbsp;&nbsp;📈 +1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
 ViNote（视记AI）｜DeepSeek Harness SDK 驱动的开源视频知识 Agent。以工具编排、SQLite 会话恢复和流式交互，串联 YouTube / Bilibili 检索、下载、转写与笔记生成，支持视频问答、知识卡片和思维导图。FastAPI + R...  
 
-**5. [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 54&nbsp;&nbsp;📈 +6 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**5. [universe-st/dsh-game-material-master](https://github.com/universe-st/dsh-game-material-master)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 70&nbsp;&nbsp;📈 +17 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 dsh游戏素材大师插件。接入seedream生图模型和minimax视频生成模型，可生成各种游戏素材。  
 
-**6. [dundunhan/dsh-video-lens](https://github.com/dundunhan/dsh-video-lens)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 115&nbsp;&nbsp;📈 +1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**6. [dundunhan/dsh-video-lens](https://github.com/dundunhan/dsh-video-lens)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 116&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 No description available yet.  
 
-**7. [beiyege-01/dsh-voice-ai-girlfriend-plugin](https://github.com/beiyege-01/dsh-voice-ai-girlfriend-plugin)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 29&nbsp;&nbsp;📈 +8 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**7. [beiyege-01/dsh-voice-ai-girlfriend-plugin](https://github.com/beiyege-01/dsh-voice-ai-girlfriend-plugin)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 32&nbsp;&nbsp;📈 +6 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 No description available yet.  
 
-**8. [PolinniZhong/dsh-omi-voice](https://github.com/PolinniZhong/dsh-omi-voice)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 76&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DeepSeek Harness 语音朗读插件：沉浸式听朗读，用豆包 TTS 自然音色读 AI 回复（BYOK · 点读/暂停/继续）  
-
-**9. [ppy-web/dsh-plugin-xiaomi-mimo-tts](https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 22&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**8. [ppy-web/dsh-plugin-xiaomi-mimo-tts](https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 26&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 给DSH接入免费的 Xiaomi MiMo TTS API，支持使用预置/自定义/浏览器内置声音朗读正文  
 
-**10. [PensiveFei/dsh-voice-scribe](https://github.com/PensiveFei/dsh-voice-scribe)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 36&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DSH voice input plugin: tap Alt to talk, get text in composer. Web Speech default (zero config), optional OpenAI-compatible ASR, polish v...  
+**9. [PolinniZhong/dsh-omi-voice](https://github.com/PolinniZhong/dsh-omi-voice)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 76&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DeepSeek Harness 语音朗读插件：沉浸式听朗读，用豆包 TTS 自然音色读 AI 回复（BYOK · 点读/暂停/继续）  
+
+**10. [STARDUSTLC666/dsh-remotion](https://github.com/STARDUSTLC666/dsh-remotion)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 21&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+把 Remotion 的 React 视频创作技能接入 DSH。 欢迎提交 issues 和 PR。  
 
 ### 🌐&nbsp;&nbsp;Browser & Web
 
-**1. [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 9.1k&nbsp;&nbsp;📈 +211 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**1. [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 9.2k&nbsp;&nbsp;📈 +173 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-ca...  
 
 **2. [voyager-crew/voyager](https://github.com/voyager-crew/voyager)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 20.4k&nbsp;&nbsp;📈 +28 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
@@ -313,369 +316,372 @@ Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a p
 **3. [voyager-crew/voyager](https://github.com/voyager-crew/voyager)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 20.4k&nbsp;&nbsp;📈 +28 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
 Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. /...  
 
-**4. [liustack/modsearch](https://github.com/liustack/modsearch)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 739&nbsp;&nbsp;📈 +49 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**4. [liustack/modsearch](https://github.com/liustack/modsearch)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 770&nbsp;&nbsp;📈 +48 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no si...  
 
-**5. [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 470&nbsp;&nbsp;📈 +46 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**5. [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 508&nbsp;&nbsp;📈 +60 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Free web search provider for DeepSeek Harness - DuckDuckGo backend, no API key needed  
 
-**6. [omdsh-dev/dsh-browser](https://github.com/omdsh-dev/dsh-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 838&nbsp;&nbsp;📈 +14 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**6. [omdsh-dev/dsh-browser](https://github.com/omdsh-dev/dsh-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 859&nbsp;&nbsp;📈 +27 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让...  
 
-**7. [omdsh-dev/dsh-browser](https://github.com/omdsh-dev/dsh-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 838&nbsp;&nbsp;📈 +14 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**7. [omdsh-dev/dsh-browser](https://github.com/omdsh-dev/dsh-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 859&nbsp;&nbsp;📈 +27 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让...  
 
-**8. [omdsh-dev/dsh-browser](https://github.com/omdsh-dev/dsh-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 838&nbsp;&nbsp;📈 +14 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**8. [omdsh-dev/dsh-browser](https://github.com/omdsh-dev/dsh-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 859&nbsp;&nbsp;📈 +27 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让...  
 
-**9. [platonai/Browser4](https://github.com/platonai/Browser4)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.2k&nbsp;&nbsp;📈 +4 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**9. [platonai/Browser4](https://github.com/platonai/Browser4)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.2k&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.  
 
-**10. [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 285&nbsp;&nbsp;📈 +14 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**10. [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 267&nbsp;&nbsp;📈 +25 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DSH（DeepSeek Harness）插件：把 ego-lite 浏览器（给 AI Agent 用的 Chromium）接入 HARNESS——13 个结构化 ego_* 工具（文本语义快照、语义定位点击、表单填充、截图、CDP 控制、任务空间隔离），内置 ego 运行...  
+
+**11. [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 267&nbsp;&nbsp;📈 +25 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DSH（DeepSeek Harness）插件：把 ego-lite 浏览器（给 AI Agent 用的 Chromium）接入 HARNESS——13 个结构化 ego_* 工具（文本语义快照、语义定位点击、表单填充、截图、CDP 控制、任务空间隔离），内置 ego 运行...  
+
+**12. [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 267&nbsp;&nbsp;📈 +25 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DSH（DeepSeek Harness）插件：把 ego-lite 浏览器（给 AI Agent 用的 Chromium）接入 HARNESS——13 个结构化 ego_* 工具（文本语义快照、语义定位点击、表单填充、截图、CDP 控制、任务空间隔离），内置 ego 运行...  
+
+**13. [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 292&nbsp;&nbsp;📈 +11 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE s...  
 
-**11. [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 248&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DSH（DeepSeek Harness）插件：把 ego-lite 浏览器（给 AI Agent 用的 Chromium）接入 HARNESS——13 个结构化 ego_* 工具（文本语义快照、语义定位点击、表单填充、截图、CDP 控制、任务空间隔离），内置 ego 运行...  
-
-**12. [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 248&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DSH（DeepSeek Harness）插件：把 ego-lite 浏览器（给 AI Agent 用的 Chromium）接入 HARNESS——13 个结构化 ego_* 工具（文本语义快照、语义定位点击、表单填充、截图、CDP 控制、任务空间隔离），内置 ego 运行...  
-
-**13. [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 248&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DSH（DeepSeek Harness）插件：把 ego-lite 浏览器（给 AI Agent 用的 Chromium）接入 HARNESS——13 个结构化 ego_* 工具（文本语义快照、语义定位点击、表单填充、截图、CDP 控制、任务空间隔离），内置 ego 运行...  
-
-**14. [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 397&nbsp;&nbsp;📈 +4 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**14. [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 400&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; k...  
 
-**15. [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 149&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**15. [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 162&nbsp;&nbsp;📈 +18 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Remote-work assistant for DeepSeek Harness (DSH): connect SSH (key or password), pick a remote workspace, operate with rw_* tools, and SF...  
 
-**16. [wqty123/dsh-browser](https://github.com/wqty123/dsh-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 120&nbsp;&nbsp;📈 +7 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**16. [wqty123/dsh-browser](https://github.com/wqty123/dsh-browser)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 126&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Shared real browser plugin for DeepSeek Harness  
 
-**17. [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 110&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**17. [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 112&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Tabbit Browser plugins for Deepseek Harness  
 
-**18. [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 110&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**18. [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 112&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Tabbit Browser plugins for Deepseek Harness  
 
 ### 🧠&nbsp;&nbsp;Memory & Context
 
-**1. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 50.9k&nbsp;&nbsp;📈 +1,171 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
-Hindsight: Agent Memory That Learns  
-
-**2. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.8k&nbsp;&nbsp;📈 +489 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**1. [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2k&nbsp;&nbsp;📈 +466 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single...  
 
-**3. [volcengine/OpenViking](https://github.com/volcengine/OpenViking)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 40.2k&nbsp;&nbsp;📈 +254 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**2. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 51.8k&nbsp;&nbsp;📈 +1,184 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
+Hindsight: Agent Memory That Learns  
+
+**3. [volcengine/OpenViking](https://github.com/volcengine/OpenViking)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 40.4k&nbsp;&nbsp;📈 +248 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.  
 
-**4. [plastic-labs/honcho](https://github.com/plastic-labs/honcho)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 7.7k&nbsp;&nbsp;📈 +43 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**4. [plastic-labs/honcho](https://github.com/plastic-labs/honcho)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 7.7k&nbsp;&nbsp;📈 +44 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Memory library for building stateful agents  
 
-**5. [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 3.6k&nbsp;&nbsp;📈 +46 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**5. [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 3.7k&nbsp;&nbsp;📈 +21 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.  
 
-**6. [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.2k&nbsp;&nbsp;📈 +34 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**6. [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.3k&nbsp;&nbsp;📈 +33 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Coding agent memory for Claude Code, Codex, Cursor and 39 more, built from the session history already on your disk. Local search, MCP an...  
 
-**7. [zilliztech/memsearch](https://github.com/zilliztech/memsearch)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.8k&nbsp;&nbsp;📈 +8 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**7. [zilliztech/memsearch](https://github.com/zilliztech/memsearch)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.8k&nbsp;&nbsp;📈 +7 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.  
 
-**8. [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 579&nbsp;&nbsp;📈 +37 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**8. [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 594&nbsp;&nbsp;📈 +28 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Composable, view-based memory for DeepSeek Harness. Pluggable sources and strategies, with three-tier memory out of the box.  
 
-**9. [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 579&nbsp;&nbsp;📈 +37 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**9. [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 594&nbsp;&nbsp;📈 +28 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Composable, view-based memory for DeepSeek Harness. Pluggable sources and strategies, with three-tier memory out of the box.  
 
-**10. [KimGLee/Cambium](https://github.com/KimGLee/Cambium)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 606&nbsp;&nbsp;📈 +20 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
-Governance standard and reference toolset for LLM-maintained knowledge corpora  
-
-**11. [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 445&nbsp;&nbsp;📈 +25 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**10. [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 471&nbsp;&nbsp;📈 +35 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Cost tracking for DeepSeek Harness: session and model costs, token usage, budgets, provider balances, and coding-plan quotas. Bilingual E...  
 
-**12. [agentic-os-org/ANOLISA](https://github.com/agentic-os-org/ANOLISA)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 629&nbsp;&nbsp;📈 +10 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless...  
+**11. [KimGLee/Cambium](https://github.com/KimGLee/Cambium)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 619&nbsp;&nbsp;📈 +20 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+Governance standard and reference toolset for LLM-maintained knowledge corpora  
 
-**13. [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 406&nbsp;&nbsp;📈 +17 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**12. [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 544&nbsp;&nbsp;📈 +17 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | ht...  
+
+**13. [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 423&nbsp;&nbsp;📈 +21 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。  
 
-**14. [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 638&nbsp;&nbsp;📈 +8 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness,...  
-
-**15. [liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 534&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**14. [liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 545&nbsp;&nbsp;📈 +13 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for Dee...  
 
-**16. [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 441&nbsp;&nbsp;📈 +12 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
+**15. [morluto/jacobian](https://github.com/morluto/jacobian)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 307&nbsp;&nbsp;📈 +19 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Composable mathematics tools for agents  
+
+**16. [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 641&nbsp;&nbsp;📈 +6 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness,...  
+
+**17. [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 447&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
 从 0 复刻 WorkBuddy-style 桌面 AI 助手 Harness：24 章 Python 教程，覆盖 Agent Loop、工具调用、记忆系统、Sidecar、沙盒审计、DeepSeek/OpenAI 评测轨迹  
 
-**17. [adoresever/graph-memory](https://github.com/adoresever/graph-memory)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 654&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-Deepseek Harness、Openclaw知识图谱记忆插件。2026年4月受邀发布在清华大学讨论会。Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts str...  
+**18. [agentic-os-org/ANOLISA](https://github.com/agentic-os-org/ANOLISA)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 630&nbsp;&nbsp;📈 +4 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless...  
 
-**18. [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 402&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**19. [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 408&nbsp;&nbsp;📈 +8 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签—...  
 
-**19. [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 402&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**20. [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 408&nbsp;&nbsp;📈 +8 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签—...  
-
-**20. [morluto/jacobian](https://github.com/morluto/jacobian)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 294&nbsp;&nbsp;📈 +13 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-Composable mathematics tools for agents  
 
 ### 🤖&nbsp;&nbsp;Agents & Automation
 
-**1. [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 15k&nbsp;&nbsp;📈 +892 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**1. [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 15.7k&nbsp;&nbsp;📈 +1,045 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版  
 
-**2. [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.4k&nbsp;&nbsp;📈 +465 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.  
-
-**3. [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.4k&nbsp;&nbsp;📈 +465 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.  
-
-**4. [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 20.6k&nbsp;&nbsp;📈 +677 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**2. [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 21k&nbsp;&nbsp;📈 +955 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Harness engineering beginner tutorial, from 0 to 1  
 
-**5. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 252.4k&nbsp;&nbsp;📈 +2,506 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Official  
+**3. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 254.8k&nbsp;&nbsp;📈 +3,493 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Official  
 DeepSeek Harness: Everything is a Plugin.  
 
-**6. [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 44.5k&nbsp;&nbsp;📈 +144 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever....  
+**4. [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.6k&nbsp;&nbsp;📈 +431 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.  
 
-**7. [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 44.5k&nbsp;&nbsp;📈 +144 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever....  
+**5. [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.6k&nbsp;&nbsp;📈 +431 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.  
 
-**8. [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 44.5k&nbsp;&nbsp;📈 +144 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever....  
-
-**9. [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 34.6k&nbsp;&nbsp;📈 +147 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。  
-
-**10. [Derpyu520/qq-bridge](https://github.com/Derpyu520/qq-bridge)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.2k&nbsp;&nbsp;📈 +163 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+**6. [Derpyu520/qq-bridge](https://github.com/Derpyu520/qq-bridge)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.4k&nbsp;&nbsp;📈 +287 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
 Bridge between QQ (SnowLuma OneBot v11) and DeepSeek Harness agents: social simulation, safe MCP tools, slang learning and more.  
 
-**11. [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 7k&nbsp;&nbsp;📈 +78 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**7. [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 44.6k&nbsp;&nbsp;📈 +164 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever....  
+
+**8. [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 44.6k&nbsp;&nbsp;📈 +164 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever....  
+
+**9. [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 44.6k&nbsp;&nbsp;📈 +164 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever....  
+
+**10. [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 34.7k&nbsp;&nbsp;📈 +159 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。  
+
+**11. [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 7.1k&nbsp;&nbsp;📈 +96 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Ha...  
 
-**12. [loopx-project/loopx](https://github.com/loopx-project/loopx)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 6.4k&nbsp;&nbsp;📈 +52 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less...  
-
-**13. [loopx-project/loopx](https://github.com/loopx-project/loopx)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 6.4k&nbsp;&nbsp;📈 +52 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less...  
-
-**14. [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 37.2k&nbsp;&nbsp;📈 +21 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
-🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.  
-
-**15. [nocobase/nocobase](https://github.com/nocobase/nocobase)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 24.6k&nbsp;&nbsp;📈 +21 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI wo...  
-
-**16. [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 13.5k&nbsp;&nbsp;📈 +29 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**12. [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 13.5k&nbsp;&nbsp;📈 +68 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.  
 
-**17. [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.2k&nbsp;&nbsp;📈 +70 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DeepSeek Harness 的 Agent Teams 多智能体协作插件，支持多个 AI Agent 组成团队，协同完成复杂任务，实现任务分配、并行执行、成员通信与团队协作。 AgentTeams plugin for DeepSeek Harness  
+**13. [flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.1k&nbsp;&nbsp;📈 +118 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。  
 
-**18. [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.1k&nbsp;&nbsp;📈 +60 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**14. [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 37.2k&nbsp;&nbsp;📈 +23 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.  
+
+**15. [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.1k&nbsp;&nbsp;📈 +95 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Embracing All Creation (Desktop) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（桌面版） —— 致力于让数百个DSH插件和谐共存  
 
-**19. [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.1k&nbsp;&nbsp;📈 +60 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**16. [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.1k&nbsp;&nbsp;📈 +95 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Embracing All Creation (Desktop) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（桌面版） —— 致力于让数百个DSH插件和谐共存  
 
-**20. [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.1k&nbsp;&nbsp;📈 +60 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**17. [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.1k&nbsp;&nbsp;📈 +95 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Embracing All Creation (Desktop) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（桌面版） —— 致力于让数百个DSH插件和谐共存  
+
+**18. [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.1k&nbsp;&nbsp;📈 +95 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Embracing All Creation (Desktop) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（桌面版） —— 致力于让数百个DSH插件和谐共存  
+
+**19. [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.1k&nbsp;&nbsp;📈 +95 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Embracing All Creation (Desktop) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（桌面版） —— 致力于让数百个DSH插件和谐共存  
+
+**20. [nocobase/nocobase](https://github.com/nocobase/nocobase)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 24.6k&nbsp;&nbsp;📈 +32 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI wo...  
 
 ### 📊&nbsp;&nbsp;Data & Analytics
 
 **1. [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.1k&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.  
 
-**2. [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 310&nbsp;&nbsp;📈 +6 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**2. [Nagi-ovo/dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 311&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations  
 
-**3. [omdsh-dev/dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 209&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**3. [omdsh-dev/dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 209&nbsp;&nbsp;📈 +1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Connect DSH to your database for conversational data analysis and actionable business insights.  
 
-**4. [omdsh-dev/dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 209&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**4. [omdsh-dev/dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 209&nbsp;&nbsp;📈 +1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Connect DSH to your database for conversational data analysis and actionable business insights.  
 
-**5. [tiwe0/GeoChat](https://github.com/tiwe0/GeoChat)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 121&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**5. [tiwe0/GeoChat](https://github.com/tiwe0/GeoChat)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 121&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Local-first AI math visualization desktop app: draw, analyze, and explain geometry with GeoGebra, Tauri, React, Bun, and native tool call...  
 
-**6. [lhuans/dsh-genui](https://github.com/lhuans/dsh-genui)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 19&nbsp;&nbsp;📈 +7 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**6. [lhuans/dsh-genui](https://github.com/lhuans/dsh-genui)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 23&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 GenUI for DeepSeek Harness: interactive charts, forms, calculators, dashboards, and mini apps rendered inline in assistant replies, with...  
 
-**7. [HaoyueQin/dsh-usage-statistics-panel](https://github.com/HaoyueQin/dsh-usage-statistics-panel)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 25&nbsp;&nbsp;📈 +1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**7. [HaoyueQin/dsh-usage-statistics-panel](https://github.com/HaoyueQin/dsh-usage-statistics-panel)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 27&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DSH web plugin: per-day token usage statistics with a GitHub-style activity heatmap, cache hit-rate curve and per-model breakdown  
 
-**8. [feiyang-dev/dsh-usage-plugin](https://github.com/feiyang-dev/dsh-usage-plugin)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 37&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DeepSeek Harness 用量与消耗插件（dsh-usage-plugin）—— 每次调用的 token 用量/缓存命中统计、峰谷计费、余额查询、CSV/JSON/PNG 导出，可经桌面端一键安装或命令行 dsh plugin add 安装。  
-
-**9. [LaplaceYoung/dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 30&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**8. [LaplaceYoung/dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 31&nbsp;&nbsp;📈 +1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DSH (DeepSeek Harness) 的 QQ2006 皮肤插件：注册 qq2006 主题、镜像 body[data-ds-skin]、全局皮肤表与完整素材  
 
-**10. [hherosoul/dsh-smart-charts](https://github.com/hherosoul/dsh-smart-charts)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 19&nbsp;&nbsp;📈 +1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-smart charts  
+**9. [feiyang-dev/dsh-usage-plugin](https://github.com/feiyang-dev/dsh-usage-plugin)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 36&nbsp;&nbsp;📈 -1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DeepSeek Harness 用量与消耗插件（dsh-usage-plugin）—— 每次调用的 token 用量/缓存命中统计、峰谷计费、余额查询、CSV/JSON/PNG 导出，可经桌面端一键安装或命令行 dsh plugin add 安装。  
+
+**10. [hanzhangzzz/dsh-diagram](https://github.com/hanzhangzzz/dsh-diagram)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 19&nbsp;&nbsp;📈 +1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Turn DeepSeek Harness articles into editable Excalidraw canvases — live diagrams, not disposable Mermaid output.  
 
 ### 📄&nbsp;&nbsp;Documents & Office
 
-**1. [dream-num/univer-workspace](https://github.com/dream-num/univer-workspace)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.3k&nbsp;&nbsp;📈 +8 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**1. [dream-num/univer-workspace](https://github.com/dream-num/univer-workspace)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.3k&nbsp;&nbsp;📈 +4 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 An open-source Office workspace where people and AI agents create, collaborate, and review together.  
 
-**2. [EdgeTypE/better-deepseek](https://github.com/EdgeTypE/better-deepseek)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 680&nbsp;&nbsp;📈 +18 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
+**2. [EdgeTypE/better-deepseek](https://github.com/EdgeTypE/better-deepseek)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 694&nbsp;&nbsp;📈 +16 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
 A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Ge...  
 
-**3. [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 558&nbsp;&nbsp;📈 +21 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**3. [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 571&nbsp;&nbsp;📈 +23 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Give DeepSeek Harness a real office environment. Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and...  
 
-**4. [alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.3k&nbsp;&nbsp;📈 +6 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+**4. [alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.3k&nbsp;&nbsp;📈 +4 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
 DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载  
 
-**5. [linhut/gongwen-skill](https://github.com/linhut/gongwen-skill)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 82&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-公文全流程处理工具——基于 GB/T 9704《党政机关公文格式》 国家标准，面向公文写作、企事业单位材料编制场景，支持 格式检查与修复、内容生成优化（Word 原生修订+批注/差异对比版）、模板生成、Markdown 转公文、版头版记页码注入、事实核验、风格增强 等完整能...  
-
-**6. [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 74&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**5. [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 76&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Server-grade gateway that turns DeepSeek Harness into a multi-tenant platform: remote access + auto HTTPS, subuser permissions & quotas,...  
 
-**7. [opencues/opencues](https://github.com/opencues/opencues)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 69&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**6. [opencues/opencues](https://github.com/opencues/opencues)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 69&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 The open standard for omnipresent AI. Claude Code, OpenCode, Gemini CLI, Shell, Chrome, DeepSeek Harness. Model-agnostic  
 
-**8. [HuanLinOTO/dsh-plugin-better-sidebar-plugin-office](https://github.com/HuanLinOTO/dsh-plugin-better-sidebar-plugin-office)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 57&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-为 better-sidebar 提供 Office 三件套预览（.docx/.xlsx/.pptx），独立 bundle 瘦身主体 | Provides Office-suite preview (.docx/.xlsx/.pptx) for better-sidebar...  
+**7. [linhut/gongwen-skill](https://github.com/linhut/gongwen-skill)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 82&nbsp;&nbsp;📈 +1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+公文全流程处理工具——基于 GB/T 9704《党政机关公文格式》 国家标准，面向公文写作、企事业单位材料编制场景，支持 格式检查与修复、内容生成优化（Word 原生修订+批注/差异对比版）、模板生成、Markdown 转公文、版头版记页码注入、事实核验、风格增强 等完整能...  
 
-**9. [HuanLinOTO/dsh-plugin-better-sidebar-plugin-office](https://github.com/HuanLinOTO/dsh-plugin-better-sidebar-plugin-office)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 57&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-为 better-sidebar 提供 Office 三件套预览（.docx/.xlsx/.pptx），独立 bundle 瘦身主体 | Provides Office-suite preview (.docx/.xlsx/.pptx) for better-sidebar...  
-
-**10. [GDWhisper/dsh-web-startup-auth](https://github.com/GDWhisper/dsh-web-startup-auth)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 55&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**8. [GDWhisper/dsh-web-startup-auth](https://github.com/GDWhisper/dsh-web-startup-auth)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 57&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DSH（DeepSeek Harness）远程 Web 启动 + 用户名/密码认证插件。 | DeepSeek Harness Remote‑Web‑Launch Plugin with Username/Password Auth  
+
+**9. [HuanLinOTO/dsh-plugin-better-sidebar-plugin-office](https://github.com/HuanLinOTO/dsh-plugin-better-sidebar-plugin-office)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 57&nbsp;&nbsp;📈 +1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+为 better-sidebar 提供 Office 三件套预览（.docx/.xlsx/.pptx），独立 bundle 瘦身主体 | Provides Office-suite preview (.docx/.xlsx/.pptx) for better-sidebar...  
+
+**10. [HuanLinOTO/dsh-plugin-better-sidebar-plugin-office](https://github.com/HuanLinOTO/dsh-plugin-better-sidebar-plugin-office)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 57&nbsp;&nbsp;📈 +1 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+为 better-sidebar 提供 Office 三件套预览（.docx/.xlsx/.pptx），独立 bundle 瘦身主体 | Provides Office-suite preview (.docx/.xlsx/.pptx) for better-sidebar...  
 
 ### 💬&nbsp;&nbsp;Communication
 
-**1. [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.1k&nbsp;&nbsp;📈 +104 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**1. [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.2k&nbsp;&nbsp;📈 +134 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code o...  
 
-**2. [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.8k&nbsp;&nbsp;📈 +89 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**2. [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.9k&nbsp;&nbsp;📈 +139 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and acce...  
 
-**3. [inclusionAI/Avernet](https://github.com/inclusionAI/Avernet)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 643&nbsp;&nbsp;📈 +16 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together — like an organization.  
+**3. [OpenPetsHQ/openpets](https://github.com/OpenPetsHQ/openpets)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.3k&nbsp;&nbsp;📈 +10 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations.  
 
-**4. [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 135&nbsp;&nbsp;📈 +47 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**4. [c1overzz/dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 215&nbsp;&nbsp;📈 +110 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你  
+
+**5. [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 175&nbsp;&nbsp;📈 +54 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory,...  
 
-**5. [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 202&nbsp;&nbsp;📈 +6 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**6. [wenbin-wb/dsh-bridge](https://github.com/wenbin-wb/dsh-bridge)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 209&nbsp;&nbsp;📈 +10 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 🚀 DeepSeek Harness 多通道远程访问与安全守护插件 | 局域网扫码直连、Cloudflare / 自建公网隧道、微信 / QQ / 飞书 / Telegram 机器人全生命周期对话 | 内置全协议访问安全认证、后台防篡改与容灾保命体系  
 
-**6. [Clarklevis1995/dsh-plugin-mobile-gateway](https://github.com/Clarklevis1995/dsh-plugin-mobile-gateway)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 84&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**7. [Clarklevis1995/dsh-plugin-mobile-gateway](https://github.com/Clarklevis1995/dsh-plugin-mobile-gateway)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 95&nbsp;&nbsp;📈 +15 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 以websocket为通信方式的dsh网关插件，支持在同一网域内移动端的接入，实现移动端的dsh app  
 
-**7. [Leslie-SSS/seeWxapkg](https://github.com/Leslie-SSS/seeWxapkg)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 117&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-极简实用的微信小程序反编译 Web 工具  
-
-**8. [MichengAI/dsh-im-connect](https://github.com/MichengAI/dsh-im-connect)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 67&nbsp;&nbsp;📈 +11 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**8. [MichengAI/dsh-im-connect](https://github.com/MichengAI/dsh-im-connect)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 75&nbsp;&nbsp;📈 +14 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DSH IM Connect — 将主流即时通讯平台接入本机 DeepSeek Harness · Connect major messaging platforms to local DeepSeek Harness agents  
 
-**9. [PGZXB/dsh-feishu](https://github.com/PGZXB/dsh-feishu)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 35&nbsp;&nbsp;📈 +20 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-The Feishu UI for DeepSeek Harness — a panel-driven control console: every slash command a button on the ⚙️ control-panel card, in-card a...  
-
-**10. [zaofan-make/dsh-qqbot](https://github.com/zaofan-make/dsh-qqbot)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 38&nbsp;&nbsp;📈 +7 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**9. [zaofan-make/dsh-qqbot](https://github.com/zaofan-make/dsh-qqbot)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 55&nbsp;&nbsp;📈 +20 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 AI 统管 QQ 群组：审核放行、群发文件、沟通其他 web 会话的 AI！ ；气氛组担当：表情包自动入库、AI 自己决定开口、多预设多人格轮班陪聊！； 远程办公：权限审批、提问卡片转发到 QQ。； 自定义互动按钮：AI 帮你轻松搭文字游戏 —— 卡片逻辑由 AI 帮你写...  
 
-**11. [c1overzz/dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 105&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你  
+**10. [zaofan-make/dsh-qqbot](https://github.com/zaofan-make/dsh-qqbot)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 55&nbsp;&nbsp;📈 +20 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+AI 统管 QQ 群组：审核放行、群发文件、沟通其他 web 会话的 AI！ ；气氛组担当：表情包自动入库、AI 自己决定开口、多预设多人格轮班陪聊！； 远程办公：权限审批、提问卡片转发到 QQ。； 自定义互动按钮：AI 帮你轻松搭文字游戏 —— 卡片逻辑由 AI 帮你写...  
+
+**11. [inclusionAI/Avernet](https://github.com/inclusionAI/Avernet)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 642&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together — like an organization.  
+
+**12. [Leslie-SSS/seeWxapkg](https://github.com/Leslie-SSS/seeWxapkg)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 119&nbsp;&nbsp;📈 +2 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+极简实用的微信小程序反编译 Web 工具  
 
 ### 🛠&nbsp;&nbsp;Developer Experience
 
-**1. [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 7k&nbsp;&nbsp;📈 +454 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**1. [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 7.6k&nbsp;&nbsp;📈 +774 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场  
 
-**2. [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 31.3k&nbsp;&nbsp;📈 +476 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。  
-
-**3. [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 31.3k&nbsp;&nbsp;📈 +476 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。  
-
-**4. [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 3.2k&nbsp;&nbsp;📈 +212 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DeepSeek Harness Tauri 桌面版 | Only 8mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.  
-
-**5. [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 3.2k&nbsp;&nbsp;📈 +212 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DeepSeek Harness Tauri 桌面版 | Only 8mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.  
-
-**6. [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 3.2k&nbsp;&nbsp;📈 +212 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DeepSeek Harness Tauri 桌面版 | Only 8mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.  
-
-**7. [corrinehu/dsh-workbuddy-connect](https://github.com/corrinehu/dsh-workbuddy-connect)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.2k&nbsp;&nbsp;📈 +344 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**2. [corrinehu/dsh-workbuddy-connect](https://github.com/corrinehu/dsh-workbuddy-connect)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.5k&nbsp;&nbsp;📈 +397 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the WorkBuddy desktop app into DeepSeek Harness with zero configu...  
 
-**8. [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.8k&nbsp;&nbsp;📈 +270 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
-🐧 Unified and Stable RSI Platform  
+**3. [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 31.8k&nbsp;&nbsp;📈 +715 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。  
 
-**9. [GanyuanRan/Autoloom](https://github.com/GanyuanRan/Autoloom)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1k&nbsp;&nbsp;📈 +563 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
-AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice...  
+**4. [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 31.8k&nbsp;&nbsp;📈 +715 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。  
 
-**10. [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 4.8k&nbsp;&nbsp;📈 +150 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**5. [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 5k&nbsp;&nbsp;📈 +291 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command ins...  
 
-**11. [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.5k&nbsp;&nbsp;📈 +213 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**6. [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 3.3k&nbsp;&nbsp;📈 +221 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DeepSeek Harness Tauri 桌面版 | Only 8mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.  
+
+**7. [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 3.3k&nbsp;&nbsp;📈 +221 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DeepSeek Harness Tauri 桌面版 | Only 8mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.  
+
+**8. [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 3.3k&nbsp;&nbsp;📈 +221 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DeepSeek Harness Tauri 桌面版 | Only 8mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.  
+
+**9. [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.7k&nbsp;&nbsp;📈 +232 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 把本机 Wallpaper Engine 的壁纸搬进 DSH 网页界面：场景壁纸由内置 MIT 开源引擎 WebWallGL 实时 WebGL 渲染（粒子 / puppet 骨骼 / SceneScript / 音频反应 / 鼠标交互），失败自动降级内嵌 MP4 与场景静态...  
 
-**12. [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 4.3k&nbsp;&nbsp;📈 +79 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pag...  
-
-**13. [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 4.3k&nbsp;&nbsp;📈 +79 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pag...  
-
-**14. [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 35.8k&nbsp;&nbsp;📈 +33 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-A reliable coding agent for complex software engineering tasks.  
-
-**15. [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 41.1k&nbsp;&nbsp;📈 +8 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
-Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.  
-
-**16. [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.7k&nbsp;&nbsp;📈 +60 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**10. [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.9k&nbsp;&nbsp;📈 +192 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 跨设备的开源Agent工作台  
 
-**17. [kelai141/dsh-mobile-apk](https://github.com/kelai141/dsh-mobile-apk)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 748&nbsp;&nbsp;📈 +51 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-dsh 安卓壳 APK——WebView UI + 内嵌 Termux 运行时快照（解压即跑），为dsh本地运行设计的高性能方案  
+**11. [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 4.3k&nbsp;&nbsp;📈 +113 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pag...  
 
-**18. [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 4.5k&nbsp;&nbsp;📈 +6 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+**12. [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 4.3k&nbsp;&nbsp;📈 +113 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pag...  
+
+**13. [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 35.9k&nbsp;&nbsp;📈 +57 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+A reliable coding agent for complex software engineering tasks.  
+
+**14. [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.9k&nbsp;&nbsp;📈 +102 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+🐧 Unified and Stable RSI Platform  
+
+**15. [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 41.1k&nbsp;&nbsp;📈 +10 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Community  
+Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.  
+
+**16. [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 4.5k&nbsp;&nbsp;📈 +20 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
 Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI.  
 
-**19. [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.1k&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-🍙 A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — a...  
+**17. [kelai141/dsh-mobile-apk](https://github.com/kelai141/dsh-mobile-apk)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 787&nbsp;&nbsp;📈 +73 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+dsh 安卓壳 APK——WebView UI + 内嵌 Termux 运行时快照（解压即跑），为dsh本地运行设计的高性能方案  
 
-**20. [MisakaZentai/world-execute-me-dsh-pv](https://github.com/MisakaZentai/world-execute-me-dsh-pv)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 590&nbsp;&nbsp;📈 +35 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
+**18. [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 681&nbsp;&nbsp;📈 +68 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots,...  
+
+**19. [MisakaZentai/world-execute-me-dsh-pv](https://github.com/MisakaZentai/world-execute-me-dsh-pv)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 618&nbsp;&nbsp;📈 +43 / 3d&nbsp;&nbsp;&nbsp;&nbsp;Compatible  
 Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork.  
+
+**20. [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.1k&nbsp;&nbsp;📈 +11 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+🍙 A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — a...  
 
 ### 🎮&nbsp;&nbsp;Entertainment & Fun
 
-**1. [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 1.8k&nbsp;&nbsp;📈 +335 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**1. [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 2.9k&nbsp;&nbsp;📈 +1,218 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物  
 
-**2. [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 676&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**2. [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 679&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI  
 
-**3. [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 676&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**3. [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 679&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI  
 
-**4. [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 218&nbsp;&nbsp;📈 +26 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**4. [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 240&nbsp;&nbsp;📈 +23 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the c...  
 
-**5. [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 218&nbsp;&nbsp;📈 +26 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**5. [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 240&nbsp;&nbsp;📈 +23 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the c...  
 
-**6. [vlln/whale-girl](https://github.com/vlln/whale-girl)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 363&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**6. [vlln/whale-girl](https://github.com/vlln/whale-girl)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 369&nbsp;&nbsp;📈 +10 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。  
 
-**7. [vlln/whale-girl](https://github.com/vlln/whale-girl)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 363&nbsp;&nbsp;📈 +5 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**7. [vlln/whale-girl](https://github.com/vlln/whale-girl)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 369&nbsp;&nbsp;📈 +10 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。  
 
-**8. [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 180&nbsp;&nbsp;📈 +7 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
-DeepSeek Harness 长篇角色扮演agent（DSH酒馆插件）：SillyTavern 角色卡导入、行动选项卡、分支对话管理、长篇记忆、关键词与语义混合检索、交互式角色卡创作、世界书、多角色 Agent 集群、文风预设、小说与角色卡导出、一键安装。 / Role...  
-
-**9. [Sutera-Diffusus/dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 136&nbsp;&nbsp;📈 +9 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**8. [Sutera-Diffusus/dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 147&nbsp;&nbsp;📈 +16 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 DeepSeek Harness 桌宠插件：元气鲸鱼娘看板娘陪你写代码 🐋 支持 DSH 桌面端 0.2.0-rc.2 与旧版 Web（desktop pet / mascot，local-first）  
 
-**10. [EricWang1358/dsh-web-studyhub](https://github.com/EricWang1358/dsh-web-studyhub)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 119&nbsp;&nbsp;📈 +13 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**9. [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 185&nbsp;&nbsp;📈 +8 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+DeepSeek Harness 长篇角色扮演agent（DSH酒馆插件）：SillyTavern 角色卡导入、行动选项卡、分支对话管理、长篇记忆、关键词与语义混合检索、交互式角色卡创作、世界书、多角色 Agent 集群、文风预设、小说与角色卡导出、一键安装。 / Role...  
+
+**10. [EricWang1358/dsh-web-studyhub](https://github.com/EricWang1358/dsh-web-studyhub)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 127&nbsp;&nbsp;📈 +13 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 StudyHub: a DeepSeek Harness (DSH) plugin that turns your own material into questions and spaced review · 把自己的资料变成题目与间隔复习的 DSH 学习插件  
 
-**11. [Ayase34/gal-view](https://github.com/Ayase34/gal-view)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 206&nbsp;&nbsp;📈 +3 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
+**11. [Ayase34/gal-view](https://github.com/Ayase34/gal-view)**&nbsp;&nbsp;&nbsp;&nbsp;⭐ 205&nbsp;&nbsp;📈 +0 / 3d&nbsp;&nbsp;&nbsp;&nbsp;DSH Native  
 把dsh会话界面切换成galgame游戏界面的插件  
 
 
@@ -683,31 +689,31 @@ StudyHub: a DeepSeek Harness (DSH) plugin that turns your own material into ques
 
 | Rank | Project | Stars | 3d Gain |
 |---:|---|---:|---:|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 310,907 | +61,063 |
-| 2 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 22,622 | +5,893 |
-| 3 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 22,605 | +5,876 |
-| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 252,403 | +2,506 |
-| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 76,177 | +1,461 |
-| 6 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 85,000 | +1,296 |
-| 7 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 50,946 | +1,171 |
-| 8 | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | 6,808 | +1,061 |
-| 9 | [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) | 2,887 | +1,047 |
-| 10 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 14,990 | +892 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 339,527 | +45,434 |
+| 2 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 28,590 | +8,777 |
+| 3 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 28,567 | +8,754 |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 254,785 | +3,493 |
+| 5 | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | 9,624 | +3,227 |
+| 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 77,354 | +1,635 |
+| 7 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 85,969 | +1,421 |
+| 8 | [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) | 2,900 | +1,218 |
+| 9 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 51,762 | +1,184 |
+| 10 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 15,704 | +1,045 |
 
 ## 🌱&nbsp;&nbsp;Rising
 
 | Rank | Project | Stars | 3d Growth |
 |---:|---|---:|---:|
-| 1 | [john-walks-slow/dsh-qol](https://github.com/john-walks-slow/dsh-qol) | 8 | +700.0% |
-| 2 | [3ChatAI-NCT/3chatai-deepseek-harness-plugin](https://github.com/3ChatAI-NCT/3chatai-deepseek-harness-plugin) | 7 | +600.0% |
-| 3 | [ArtlexYoung/dsh-super-code](https://github.com/ArtlexYoung/dsh-super-code) | 12 | +500.0% |
-| 4 | [momasiku/dsh-pilot](https://github.com/momasiku/dsh-pilot) | 15 | +400.0% |
-| 5 | [kaka-crypto/dsh-disk-guard](https://github.com/kaka-crypto/dsh-disk-guard) | 4 | +300.0% |
-| 6 | [f-e-n-g-0531/dsh-code-review](https://github.com/f-e-n-g-0531/dsh-code-review) | 7 | +250.0% |
-| 7 | [john-walks-slow/dsh-proactive](https://github.com/john-walks-slow/dsh-proactive) | 7 | +250.0% |
-| 8 | [webkubor/dsh-env-inspector](https://github.com/webkubor/dsh-env-inspector) | 52 | +205.9% |
-| 9 | [john-walks-slow/dsh-clear-mind](https://github.com/john-walks-slow/dsh-clear-mind) | 6 | +200.0% |
-| 10 | [Ame-Choo/dsh-study-coach](https://github.com/Ame-Choo/dsh-study-coach) | 3 | +200.0% |
+| 1 | [berhbro/dsh-cyrene-theme](https://github.com/berhbro/dsh-cyrene-theme) | 18 | +1700.0% |
+| 2 | [2026heshao/dsh-armory](https://github.com/2026heshao/dsh-armory) | 9 | +800.0% |
+| 3 | [drscrewdriver/dsh-browser-cdp](https://github.com/drscrewdriver/dsh-browser-cdp) | 8 | +700.0% |
+| 4 | [MindLab-Research/dsh-generative-ui](https://github.com/MindLab-Research/dsh-generative-ui) | 20 | +400.0% |
+| 5 | [anye-99/dsh-codearts-auth](https://github.com/anye-99/dsh-codearts-auth) | 5 | +400.0% |
+| 6 | [iJetLi/dsh-providers-hub](https://github.com/iJetLi/dsh-providers-hub) | 49 | +308.3% |
+| 7 | [RestRegular/dsh-memory](https://github.com/RestRegular/dsh-memory) | 4 | +300.0% |
+| 8 | [wee-b/disk-sentinel](https://github.com/wee-b/disk-sentinel) | 4 | +300.0% |
+| 9 | [eghrhegpe/dsh-connect-sensenova-token-plan](https://github.com/eghrhegpe/dsh-connect-sensenova-token-plan) | 3 | +200.0% |
+| 10 | [mario841859784/dsh-expert-orchestrator](https://github.com/mario841859784/dsh-expert-orchestrator) | 3 | +200.0% |
 
 ## 📊&nbsp;&nbsp;How Rankings Work
 
